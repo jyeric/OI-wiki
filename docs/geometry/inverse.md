@@ -1,92 +1,112 @@
 author: hyp1231, 383494
 
+
 ## 引入
+
 
 反演变换适用于题目中存在多个圆/直线之间的相切关系的情况。利用反演变换的性质，在反演空间求解问题，可以大幅简化计算。
 
+
 ## 定义
+
 
 给定反演中心点 $O$ 和反演半径 $R$。若平面上点 $P$ 和 $P'$ 满足：
 
--   点 $P'$ 在射线 $\overrightarrow{OP}$ 上
--   $|OP| \cdot |OP'| = R^2$
+
+- 点 $P'$ 在射线 $\overrightarrow{OP}$ 上
+- $|OP| \cdot |OP'| = R^2$
 
 则称点 $P$ 和点 $P'$ 互为反演点。
 
+
 ## 解释
+
 
 下图所示即为平面上一点 $P$ 的反演：
 
+
 ![Inv1](./images/inverse1.png)
+
 
 ## 性质
 
-1.  圆 $O$ 外的点的反演点在圆 $O$ 内，反之亦然；圆 $O$ 上的点的反演点为其自身。
 
-2.  不过点 $O$ 的圆 $A$，其反演图形也是不过点 $O$ 的圆。
+1. 圆 $O$ 外的点的反演点在圆 $O$ 内，反之亦然；圆 $O$ 上的点的反演点为其自身。
 
-    ![Inv2](./images/inverse2.png)
+2. 不过点 $O$ 的圆 $A$，其反演图形也是不过点 $O$ 的圆。
 
-    -   记圆 $A$ 半径为 $r_1$，其反演图形圆 $B$ 半径为 $r_2$，则有：
+   ![Inv2](./images/inverse2.png)
 
-        $$
-        r_2 = \frac{1}{2}\left(\frac{1}{|OA| - r_1} - \frac{1}{|OA| + r_1}\right) R^2
-        $$
+   - 记圆 $A$ 半径为 $r_1$，其反演图形圆 $B$ 半径为 $r_2$，则有：
 
-        **证明：**
+     $$
+     r_2 = \frac{1}{2}\left(\frac{1}{|OA| - r_1} - \frac{1}{|OA| + r_1}\right) R^2
+     $$
 
-        ![Inv3](./images/inverse3.png)
+     **证明：**
 
-        根据反演变换定义：
+     ![Inv3](./images/inverse3.png)
 
-        $$
-        \begin{aligned}
-        |OC|\cdot|OC'| &= (|OA|+r_1)\cdot(|OB|-r_2) = R^2 \\
-        |OD|\cdot|OD'| &= (|OA|-r_1)\cdot(|OB|+r_2) = R^2
-        \end{aligned}
-        $$
+     根据反演变换定义：
 
-        消掉 $|OB|$，解方程即可。
+     $$
+     \begin{aligned}
+     |OC|\cdot|OC'| &= (|OA|+r_1)\cdot(|OB|-r_2) = R^2 \
+     |OD|\cdot|OD'| &= (|OA|-r_1)\cdot(|OB|+r_2) = R^2
+     \end{aligned}
+     $$
 
-    -   记点 $O$ 坐标为 $(x_0, y_0)$，点 $A$ 坐标为 $x_1, y_1$，点 $B$ 坐标为 $x_2, y_2$，则有：
+     消掉 $|OB|$，解方程即可。
 
-        $$
-        \begin{aligned}
-        x_2 &= x_0 + \frac{|OB|}{|OA|} (x_1 - x_0) \\
-        y_2 &= y_0 + \frac{|OB|}{|OA|} (y_1 - y_0)
-        \end{aligned}
-        $$
+   - 记点 $O$ 坐标为 $(x_0, y_0)$，点 $A$ 坐标为 $x_1, y_1$，点 $B$ 坐标为 $x_2, y_2$，则有：
 
-        其中 $|OB|$ 可在上述求 $r_2$ 的过程中计算得到。
+     $$
+     \begin{aligned}
+     x_2 &= x_0 + \frac{|OB|}{|OA|} (x_1 - x_0) \
+     y_2 &= y_0 + \frac{|OB|}{|OA|} (y_1 - y_0)
+     \end{aligned}
+     $$
 
-3.  过点 $O$ 的圆 $A$，其反演图形是不过点 $O$ 的直线。
+     其中 $|OB|$ 可在上述求 $r_2$ 的过程中计算得到。
 
-    ??? note
-        为什么是一条直线呢？因为圆 $A$ 上无限接近点 $O$ 的一点，其反演点离点 $O$ 无限远。
 
-    ![Inv4](./images/inverse4.png)
+3. 过点 $O$ 的圆 $A$，其反演图形是不过点 $O$ 的直线。
 
-4.  两个图形相切且存在不为点 $O$ 的切点，则他们的反演图形也相切。
+   ??? note
+   为什么是一条直线呢？因为圆 $A$ 上无限接近点 $O$ 的一点，其反演点离点 $O$ 无限远。
+
+   ![Inv4](./images/inverse4.png)
+
+4. 两个图形相切且存在不为点 $O$ 的切点，则他们的反演图形也相切。
 
 ## 例题
 
-### [「ICPC 2013 杭州赛区」Problem of Apollonius](https://acm.hdu.edu.cn/showproblem.php?pid=4773)
+
+### [「ICPC 2013 杭州赛区」Problem of Apollonius](https://acm.hdu.edu.cn/showproblem.php?pid=4773)<sup>[[存档](https://web.archive.org/web/20240814100952/https://acm.hdu.edu.cn/showproblem.php?pid=4773)]</sup>
+
 
 #### 题目大意
 
+
 求过两圆外一点，且与两圆相切的所有的圆。
+
 
 #### 解法
 
+
 首先考虑解析几何解法，似乎很难求解。
+
 
 考虑以需要经过的点为反演中心进行反演（反演半径任意），所求的圆的反演图形是一条直线（应用性质 $3$），且与题目给出两圆的反演图形（性质 $2$）相切（性质 $4$）。
 
+
 于是题目经过反演变换后转变为：求两圆的所有公切线。
+
 
 求出公切线后，反演回原平面即可。
 
 ??? note "示例代码"
+
     ```cpp
     #include <algorithm>
     #include <cmath>
@@ -95,69 +115,69 @@ author: hyp1231, 383494
     #include <iostream>
     #include <vector>
     using namespace std;
-    
+
     constexpr double EPS = 1e-8;   // 精度系数
     const double PI = acos(-1.0);  // π
     constexpr int N = 4;
-    
+
     // 点的定义
     struct Point {
       double x, y;
-    
+
       Point(double x = 0, double y = 0) : x(x), y(y) {}
-    
+
       bool operator<(Point A) const { return x == A.x ? y < A.y : x < A.x; }
     };
-    
+
     // 向量的定义
     using Vector = Point;
-    
+
     // 向量加法
     Vector operator+(Vector A, Vector B) { return Vector(A.x + B.x, A.y + B.y); }
-    
+
     // 向量减法
     Vector operator-(Vector A, Vector B) { return Vector(A.x - B.x, A.y - B.y); }
-    
+
     // 向量数乘
     Vector operator*(Vector A, double p) { return Vector(A.x * p, A.y * p); }
-    
+
     // 向量数除
     Vector operator/(Vector A, double p) { return Vector(A.x / p, A.y / p); }
-    
+
     // 与0的关系
     int dcmp(double x) {
       if (fabs(x) < EPS) return 0;
       return x < 0 ? -1 : 1;
     }
-    
+
     // 向量点乘
     double Dot(Vector A, Vector B) { return A.x * B.x + A.y * B.y; }
-    
+
     // 向量长度
     double Length(Vector A) { return sqrt(Dot(A, A)); }
-    
+
     // 向量叉乘
     double Cross(Vector A, Vector B) { return A.x * B.y - A.y * B.x; }
-    
+
     // 点在直线上投影
     Point GetLineProjection(Point P, Point A, Point B) {
       Vector v = B - A;
       return A + v * (Dot(v, P - A) / Dot(v, v));
     }
-    
+
     // 圆
     struct Circle {
       Point c;
       double r;
-    
+
       Circle() : c(Point(0, 0)), r(0) {}
-    
+
       Circle(Point c, double r = 0) : c(c), r(r) {}
-    
+
       // 输入极角返回点坐标
       Point point(double a) { return Point(c.x + cos(a) * r, c.y + sin(a) * r); }
     };
-    
+
     // 两圆公切线 返回切线的条数，-1表示无穷多条切线
     // a[i] 和 b[i] 分别是第i条切线在圆A和圆B上的切点
     int getTangents(Circle A, Circle B, Point* a, Point* b) {
@@ -171,7 +191,7 @@ author: hyp1231, 383494
       double rdiff = A.r - B.r;
       double rsum = A.r + B.r;
       if (dcmp(d2 - rdiff * rdiff) < 0) return 0;  // 内含
-    
+
       double base = atan2(B.c.y - A.c.y, B.c.x - A.c.x);
       if (dcmp(d2) == 0 && dcmp(A.r - B.r) == 0) return -1;  // 无限多条切线
       if (dcmp(d2 - rdiff * rdiff) == 0) {  // 内切，一条切线
@@ -203,7 +223,7 @@ author: hyp1231, 383494
       }
       return cnt;
     }
-    
+
     // 点 O 在圆 A 外，求圆 A 的反演圆 B，R 是反演半径
     Circle Inversion_C2C(Point O, double R, Circle A) {
       double OA = Length(A.c - O);
@@ -213,7 +233,7 @@ author: hyp1231, 383494
       double By = O.y + (A.c.y - O.y) * OB / OA;
       return Circle(Point(Bx, By), RB);
     }
-    
+
     // 直线反演为过 O 点的圆 B，R 是反演半径
     Circle Inversion_L2C(Point O, double R, Point A, Vector v) {
       Point P = GetLineProjection(O, A, A + v);
@@ -222,12 +242,12 @@ author: hyp1231, 383494
       Vector VB = (P - O) / d * RB;
       return Circle(O + VB, RB);
     }
-    
+
     // 返回 true 如果 A B 两点在直线同侧
     bool theSameSideOfLine(Point A, Point B, Point S, Vector v) {
       return dcmp(Cross(A - S, v)) * dcmp(Cross(B - S, v)) > 0;
     }
-    
+
     int main() {
       int T;
       scanf("%d", &T);
@@ -252,19 +272,23 @@ author: hyp1231, 383494
           printf("%.8f %.8f %.8f\n", ansC[i].c.x, ansC[i].c.y, ansC[i].r);
         }
       }
-    
+
       return 0;
     }
     ```
 
 ## 练习
 
-[「ICPC 2017 南宁赛区网络赛」Finding the Radius for an Inserted Circle](https://nanti.jisuanke.com/t/A1283)
 
-[「CCPC 2017 网络赛」The Designer](https://acm.hdu.edu.cn/showproblem.php?pid=6158)
+[「ICPC 2017 南宁赛区网络赛」Finding the Radius for an Inserted Circle](https://nanti.jisuanke.com/t/A1283)<sup>[[存档](https://web.archive.org/web/20220625135100/https://nanti.jisuanke.com/t/A1283)]</sup>
+
+
+[「CCPC 2017 网络赛」The Designer](https://acm.hdu.edu.cn/showproblem.php?pid=6158)<sup>[[存档](https://web.archive.org/web/20240707090615/https://acm.hdu.edu.cn/showproblem.php?pid=6158)]</sup>
+
 
 ## 参考资料与拓展阅读
 
--   [Inversive geometry - Wikipedia](https://en.wikipedia.org/wiki/Inversive_geometry)
 
--   [圆的反演变换 - ACdreamers 的博客](https://blog.csdn.net/acdreamers/article/details/16966369)
+- [Inversive geometry - Wikipedia](https://en.wikipedia.org/wiki/Inversive_geometry)<sup>[[存档](https://web.archive.org/web/20211221133913/https://en.wikipedia.org/wiki/Inversive_geometry)]</sup>
+
+- [圆的反演变换 - ACdreamers 的博客](https://blog.csdn.net/acdreamers/article/details/16966369)<sup>[[存档](https://web.archive.org/web/20221025131749/https://blog.csdn.net/acdreamers/article/details/16966369)]</sup>

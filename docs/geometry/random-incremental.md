@@ -1,66 +1,85 @@
 author: Ir1d, TianyiQ
 
+
 ## 引入
+
 
 随机增量算法是计算几何的一个重要算法，它对理论知识要求不高，算法时间复杂度低，应用范围广大。
 
+
 增量法 (Incremental Algorithm) 的思想与第一数学归纳法类似，它的本质是将一个问题化为规模刚好小一层的子问题。解决子问题后加入当前的对象。写成递归式是：
+
 
 $$
 T(n)=T(n-1)+g(n)
 $$
 
+
 增量法形式简洁，可以应用于许多的几何题目中。
+
 
 增量法往往结合随机化，可以避免最坏情况的出现。
 
+
 ## 最小圆覆盖问题
+
 
 ### 题意描述
 
+
 在一个平面上有 $n$ 个点，求一个半径最小的圆，能覆盖所有的点。
+
 
 ### 过程
 
+
 假设圆 $O$ 是前 $i-1$ 个点的最小覆盖圆，加入第 $i$ 个点，如果在圆内或边上则什么也不做。否则，新得到的最小覆盖圆肯定经过第 $i$ 个点。
+
 
 然后以第 $i$ 个点为基础（半径为 $0$），重复以上过程依次加入第 $j$ 个点，若第 $j$ 个点在圆外，则最小覆盖圆必经过第 $j$ 个点。
 
+
 重复以上步骤。（因为最多需要三个点来确定这个最小覆盖圆，所以重复三次）
+
 
 遍历完所有点之后，所得到的圆就是覆盖所有点得最小圆。
 
+
 ### 性质
+
 
 **时间复杂度**  $O(n)$，证明详见参考资料。
 
+
 **空间复杂度**  $O(n)$
+
 
 ### 实现
 
 ??? note "代码实现"
+
     ```cpp
     #include <cmath>
     #include <cstdio>
     #include <cstdlib>
     #include <cstring>
     #include <iostream>
-    
+
     using namespace std;
-    
+
     int n;
     double r;
-    
+
     struct point {
       double x, y;
     } p[100005], o;
-    
+
     double sqr(double x) { return x * x; }
-    
+
     double dis(point a, point b) { return sqrt(sqr(a.x - b.x) + sqr(a.y - b.y)); }
-    
+
     bool cmp(double a, double b) { return fabs(a - b) < 1e-8; }
-    
+
     point geto(point a, point b, point c) {
       double a1, a2, b1, b2, c1, c2;
       point ans;
@@ -80,7 +99,7 @@ $$
       }
       return ans;
     }
-    
+
     int main() {
       scanf("%d", &n);
       for (int i = 1; i <= n; i++) scanf("%lf%lf", &p[i].x, &p[i].y);
@@ -110,18 +129,26 @@ $$
 
 ## 练习
 
-[最小圆覆盖](https://www.luogu.com.cn/problem/P1742)
 
-[「HNOI2012」射箭](https://www.luogu.com.cn/problem/P3222)
+[最小圆覆盖](https://www.luogu.com.cn/problem/P1742)<sup>[[存档](https://web.archive.org/web/20241224210842/https://www.luogu.com.cn/problem/P1742)]</sup>
 
-[CodeForces 442E](https://codeforces.com/problemset/problem/442/E)
+
+[「HNOI2012」射箭](https://www.luogu.com.cn/problem/P3222)<sup>[[存档](https://web.archive.org/web/20210416111732/https://www.luogu.com.cn/problem/P3222)]</sup>
+
+
+[CodeForces 442E](https://codeforces.com/problemset/problem/442/E)<sup>[[存档](https://web.archive.org/web/20210923015347/https://codeforces.com/problemset/problem/442/E)]</sup>
+
 
 ## 参考资料与扩展阅读
 
-<http://www.doc88.com/p-007257893177.html>
 
-<https://www.cnblogs.com/aininot260/p/9635757.html>
+<http://www.doc88.com/p-007257893177.html><sup>[[存档](https://web.archive.org/web/20241224210336/http://www.doc88.com/p-007257893177.html)]</sup>
 
-<https://wenku.baidu.com/view/162699d63186bceb19e8bbe6.html>
 
-<https://blog.csdn.net/u014609452/article/details/62039612>
+<https://www.cnblogs.com/aininot260/p/9635757.html><sup>[[存档](https://web.archive.org/web/20221205015545/https://www.cnblogs.com/aininot260/p/9635757.html)]</sup>
+
+
+<https://wenku.baidu.com/view/162699d63186bceb19e8bbe6.html><sup>[[存档](https://web.archive.org/web/20221117114337/https://wenku.baidu.com/view/162699d63186bceb19e8bbe6.html)]</sup>
+
+
+<https://blog.csdn.net/u014609452/article/details/62039612><sup>[[存档](https://web.archive.org/web/20241225140234/https://blog.csdn.net/u014609452/article/details/62039612)]</sup>

@@ -1,26 +1,38 @@
 本页面将简要介绍堆排序。
 
+
 ## 定义
+
 
 堆排序（英语：Heapsort）是指利用 [二叉堆](../ds/binary-heap.md) 这种数据结构所设计的一种排序算法。堆排序的适用数据结构为数组。
 
+
 ## 过程
+
 
 堆排序的本质是建立在堆上的选择排序。
 
+
 ### 排序
+
 
 首先建立大顶堆，然后将堆顶的元素取出，作为最大值，与数组尾部的元素交换，并维持残余堆的性质；
 
+
 之后将堆顶的元素取出，作为次大值，与数组倒数第二位元素交换，并维持残余堆的性质；
+
 
 以此类推，在第 $n-1$ 次操作后，整个数组就完成了排序。
 
+
 ### 在数组上建立二叉堆
+
 
 从根节点开始，依次将每一层的节点排列在数组里。
 
+
 于是有数组中下标为 `i` 的节点，对应的父结点、左子结点和右子结点如下：
+
 
 ```cpp
 iParent(i) = (i - 1) / 2;
@@ -28,23 +40,32 @@ iLeftChild(i) = 2 * i + 1;
 iRightChild(i) = 2 * i + 2;
 ```
 
+
 ## 性质
+
 
 ### 稳定性
 
+
 同选择排序一样，由于其中交换位置的操作，所以是不稳定的排序算法。
+
 
 ### 时间复杂度
 
+
 堆排序的最优时间复杂度、平均时间复杂度、最坏时间复杂度均为 $O(n\log n)$。
+
 
 ### 空间复杂度
 
+
 由于可以在输入数组上建立堆，所以这是一个原地算法。
+
 
 ## 实现
 
 === "C++"
+
     ```cpp
     void sift_down(int arr[], int start, int end) {
       // 计算父结点和子结点的下标
@@ -63,7 +84,7 @@ iRightChild(i) = 2 * i + 2;
         }
       }
     }
-    
+
     void heap_sort(int arr[], int len) {
       // 从最后一个节点的父节点开始 sift down 以完成堆化 (heapify)
       for (int i = (len - 1 - 1) / 2; i >= 0; i--) sift_down(arr, i, len - 1);
@@ -76,6 +97,7 @@ iRightChild(i) = 2 * i + 2;
     ```
 
 === "Python"
+
     ```python
     def sift_down(arr, start, end):
         # 计算父结点和子结点的下标
@@ -92,8 +114,8 @@ iRightChild(i) = 2 * i + 2;
                 arr[parent], arr[child] = arr[child], arr[parent]
                 parent = child
                 child = int(parent * 2 + 1)
-    
-    
+
+
     def heap_sort(arr, len):
         # 从最后一个节点的父节点开始 sift down 以完成堆化 (heapify)
         i = (len - 1 - 1) / 2
@@ -110,4 +132,5 @@ iRightChild(i) = 2 * i + 2;
 
 ## 外部链接
 
--   [堆排序 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E5%A0%86%E6%8E%92%E5%BA%8F)
+
+- [堆排序 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E5%A0%86%E6%8E%92%E5%BA%8F)<sup>[[存档](https://web.archive.org/web/20250621121154/https://zh.wikipedia.org/wiki/%E5%A0%86%E6%8E%92%E5%BA%8F)]</sup>

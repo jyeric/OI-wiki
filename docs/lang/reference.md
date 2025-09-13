@@ -1,20 +1,26 @@
 > 声明具名变量为引用，即既存对象或函数的别名。
 
+
 引用可以看成是 C++ 封装的非空指针，可以用来传递它所指向的对象，在声明时必须指向对象。
+
 
 引用不是对象，因此不存在引用的数组、无法获取引用的指针，也不存在引用的引用。
 
 ??? note "引用类型不属于对象类型"
-    如果想让引用能完成一般的复制、赋值等操作，比如作为容器元素，则需要 [`reference_wrapper`](https://zh.cppreference.com/w/cpp/utility/functional/reference_wrapper)，通常维护一个非空指针实现。
+
+    如果想让引用能完成一般的复制、赋值等操作，比如作为容器元素，则需要 [`reference_wrapper`](https://zh.cppreference.com/w/cpp/utility/functional/reference_wrapper)<sup>[[存档](https://web.archive.org/web/20230216170542/https://zh.cppreference.com/w/cpp/utility/functional/reference_wrapper)]</sup>，通常维护一个非空指针实现。
 
 引用主要分为两种，左值引用和右值引用。
 
 ??? note "左值和右值"
+
     对左值和右值的讲解，请参考 [值类别](./value-category.md) 页面。
 
 ## 左值引用 T&
 
-通常我们会接触到的引用为左值引用，即绑定到左值的引用，同时 `const` 限定的左值引用可以绑定右值。以下是来自 [参考手册](https://zh.cppreference.com/w/cpp/language/reference) 的一段示例代码。
+
+通常我们会接触到的引用为左值引用，即绑定到左值的引用，同时 `const` 限定的左值引用可以绑定右值。以下是来自 [参考手册](https://zh.cppreference.com/w/cpp/language/reference)<sup>[[存档](https://web.archive.org/web/20181120201633/https://zh.cppreference.com/w/cpp/language/reference)]</sup> 的一段示例代码。
+
 
 ```cpp
 #include <iostream>
@@ -31,7 +37,9 @@ int main() {
 }
 ```
 
+
 左值引用最常用的地方是函数参数，用于避免不需要的拷贝。
+
 
 ```cpp
 #include <iostream>
@@ -51,9 +59,12 @@ int main() {
 }
 ```
 
+
 ## 右值引用 T&&（C++ 11）
 
+
 右值引用是绑定到右值的引用，用于移动对象，也可以用于 **延长临时对象生存期**。
+
 
 ```cpp
 #include <iostream>
@@ -81,87 +92,101 @@ int main() {
 }
 ```
 
+
 ## 悬垂引用
+
 
 当引用指代的对象已经销毁，引用就会变成悬垂引用，访问悬垂引用这是一种未定义行为，可能会导致程序崩溃。
 
+
 以下为常见的悬垂引用的例子：
 
--   引用局部变量
 
-    ```cpp
-    #include <iostream>
+- 引用局部变量
 
-    int& foo() {
-      int a = 1;
-      return a;
-    }
+  ```cpp
+  #include <iostream>
 
-    int main() {
-      int& b = foo();
-      std::cout << b << std::endl;  // 未定义行为
-    }
-    ```
+  int& foo() {
+    int a = 1;
+    return a;
+  }
 
--   解分配导致的悬垂引用
+  int main() {
+    int& b = foo();
+    std::cout << b << std::endl;  // 未定义行为
+  }
+  ```
 
-    ```cpp
-    #include <iostream>
+- 解分配导致的悬垂引用
 
-    int main() {
-      int* ptr = new int(10);
-      int& ref = *ptr;
-      delete ptr;
+  ```cpp
+  #include <iostream>
 
-      std::cout << ref << std::endl;  // 未定义行为
-    }
-    ```
+  int main() {
+    int* ptr = new int(10);
+    int& ref = *ptr;
+    delete ptr;
 
--   内存重分配导致的悬垂引用
+    std::cout << ref << std::endl;  // 未定义行为
+  }
+  ```
 
-    ```cpp
-    #include <iostream>
+- 内存重分配导致的悬垂引用
 
-    int main() {
-      std::string str = "hello";
+  ```cpp
+  #include <iostream>
 
-      const char& ref = str.front();
+  int main() {
+    std::string str = "hello";
 
-      str.append("world");  // 可能会重新分配内存，导致 ref 指向的内存被释放
+    const char& ref = str.front();
 
-      std::cout << ref << std::endl;  // 未定义行为
-    }
-    ```
+    str.append("world");  // 可能会重新分配内存，导致 ref 指向的内存被释放
 
-    类似 `std::vector`，`std::unordered_map` 等容器的插入操作，均有可能导致内存重新分配。
+    std::cout << ref << std::endl;  // 未定义行为
+  }
+  ```
+
+  类似 `std::vector`，`std::unordered_map` 等容器的插入操作，均有可能导致内存重新分配。
 
 使用引用时，应时刻关注引用指向的对象的生命周期，避免造成悬垂引用。
 
+
 通常静态检查工具和良好的代码习惯能让我们避免悬垂引用的问题。
+
 
 ## 引用相关的优化技巧
 
+
 ### 消除非轻量对象入参的拷贝开销
+
 
 常见的 **非轻量对象** 有：
 
--   容器 `vector`，`array`，`map` 等
--   `string`
--   其他实现了或继承了自定义拷贝构造、移动构造等特殊函数的类型
+
+- 容器 `vector`，`array`，`map` 等
+- `string`
+- 其他实现了或继承了自定义拷贝构造、移动构造等特殊函数的类型
 
 而对 **轻量对象** 使用引用不能带来任何好处，引用类型作为参数的空间占用大小，甚至可能会比类型本身还大。
 
+
 这可能会带来些的性能负担，同时可能会阻止编译器优化。
+
 
 以下属于 **轻量对象**
 
--   基本类型 `int`，`float` 等
--   较小的 [聚合体类型](https://zh.cppreference.com/w/cpp/language/aggregate_initialization)
--   标准库容器的迭代器
+
+- 基本类型 `int`，`float` 等
+- 较小的 [聚合体类型](https://zh.cppreference.com/w/cpp/language/aggregate_initialization)<sup>[[存档](https://web.archive.org/web/20250520231334/https://zh.cppreference.com/w/cpp/language/aggregate_initialization)]</sup>
+- 标准库容器的迭代器
 
 ### 将左值转换为右值
 
+
 使用 `std::move` [转移](./value-category.md#stdmove) 对象的所有权。这通常见于局部变量之间，或参数与局部变量之间：
+
 
 ```cpp
 #include <iostream>
@@ -191,14 +216,19 @@ int main() {
 }
 ```
 
-但不是所有时候都需要这么做，比如 [函数返回值优化](./value-category.md#常见误区)。
+
+但不是所有时候都需要这么做，比如 [函数返回值优化](./value-category.md#%E5%B8%B8%E8%A7%81%E8%AF%AF%E5%8C%BA)。
+
 
 ### 右值延长临时量生命期
 
-从语义上，临时量可能会带来的额外的复制或移动，尽管多数情况下编译器能通过 [复制消除](./value-category.md#复制消除) 进行优化，但引用能强制编译器不进行这些多余操作，避免不确定性。
+
+从语义上，临时量可能会带来的额外的复制或移动，尽管多数情况下编译器能通过 [复制消除](./value-category.md#%E5%A4%8D%E5%88%B6%E6%B6%88%E9%99%A4) 进行优化，但引用能强制编译器不进行这些多余操作，避免不确定性。
+
 
 ## 参考内容
 
-1.  [C++ 语言文档——引用声明](https://zh.cppreference.com/w/cpp/language/reference)
-2.  [C++ 语言文档——值类别](https://zh.cppreference.com/w/cpp/language/value_category)
-3.  [Does const ref lvalue to non-const func return value specifically reduce copies?](https://stackoverflow.com/questions/38909228/does-const-ref-lvalue-to-non-const-func-return-value-specifically-reduce-copies)
+
+1. [C++ 语言文档——引用声明](https://zh.cppreference.com/w/cpp/language/reference)<sup>[[存档](https://web.archive.org/web/20181120201633/https://zh.cppreference.com/w/cpp/language/reference)]</sup>
+2. [C++ 语言文档——值类别](https://zh.cppreference.com/w/cpp/language/value_category)<sup>[[存档](https://web.archive.org/web/20250824043625/https://zh.cppreference.com/w/cpp/language/value_category)]</sup>
+3. [Does const ref lvalue to non-const func return value specifically reduce copies?](https://stackoverflow.com/questions/38909228/does-const-ref-lvalue-to-non-const-func-return-value-specifically-reduce-copies)<sup>[[存档](https://web.archive.org/web/20170326022015/https://stackoverflow.com/questions/38909228/does-const-ref-lvalue-to-non-const-func-return-value-specifically-reduce-copies)]</sup>

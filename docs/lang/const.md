@@ -1,12 +1,17 @@
 C++ 定义了一套完整的只读量定义方法，被 `const` 修饰的变量都是只读量，编译器会在编译期进行冲突检查，避免对只读量的修改，同时可能会执行一些优化。
 
+
 在通常情况下，应该尽可能使用 `const` 修饰变量、参数，提高代码健壮性。
+
 
 ## `const` 类型限定符
 
+
 ### 常量
 
+
 const 修饰的变量在初始化后不可改变值
+
 
 ```cpp
 const int a = 0;  // a 的类型为 const int
@@ -14,9 +19,12 @@ const int a = 0;  // a 的类型为 const int
 // a = 1; // 不能修改常量
 ```
 
+
 ### 常量引用、常量指针
 
+
 常量引用和常量指针均限制了对指向的值的修改
+
 
 ```cpp
 int a = 0;
@@ -37,7 +45,9 @@ const int &r2 = a;
 const int &r4 = b;
 ```
 
+
 另外需要区分开的是常量指针（`const t*`）和指针常量（`t* const`)，例如下列声明
+
 
 ```cpp
 int* const p1;  // 指针常量，初始化后指向地址不可改，可更改指向的值
@@ -50,7 +60,9 @@ using ptr_to_const_int = const_int*;
 using const_ptr_to_const_int = const ptr_to_const_int;
 ```
 
+
 在函数参数里使用 `const` 限定参数类型，可以避免变量被错误地修改，同时增加代码可读性
+
 
 ```cpp
 void sum(const std::vector<int> &data, int &total) {
@@ -59,9 +71,12 @@ void sum(const std::vector<int> &data, int &total) {
 }
 ```
 
+
 ## `const` 成员函数
 
+
 类型中 `const` 限定的成员函数，可以用来限制对成员的修改。
+
 
 ```cpp
 #include <iostream>
@@ -91,18 +106,22 @@ int main() {
 }
 ```
 
+
 ## 常量表达式 `constexpr`（C++11）
 
+
 常量表达式是指编译时能计算出结果的表达式，`constexpr` 则要求编译器能在编译时求得函数或变量的值。
+
 
 编译时计算能允许更好的优化，比如将结果硬编码到汇编中，消除运行时计算开销。与 `const` 的带来的优化不同，当 `constexpr` 修饰的变量满足常量表达式的条件，就强制要求编译器在编译时计算出结果而非运行时。
 
 ???+ note " 更直观的理解是把 `const` 理解成「只读」，`constexpr` 理解成「不可变」"
+
     ```cpp
     constexpr int a = 10;  // 直接定义常量
-    
+
     constexpr int FivePlus(int x) { return 5 + x; }
-    
+
     void test(const int x) {
       std::array<x> c1;            // 错误，x在编译时不可知
       std::array<FivePlus(6)> c2;  // 可行，FivePlus编译时可知
@@ -112,21 +131,22 @@ int main() {
 以下例子很好说明了 `const` 和 `constexpr` 的区别，代码使用递归实现计算斐波那契数列，并用控制流输出。
 
 ???+ note "实现"
+
     ```cpp
     #include <iostream>
-    
+
     using namespace std;
-    
+
     constexpr unsigned fib0(unsigned n) {
       return n <= 1 ? 1 : (fib0(n - 1) + fib0(n - 2));
     }
-    
+
     unsigned fib1(unsigned n) { return n <= 1 ? 1 : (fib1(n - 1) + fib1(n - 2)); }
-    
+
     int main() {
       constexpr auto v0 = fib0(9);
       const auto v1 = fib1(9);
-    
+
       cout << v0;
       cout << ' ';
       cout << v1;
@@ -134,6 +154,7 @@ int main() {
     ```
 
 ???+ note "编译后的可能的汇编代码（使用 Compiler Explorer，Clang 19）"
+
     ```nasm
     fib1(unsigned int):
             push    r14
@@ -158,7 +179,7 @@ int main() {
             pop     rbx
             pop     r14
             ret
-    
+
     main:
             push    r14
             push    rbx
@@ -187,25 +208,30 @@ int main() {
 
 `constexpr` 修饰的 `fib0` 函数在唯一的调用处用了常量参数，使得整个函数仅在编译期运行。由于函数没有运行时执行，编译器也就判断不需要生成汇编代码。
 
+
 在同时注意到汇编中，`v0` 没有初始化代码，在调用 `cout` 输出 `v0` 的代码中，`v0` 已被最终结算结果替代，说明变量值已在编译时求出，优化掉了运行时运算。
 而 `v1` 的初始化还是普通的 `fib1` 递归调用。
 
-所以 `constexpr` 可以用来替换宏定义的常量，规避 [宏定义的风险](./basic.md#define-命令)。
+
+所以 `constexpr` 可以用来替换宏定义的常量，规避 [宏定义的风险](./basic.md#define-%E5%91%BD%E4%BB%A4)。
+
 
 算法题中可以使用 `constexpr` 存储数据规模较小的变量，以消除对应的运行时计算开销。尤为常见在「[打表](../contest/dictionary.md)」技巧中，使用 `constexpr` 修饰的数组等容器存储答案。
 
 ???+ note "编译时计算量过大会导致编译错误"
+
     编译器会限制编译时计算的开销，如果计算量过大会导致无法通过编译，应该考虑使用 `const`。
-    
+
+
     ```cpp
     #include <iostream>
-    
+
     using namespace std;
-    
+
     constexpr unsigned long long fib(unsigned long long i) {
       return i <= 2 ? i : fib(i - 2) + fib(i - 1);
     }
-    
+
     int main() {
       // constexpr auto v = fib(32); evaluation exceeded maximum depth
       const auto v = fib(32);
@@ -215,6 +241,7 @@ int main() {
     ```
 
 ???+ note "使用 constexpr 时 Clang 给出的编译错误"
+
     ```text
     <source>:10:20: error: constexpr variable 'v' must be initialized by a constant expression
         10 |     constexpr auto v = fib(32);
@@ -230,5 +257,6 @@ int main() {
 
 ## 参考资料
 
--   [C++ 关键字——const](https://zh.cppreference.com/w/cpp/keyword/const)
--   [C++ 关键字——constexpr](https://zh.cppreference.com/w/cpp/keyword/constexpr)
+
+- [C++ 关键字——const](https://zh.cppreference.com/w/cpp/keyword/const)<sup>[[存档](https://web.archive.org/web/20171103021434/https://zh.cppreference.com/w/cpp/keyword/const)]</sup>
+- [C++ 关键字——constexpr](https://zh.cppreference.com/w/cpp/keyword/constexpr)<sup>[[存档](https://web.archive.org/web/20171229034447/https://zh.cppreference.com/w/cpp/keyword/constexpr)]</sup>
