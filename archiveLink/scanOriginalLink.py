@@ -41,7 +41,7 @@ def detectURL(link):
         return -2 # Need to check later
     
 def main():
-    content = readExistingFile('data/data.json')
+    content = readExistingFile('archiveLink/data/data.json')
     updateContent = content
     cnt = 0
     tot = len(content)
