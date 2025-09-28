@@ -46,7 +46,7 @@ def main():
     cnt = 0
     tot = len(content)
     for key, value in content.items():
-        if key["fail"] == True:
+        if value["fail"] == True:
             continue
         cnt += 1
         status = detectURL(key)

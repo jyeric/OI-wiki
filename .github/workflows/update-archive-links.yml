@@ -1,9 +1,6 @@
 name: Add new archive links
 
 on:
-  push:
-    branches:
-      - master
   pull_request:
     branches:
       - master
