@@ -58,7 +58,7 @@ def main():
             updateContent[key]["fail"] = True
 
     j = json.dumps(updateContent, indent=4, ensure_ascii=False)
-    with open("data/data.json", "w", encoding="utf-8") as f:
+    with open("archiveLink/data/data.json", "w", encoding="utf-8") as f:
         f.write(j)
 
 if __name__ == '__main__':
