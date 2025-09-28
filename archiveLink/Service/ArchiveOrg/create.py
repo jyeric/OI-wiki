@@ -5,11 +5,6 @@ import time
 
 SAVE_URL = "https://web.archive.org/save/{}"
 
-proxies = {
-    "http": "http://127.0.0.1:10809",
-    "https": "http://127.0.0.1:10809"
-}
-
 def retry_request(func, *args, retries=3, **kwargs):
     for attempt in range(retries):
         try:
@@ -34,7 +29,6 @@ def save(url):
         requests.post,
         save_link,
         data=payload,
-        proxies=proxies,
         impersonate="chrome136",
         timeout=1800,
         allow_redirects=True,
