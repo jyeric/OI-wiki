@@ -37,13 +37,11 @@ def links_to_be_saved(content, days=90):
     """获取需要存档的链接并存档
     """
     for key, value in content.items():
-        linkCnt += 1
         if inBlacklist(key) == True:
             continue
         a = latest_snapshot(key)
         if a == None:
-            failureCnt += 1
-            print(f"{failureCnt}/{linkCnt} network fail: {key}")
+            print(f"network fail: {key}")
             continue
         try:
             latest_ts = int(a.split('/')[4])
