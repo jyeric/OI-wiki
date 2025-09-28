@@ -22,9 +22,9 @@ jobs:
         with:
           python-version: '3.9'
       - name: Install Python dependencies
-        run: pip install -r ../requirements.txt
+        run: pip install -r archiveLink/requirements.txt
       - name: Scan all the links in the repo
-        run: python ../regularArchive.py
+        run: python archiveLink/regularArchive.py
       - name: Upload data.json
         run: |
           if [[ -n "$(git status --porcelain)" ]]; then

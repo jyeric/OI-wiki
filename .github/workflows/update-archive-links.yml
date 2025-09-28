@@ -26,9 +26,9 @@ jobs:
         with:
           python-version: '3.9'
       - name: Install Python dependencies
-        run: pip install -r ../requirements.txt
+        run: pip install -r archiveLink/requirements.txt
       - name: Update data.json based on latest commit
-        run: python ../archiveNewLink.py
+        run: python archiveLink/archiveNewLink.py
       - name: Upload data.json
         run: |
           if [[ -n "$(git status --porcelain)" ]]; then
