@@ -22,8 +22,7 @@ jobs:
         with:
           python-version: '3.9'
       - name: Install Python dependencies
-        run: pip install -r requirements.txt
-        working-directory: archiveLink
+        run: pip install -r archiveLink/requirements.txt
       - name: Scan all the links in the repo
         run: python archive/regularArchive.py
       - name: Upload data.json

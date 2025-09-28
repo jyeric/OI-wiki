@@ -26,8 +26,7 @@ jobs:
         with:
           python-version: '3.9'
       - name: Install Python dependencies
-        run: pip install -r requirements.txt
-        working-directory: archiveLink
+        run: pip install -r archiveLink/requirements.txt
       - name: Update data.json based on latest commit
         run: python archive/archiveNewLink.py
       - name: Upload data.json
