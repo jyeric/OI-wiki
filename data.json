@@ -22768,6 +22768,26 @@
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/wd2v"
     },
+    "https://a.00.mk": {
+        "file": [
+            "docs/topic/test.md"
+        ],
+        "status": 1,
+        "failTime": 0,
+        "fail": false,
+        "archiveLink": "https://web.archive.org/web/20250929110517/https://a.00.mk/public/",
+        "shortArchiveLink": "https://d.00.mk/q9KD"
+    },
+    "https://d.00.mk": {
+        "file": [
+            "docs/topic/test.md"
+        ],
+        "status": 1,
+        "failTime": 0,
+        "fail": false,
+        "archiveLink": "https://web.archive.org/web/20250303050710/https://d.00.mk",
+        "shortArchiveLink": "https://d.00.mk/gEGq"
+    },
     "https://www.luogu.com.cn/problem/P5787": {
         "files": [
             "docs/topic/segment-tree-offline.md"
