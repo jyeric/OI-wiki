@@ -56,7 +56,7 @@
             "docs/string/sam.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250203003237/https://www.spoj.com/problems/LCS2/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/ZF6C"
@@ -96,7 +96,7 @@
             "docs/string/hash.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250902075935/http://codeforces.com/contest/1200/problem/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/PTc6"
@@ -136,7 +136,7 @@
             "docs/string/pam.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240620124308/https://codeforces.com/problemset/problem/932/G",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/uR26"
@@ -217,7 +217,7 @@
             "docs/string/pam.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250906092817/https://codeforces.com/blog/entry/19193",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/ZZpL"
@@ -309,7 +309,7 @@
             "docs/string/z-func.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250713135050/http://codeforces.com/problemset/problem/126/B",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/vxUx"
@@ -361,7 +361,7 @@
             "docs/string/z-func.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250731113532/http://codeforces.com/problemset/problem/432/D",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/B5Ol"
@@ -411,7 +411,7 @@
             "docs/string/manacher.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250503063702/https://codeforces.com/contest/1326/problem/D2",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/cZwi"
@@ -462,7 +462,7 @@
             "docs/string/sam.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250203003241/https://www.spoj.com/problems/SUBLEX/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/JHGd"
@@ -482,7 +482,7 @@
             "docs/string/sam.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250622053752/https://www.spoj.com/problems/LCS/en/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/jyA2"
@@ -492,7 +492,7 @@
             "docs/string/sam.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240624134400/https://codeforces.com/problemset/problem/1037/H",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/drc3"
@@ -502,7 +502,7 @@
             "docs/string/sam.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240907162058/https://codeforces.com/problemset/problem/666/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/xUjo"
@@ -543,7 +543,7 @@
             "docs/string/suffix-tree.md"
         ],
         "archiveLink": "https://web.archive.org/web/20210925053059/https://codeforces.com/problemset/problem/235/C",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/3mF6"
@@ -583,7 +583,7 @@
             "docs/string/sam.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250831173100/https://codeforces.com/blog/entry/20861",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/r40o"
@@ -783,7 +783,7 @@
             "docs/string/sa.md"
         ],
         "archiveLink": "https://web.archive.org/web/20221220025431/http://codeforces.com/problemset/problem/149/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/SIQg"
@@ -793,7 +793,7 @@
             "docs/string/sa.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240221145825/http://codeforces.com/problemset/problem/204/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/ITFC"
@@ -803,7 +803,7 @@
             "docs/string/sa.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250710101055/http://www.spoj.com/problems/ADAPHOTO/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/xzqo"
@@ -813,7 +813,7 @@
             "docs/string/sa.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241208124326/http://www.spoj.com/problems/ADASTRNG/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/wQdA"
@@ -833,7 +833,7 @@
             "docs/string/sa.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250622053752/http://www.spoj.com/problems/LCS/en/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/paJH"
@@ -863,7 +863,7 @@
             "docs/string/sa.md"
         ],
         "archiveLink": "https://web.archive.org/web/20230519103237/http://codeforces.com/gym/100923/problem/D",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/JyX7"
@@ -973,7 +973,7 @@
             "docs/string/sa.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250217150103/http://www.spoj.com/problems/SARRAY/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/jz1X"
@@ -983,7 +983,7 @@
             "docs/string/sa.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240229233154/https://codeforces.com/gym/102470/problem/J",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/dYpo"
@@ -993,7 +993,7 @@
             "docs/string/sa.md"
         ],
         "archiveLink": "https://web.archive.org/web/20140813022812/http://www.spoj.com/problems/LCS2/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/DJti"
@@ -1003,7 +1003,7 @@
             "docs/string/sa.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240429141153/http://codeforces.com/contest/802/problem/I",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Spr4"
@@ -1013,7 +1013,7 @@
             "docs/string/sa.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241206194620/http://www.spoj.com/problems/LONGCS/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/kLfU"
@@ -1023,7 +1023,7 @@
             "docs/string/sa.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250203003241/http://www.spoj.com/problems/SUBLEX/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/SJ8s"
@@ -1033,7 +1033,7 @@
             "docs/string/sa.md"
         ],
         "archiveLink": "https://web.archive.org/web/20230908063619/http://codeforces.com/contest/873/problem/F",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Xxyf"
@@ -1043,7 +1043,7 @@
             "docs/string/sa.md"
         ],
         "archiveLink": "https://web.archive.org/web/20221216123622/http://codeforces.com/contest/30/problem/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Lj8S"
@@ -1053,7 +1053,7 @@
             "docs/string/sa.md"
         ],
         "archiveLink": null,
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": null
@@ -1285,7 +1285,7 @@
             "docs/string/kmp.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250622044109/http://www.spoj.com/problems/NAJPF/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/W5Fw"
@@ -1295,7 +1295,7 @@
             "docs/string/kmp.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250325003734/http://codeforces.com/contest/808/problem/G",
-        "status": 0,
+        "status": -1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/YMRp"
@@ -1305,7 +1305,7 @@
             "docs/string/kmp.md"
         ],
         "archiveLink": "https://web.archive.org/web/20231210070002/http://codeforces.com/problemset/problem/471/D",
-        "status": 0,
+        "status": -1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/ZbDL"
@@ -1376,7 +1376,7 @@
             "docs/string/bm.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250714065714/https://dl.acm.org/doi/10.1145/359842.359859",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/DjUV"
@@ -1587,7 +1587,7 @@
             "docs/ds/decompose.md"
         ],
         "archiveLink": "https://web.archive.org/web/20211026173532/http://www.spoj.com/problems/GIVEAWAY/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/LKG2"
@@ -1597,7 +1597,7 @@
             "docs/ds/decompose.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241231195445/http://codeforces.com/contest/786/problem/C",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Whwn"
@@ -1607,7 +1607,7 @@
             "docs/ds/decompose.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250726233651/http://codeforces.com/contest/840/problem/D",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/YFnE"
@@ -1617,7 +1617,7 @@
             "docs/ds/decompose.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241231195451/http://codeforces.com/contest/13/problem/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/HuaN"
@@ -1627,7 +1627,7 @@
             "docs/ds/decompose.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241231195447/https://codeforces.com/problemset/problem/617/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/5IeT"
@@ -1637,7 +1637,7 @@
             "docs/ds/decompose.md"
         ],
         "archiveLink": "https://web.archive.org/web/20210923220028/http://codeforces.com/problemset/problem/86/D",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/nEFA"
@@ -1647,7 +1647,7 @@
             "docs/ds/decompose.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241231195444/https://www.spoj.com/problems/DQUERY",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/euG5"
@@ -1698,7 +1698,7 @@
             "docs/ds/pq-tree.md"
         ],
         "archiveLink": "https://web.archive.org/web/20231210014528/https://codeforces.com/problemset/problem/243/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/RgXC"
@@ -1708,7 +1708,7 @@
             "docs/ds/pq-tree.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241118055653/https://codeforces.com/contest/1552/problem/I",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/WD3y"
@@ -1831,7 +1831,7 @@
             "docs/ds/binary-heap.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250119174921/https://www.spoj.com/problems/RMID2/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/pBMW"
@@ -1841,7 +1841,7 @@
             "docs/ds/binary-heap.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241214221242/https://www.spoj.com/problems/RMID",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/9OL2"
@@ -2023,7 +2023,7 @@
             "docs/ds/lct.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250818005703/https://www.spoj.com/problems/QTREE5",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Ng6Q"
@@ -2421,7 +2421,7 @@
             "docs/ds/seg.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241211115811/https://acm.hdu.edu.cn/showproblem.php?pid=6356",
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/vIEL"
@@ -2431,7 +2431,7 @@
             "docs/ds/seg.md"
         ],
         "archiveLink": "https://web.archive.org/web/20221003085548/https://codeforces.com/problemset/problem/786/B",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/ichQ"
@@ -2644,7 +2644,7 @@
             "docs/ds/block-list.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250811144031/http://poj.org/problem?id=2887",
-        "status": 0,
+        "status": 1,
         "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/cXBn"
@@ -2654,7 +2654,7 @@
             "docs/ds/monotonous-queue.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250513133634/http://poj.org/problem?id=2823",
-        "status": 0,
+        "status": 1,
         "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/BUxL"
@@ -2767,7 +2767,7 @@
             "docs/ds/treap.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250908084454/http://codeforces.com/problemset/problem/702/F",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/PDH2"
@@ -2899,7 +2899,7 @@
             "docs/ds/dsu.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250916193058/https://www.spoj.com/problems/JMFILTER/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/sp8i"
@@ -3179,7 +3179,7 @@
             "docs/ds/li-chao-tree.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241214172637/https://codeforces.com/problemset/problem/932/F",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/fSlJ"
@@ -3209,7 +3209,7 @@
             "docs/ds/cat-tree.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240721220046/https://www.tandfonline.com/doi/full/10.1080/00029890.1977.11994336",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/n9Lc"
@@ -3219,7 +3219,7 @@
             "docs/ds/bit-in-block-array.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241231195508/https://codeforces.com/problemset/problem/1093/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/w34V"
@@ -3229,7 +3229,7 @@
             "docs/ds/bit-in-block-array.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241231195509/https://codeforces.com/contest/1436/problem/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/K99Y"
@@ -3560,7 +3560,7 @@
             "docs/ds/seg-in-bit.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250805233248/http://poj.org/problem?id=2104",
-        "status": 0,
+        "status": 1,
         "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/u3kh"
@@ -3600,7 +3600,7 @@
             "docs/ds/monotonous-stack.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250522004407/http://poj.org/problem?id=3250",
-        "status": 0,
+        "status": 1,
         "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/MlqV"
@@ -3690,7 +3690,7 @@
             "docs/ds/splay.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250524043114/http://poj.org/problem?id=3580",
-        "status": 0,
+        "status": 1,
         "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Qchw"
@@ -4022,7 +4022,7 @@
             "docs/basic/prefix-sum.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250907075227/https://codeforces.com/contest/165/problem/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/cES8"
@@ -4032,7 +4032,7 @@
             "docs/basic/prefix-sum.md"
         ],
         "archiveLink": "https://web.archive.org/web/20221217220504/https://codeforces.com/problemset/problem/383/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Rb8V"
@@ -4444,7 +4444,7 @@
             "docs/basic/construction.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250909091251/http://codeforces.com/problemset/problem/743/C",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/a8Z9"
@@ -4847,7 +4847,7 @@
             "docs/math/binary-exponentiation.md"
         ],
         "archiveLink": "https://web.archive.org/web/20210922185521/http://codeforces.com/problemset/problem/630/I",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/YjJX"
@@ -4857,7 +4857,7 @@
             "docs/math/binary-exponentiation.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250717114511/http://www.spoj.com/problems/LASTDIG/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/nJbu"
@@ -4867,7 +4867,7 @@
             "docs/math/binary-exponentiation.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241214040009/http://www.spoj.com/problems/LOCKER/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/xd8p"
@@ -4877,7 +4877,7 @@
             "docs/math/binary-exponentiation.md"
         ],
         "archiveLink": "https://web.archive.org/web/20231211212205/http://www.spoj.com/problems/ZSUM/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/zjux"
@@ -4977,7 +4977,7 @@
             "docs/math/order-theory.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240928223058/https://codeforces.com/problemset/problem/590/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Wfi2"
@@ -5097,7 +5097,7 @@
             "docs/math/order-theory.md"
         ],
         "archiveLink": "https://web.archive.org/web/20220529094300/https://codeforces.com/blog/entry/72525",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/iySJ"
@@ -5187,7 +5187,7 @@
             "docs/math/binary-set.md"
         ],
         "archiveLink": "https://web.archive.org/web/20230403113737/http://codeforces.com/problemset/problem/71/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/kvn3"
@@ -5197,7 +5197,7 @@
             "docs/math/binary-set.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241126202652/http://codeforces.com/problemset/problem/599/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/f2uU"
@@ -5277,7 +5277,7 @@
             "docs/math/balanced-ternary.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250925210916/https://archive.topcoder.com/ProblemStatement/pm/12917",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/y7UP"
@@ -5377,7 +5377,7 @@
             "docs/math/simplex.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250903234805/https://codeforces.com/problemset/problem/1430/G",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/KXZu"
@@ -5437,7 +5437,7 @@
             "docs/math/berlekamp-massey.md"
         ],
         "archiveLink": null,
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": null
@@ -5457,7 +5457,7 @@
             "docs/math/linear-programming.md"
         ],
         "archiveLink": "https://web.archive.org/web/20220817044716/https://codeforces.com/blog/entry/105049",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/b16N"
@@ -5467,7 +5467,7 @@
             "docs/math/linear-programming.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250907114714/https://codeforces.com/blog/entry/105789",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/LQY6"
@@ -5537,7 +5537,7 @@
             "docs/math/young-tableau.md"
         ],
         "archiveLink": "https://web.archive.org/web/20230602114010/https://codeforces.com/problemset/problem/1268/B",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/kd0p"
@@ -5638,7 +5638,7 @@
         ],
         "archiveLink": "https://web.archive.org/web/20250903150239/https://www.bilibili.com/video/BV1fx41187tZ",
         "status": 0,
-        "failTime": 1,
+        "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/RESL"
     },
@@ -5648,7 +5648,7 @@
         ],
         "archiveLink": "https://web.archive.org/web/20250609070059/https://www.bilibili.com/video/BV1G4411D7kZ",
         "status": 0,
-        "failTime": 1,
+        "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/vhsz"
     },
@@ -5717,7 +5717,7 @@
             "docs/math/bignum.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241206204557/http://www.spoj.com/problems/MUL/en/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/O4LP"
@@ -5727,7 +5727,7 @@
             "docs/math/bignum.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250524062448/http://www.spoj.com/problems/GCD2/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/NIGh"
@@ -5757,7 +5757,7 @@
             "docs/math/bignum.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250910225425/http://codeforces.com/contest/17/problem/D",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/J38H"
@@ -6027,7 +6027,7 @@
             "docs/math/game-theory/impartial-game.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241126175705/https://www.spoj.com/problems/COT3/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/64fh"
@@ -6037,7 +6037,7 @@
             "docs/math/game-theory/impartial-game.md"
         ],
         "archiveLink": "https://web.archive.org/web/20220518123201/https://codeforces.com/problemset/problem/494/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/PXV6"
@@ -6057,7 +6057,7 @@
             "docs/math/game-theory/impartial-game.md"
         ],
         "archiveLink": "https://web.archive.org/web/20210419210342/https://codeforces.com/problemset/problem/1451/F",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/tGdf"
@@ -6067,7 +6067,7 @@
             "docs/math/game-theory/impartial-game.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240719221715/https://codeforces.com/problemset/problem/1704/F",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/dgWs"
@@ -6118,7 +6118,7 @@
             "docs/math/game-theory/impartial-game.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240811034457/https://codeforces.com/problemset/problem/1147/F",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/75r1"
@@ -6318,7 +6318,7 @@
             "docs/math/algebra/schreier-sims.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250926173747/https://groupprops.subwiki.org/w/index.php?title=Jerrum%27s_filter",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/gPut"
@@ -6348,7 +6348,7 @@
             "docs/math/algebra/schreier-sims.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241126180842/https://codeforces.com/gym/421334/problem/A",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/XDYt"
@@ -6488,7 +6488,7 @@
             "docs/math/algebra/field-theory.md"
         ],
         "archiveLink": null,
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": null
@@ -6518,7 +6518,7 @@
             "docs/math/algebra/field-theory.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240413060302/https://codeforces.com/problemset/problem/1310/F",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/lVKZ"
@@ -6538,7 +6538,7 @@
             "docs/math/algebra/field-theory.md"
         ],
         "archiveLink": null,
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": null
@@ -6548,7 +6548,7 @@
             "docs/math/algebra/field-theory.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240809142823/https://codeforces.com/problemset/problem/1103/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/UNou"
@@ -6921,7 +6921,7 @@
             "docs/math/poly/elementary-func.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240921090622/http://poj.org/problem?id=1737",
-        "status": 0,
+        "status": 1,
         "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/ike8"
@@ -6941,7 +6941,7 @@
             "docs/math/poly/elementary-func.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250905175159/https://codeforces.com/contest/438/problem/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Mpzv"
@@ -7081,7 +7081,7 @@
             "docs/math/poly/egf.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240731140151/https://codeforces.com/contest/891/problem/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/lYhd"
@@ -7276,7 +7276,7 @@
             "docs/math/poly/ntt.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250814043921/https://codeforces.com/blog/entry/43499",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/oT6o"
@@ -7368,7 +7368,7 @@
             "docs/math/poly/fwt.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250911110347/https://codeforces.com/gym/103329/problem/F",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/uard"
@@ -7378,7 +7378,7 @@
             "docs/math/poly/fwt.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250404170149/https://codeforces.com/blog/entry/96518",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/s7cN"
@@ -7459,7 +7459,7 @@
         ],
         "archiveLink": "https://web.archive.org/web/20230315033947/https://www.bilibili.com/video/BV1HQ4y1q78v",
         "status": 0,
-        "failTime": 1,
+        "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/rYiR"
     },
@@ -7558,7 +7558,7 @@
             "docs/math/numerical/integral.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250709103028/https://doi.org/10.1145/321526.321537",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/o0A5"
@@ -7568,7 +7568,7 @@
             "docs/math/numerical/gauss.md"
         ],
         "archiveLink": "https://web.archive.org/web/20221216215638/http://codeforces.com/contest/167/problem/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/urrk"
@@ -7618,7 +7618,7 @@
             "docs/math/numerical/interp.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250825054430/https://codeforces.com/contest/622/problem/F",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/k4rS"
@@ -7729,7 +7729,7 @@
             "docs/math/number-theory/pollard-rho.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241214202031/https://codeforces.com/problemset/problem/1445/C",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/sE99"
@@ -7840,7 +7840,7 @@
             "docs/math/number-theory/euler-totient.md"
         ],
         "archiveLink": "https://web.archive.org/web/20231209235448/http://www.spoj.com/problems/ETF/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/IvS6"
@@ -7880,7 +7880,7 @@
             "docs/math/number-theory/euler-totient.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250906014649/http://acm.timus.ru/problem.aspx?space=1&num=1673",
-        "status": 1,
+        "status": -1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/UPPT"
@@ -7970,7 +7970,7 @@
             "docs/math/number-theory/continued-fraction.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250808145557/https://timus.online/problem.aspx?space=1&num=1814",
-        "status": 1,
+        "status": -1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/icSP"
@@ -7980,7 +7980,7 @@
             "docs/math/number-theory/continued-fraction.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250810093349/https://timus.online/problem.aspx?space=1&num=1430",
-        "status": 1,
+        "status": -1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/gQbH"
@@ -8021,7 +8021,7 @@
             "docs/math/number-theory/continued-fraction.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241117171859/https://codeforces.com/gym/102354/problem/I",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/ifMy"
@@ -8061,7 +8061,7 @@
             "docs/math/number-theory/continued-fraction.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240804173153/https://codeforces.com/contest/305/problem/B",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/JKS1"
@@ -8071,7 +8071,7 @@
             "docs/math/number-theory/continued-fraction.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240804173153/https://codeforces.com/contest/346/problem/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/73Ba"
@@ -8081,7 +8081,7 @@
             "docs/math/number-theory/continued-fraction.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240804173154/https://codeforces.com/contest/585/problem/C",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/HZJR"
@@ -8091,7 +8091,7 @@
             "docs/math/number-theory/continued-fraction.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250811134043/http://poj.org/problem?id=3530",
-        "status": 0,
+        "status": 1,
         "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Y29m"
@@ -8303,7 +8303,7 @@
             "docs/math/number-theory/euclidean.md"
         ],
         "archiveLink": "https://web.archive.org/web/20220627121600/https://codeforces.com/problemset/problem/1182/F",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/TmL4"
@@ -8353,7 +8353,7 @@
             "docs/math/number-theory/euclidean.md"
         ],
         "archiveLink": "https://web.archive.org/web/20221006035144/https://codeforces.com/problemset/problem/1098/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/xbr9"
@@ -8363,7 +8363,7 @@
             "docs/math/number-theory/euclidean.md"
         ],
         "archiveLink": "https://web.archive.org/web/20200126172106/https://codeforces.com/problemset/problem/868/G",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/S6pE"
@@ -8414,7 +8414,7 @@
             "docs/math/number-theory/quad-residue.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250906014649/https://acm.timus.ru/problem.aspx?space=1&num=1132",
-        "status": 1,
+        "status": -1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/BWgb"
@@ -8464,7 +8464,7 @@
             "docs/math/number-theory/sqrt-decomposition.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240801134554/https://codeforces.com/contest/1954/problem/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/vFRT"
@@ -8595,7 +8595,7 @@
             "docs/math/number-theory/fermat.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250726233428/https://codeforces.com/problemset/problem/906/D",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/P5B8"
@@ -8685,7 +8685,7 @@
             "docs/math/number-theory/pell-equation.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250428162409/https://www.spoj.com/problems/EQU2/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/MjXw"
@@ -8695,7 +8695,7 @@
             "docs/math/number-theory/pell-equation.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250428152255/https://www.spoj.com/problems/PELL2/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/wdIL"
@@ -8925,7 +8925,7 @@
             "docs/math/number-theory/lucas.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250825050612/http://codeforces.com/gym/100633/problem/J",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/dvpN"
@@ -8965,7 +8965,7 @@
             "docs/math/number-theory/prime.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240916165002/https://codeforces.com/problemset/problem/27/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/E6sI"
@@ -9206,7 +9206,7 @@
             "docs/math/number-theory/gcd.md"
         ],
         "archiveLink": "https://web.archive.org/web/20220807024524/http://codeforces.com/gym/100963",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/3Prk"
@@ -9386,7 +9386,7 @@
             "docs/math/number-theory/stern-brocot.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250425030459/https://www.spoj.com/problems/DIVCNT1/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Ceok"
@@ -9396,7 +9396,7 @@
             "docs/math/number-theory/stern-brocot.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250425033902/https://www.spoj.com/problems/AFS3/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/cb7b"
@@ -9456,7 +9456,7 @@
             "docs/math/number-theory/bezouts.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240522124207/https://codeforces.com/problemset/problem/510/D",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/xgfM"
@@ -9646,7 +9646,7 @@
             "docs/math/number-theory/discrete-logarithm.md"
         ],
         "archiveLink": "https://web.archive.org/web/20191120023207/https://www.spoj.com/problems/MOD/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/L3KN"
@@ -9666,7 +9666,7 @@
             "docs/math/number-theory/discrete-logarithm.md"
         ],
         "archiveLink": "https://web.archive.org/web/20200920213116/https://codeforces.com/problemsets/acmsguru/problem/99999/261",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/bV1P"
@@ -9696,7 +9696,7 @@
             "docs/math/number-theory/discrete-logarithm.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241122211756/https://codeforces.com/contest/1106/problem/F",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/mwnN"
@@ -9836,7 +9836,7 @@
             "docs/math/number-theory/mobius.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250805205627/https://www.spoj.com/problems/LCMSUM/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/gIJk"
@@ -9976,7 +9976,7 @@
             "i-wiki/OI-wiki/docs/math/number-theory/mobius.md"
         ],
         "archiveLink": null,
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": null
@@ -10146,7 +10146,7 @@
             "docs/math/combinatorics/fibonacci.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250726234041/http://www.spoj.com/problems/MAIN74/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/s3kl"
@@ -10156,7 +10156,7 @@
             "docs/math/combinatorics/fibonacci.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250613201652/http://www.spoj.com/problems/FIBOSUM/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/3L38"
@@ -10386,7 +10386,7 @@
             "docs/math/combinatorics/eulerian.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240229051144/https://codeforces.com/problemset/problem/1349/F1",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/6RUi"
@@ -10396,7 +10396,7 @@
             "docs/math/combinatorics/eulerian.md"
         ],
         "archiveLink": "https://web.archive.org/web/20231211023919/https://codeforces.com/problemset/problem/1349/F2",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/zKLc"
@@ -10436,7 +10436,7 @@
             "docs/math/combinatorics/graph-enumeration.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240625020916/https://codeforces.com/blog/entry/104184",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/zGQY"
@@ -10466,7 +10466,7 @@
             "docs/math/combinatorics/graph-enumeration.md"
         ],
         "archiveLink": "https://web.archive.org/web/20220831031448/http://www.spoj.com/problems/KPGRAPHS/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Lppq"
@@ -10666,7 +10666,7 @@
             "docs/math/combinatorics/graph-enumeration.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250427041241/https://www.spoj.com/problems/PT07D/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/k84I"
@@ -10707,7 +10707,7 @@
             "docs/math/combinatorics/polya.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240302034648/https://codeforces.com/problemsets/acmsguru/problem/99999/282",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/KwmP"
@@ -10727,7 +10727,7 @@
             "docs/math/combinatorics/graph-enumeration.md"
         ],
         "archiveLink": "https://web.archive.org/web/20200930194410/https://codeforces.com/problemset/problem/438/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/31cU"
@@ -11121,7 +11121,7 @@
             "docs/math/combinatorics/vandermonde-convolution.md"
         ],
         "archiveLink": "https://web.archive.org/web/20181120091620/https://codeforces.com/problemset/problem/785/D",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/F8vK"
@@ -11171,7 +11171,7 @@
             "docs/math/combinatorics/polya.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241203060459/https://www.spoj.com/problems/TRANSP/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/EW4h"
@@ -11181,7 +11181,7 @@
             "docs/math/combinatorics/polya.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250710102914/https://www.spoj.com/problems/TRANSP2/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/RkQl"
@@ -11282,7 +11282,7 @@
         ],
         "archiveLink": "https://web.archive.org/web/20250608235927/https://www.bilibili.com/video/BV1Ls411b7r2",
         "status": 0,
-        "failTime": 1,
+        "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/4UAf"
     },
@@ -11421,7 +11421,7 @@
             "docs/math/linear-algebra/basis.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250618163708/https://codeforces.com/problemset/problem/1100/F",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/6g52"
@@ -11441,7 +11441,7 @@
             "docs/math/linear-algebra/basis.md"
         ],
         "archiveLink": "https://web.archive.org/web/20220926132810/https://codeforces.com/problemsets/acmsguru/problem/99999/275",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/QzwN"
@@ -11461,7 +11461,7 @@
             "docs/math/linear-algebra/basis.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240929191941/https://acm.hdu.edu.cn/showproblem.php?pid=6579",
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/cJDg"
@@ -11772,7 +11772,7 @@
             "docs/contest/problemsetting.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241231193925/https://codeforces.com/problemset/problem/1172/D",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/GBtM"
@@ -11782,7 +11782,7 @@
             "docs/contest/problemsetting.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241231193915/https://codeforces.com/problemset/problem/1173/A",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/StGR"
@@ -11802,7 +11802,7 @@
             "docs/contest/problemsetting.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241231193914/https://codeforces.com/problemset/problem/1423/N",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/AfHA"
@@ -11883,7 +11883,7 @@
             "docs/contest/problemsetting.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241231193932/https://codeforces.com/blog/entry/71700",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/bSjx"
@@ -11893,7 +11893,7 @@
             "docs/contest/problemsetting.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241231193941/http://codeforces.com/proposals/new-contest",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/PB9C"
@@ -11903,7 +11903,7 @@
             "docs/contest/problemsetting.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241231193925/http://codeforces.com/blog/entry/64077#comment-478933",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/YrP4"
@@ -12057,7 +12057,7 @@
             "docs/contest/icpc.md"
         ],
         "archiveLink": "https://web.archive.org/web/20231221041253/https://codeforces.com/gyms",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/ddtz"
@@ -12067,7 +12067,7 @@
             "docs/contest/interaction.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250814144526/https://codeforces.com/problemset/problem/679/A",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/UmD4"
@@ -12077,7 +12077,7 @@
             "docs/contest/interaction.md"
         ],
         "archiveLink": "https://web.archive.org/web/20220525140602/https://codeforces.com/problemset/problem/843/B",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/fOpy"
@@ -12097,7 +12097,7 @@
             "docs/contest/interaction.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240616094542/https://codeforces.com/problemset/problem/750/F",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/xR8s"
@@ -12197,7 +12197,7 @@
             "docs/contest/oi.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250909130524/https://codeforces.com",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/yLpQ"
@@ -12498,7 +12498,7 @@
             "docs/contest/oi.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250811134118/http://olimpiada.info/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/QL1H"
@@ -12698,7 +12698,7 @@
             "docs/contest/resources.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241231194444/http://poj.org/",
-        "status": 0,
+        "status": 1,
         "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/qigw"
@@ -12849,7 +12849,7 @@
             "docs/tools/editor/cpeditor.md"
         ],
         "archiveLink": "https://web.archive.org/web/20231231062500/https://codeforces.com/",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/SNVZ"
@@ -13000,7 +13000,7 @@
             "docs/contest/resources.md"
         ],
         "archiveLink": "https://web.archive.org/web/20231230011426/http://www.spoj.com",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/VnS6"
@@ -13040,7 +13040,7 @@
             "docs/contest/resources.md"
         ],
         "archiveLink": "https://web.archive.org/web/20201210120600/http://acm.timus.ru/",
-        "status": 1,
+        "status": -1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/3lve"
@@ -13090,7 +13090,7 @@
             "docs/contest/resources.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241110102205/https://codeforces.com/blog/entry/125623",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/o58K"
@@ -13612,7 +13612,7 @@
             "docs/contest/resources.md"
         ],
         "archiveLink": "https://web.archive.org/web/20221210214917/https://www.udebug.com",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/35dt"
@@ -13672,7 +13672,7 @@
             "docs/contest/resources.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250907103451/http://train.usaco.org/usacogate",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/muPx"
@@ -13692,7 +13692,7 @@
             "docs/contest/resources.md"
         ],
         "archiveLink": "https://web.archive.org/web/20191219121014/https://codeforces.com/blog/entry/55274",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/bstD"
@@ -13702,7 +13702,7 @@
             "docs/contest/resources.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250701122416/https://codeforces.com/blog/entry/57282",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/cpiP"
@@ -13712,7 +13712,7 @@
             "docs/contest/resources.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250822121808/https://codeforces.com/blog/entry/13529",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/QGTL"
@@ -13803,7 +13803,7 @@
             "docs/contest/problems.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250501025418/https://codeforces.com/blog/entry/45307",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Wti9"
@@ -14023,7 +14023,7 @@
             "docs/misc/odt.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241231200317/https://codeforces.com/problemset/problem/896/C",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/YAcA"
@@ -14033,7 +14033,7 @@
             "docs/misc/odt.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241231200319/http://codeforces.com/blog/entry/56135?#comment-398940",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/ghdL"
@@ -14143,7 +14143,7 @@
             "docs/misc/odt.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241231200319/https://codeforces.com/blog/entry/56135?#comment-398940",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/RuZi"
@@ -14213,7 +14213,7 @@
             "docs/misc/expression.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250717133001/https://www.spoj.com/problems/ONP/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/fYlX"
@@ -14243,7 +14243,7 @@
             "docs/misc/garsia-wachs.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250804035316/http://poj.org/problem?id=1738",
-        "status": 0,
+        "status": 1,
         "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/ioJr"
@@ -14313,7 +14313,7 @@
             "docs/misc/gray-code.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240228031447/http://codeforces.com/problemsets/acmsguru/problem/99999/249",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/fAAO"
@@ -14434,7 +14434,7 @@
             "docs/misc/random.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250819214842/https://codeforces.com/blog/entry/61587",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/cYT5"
@@ -14716,7 +14716,7 @@
             "docs/misc/frac-programming.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250621001840/http://poj.org/problem?id=2728",
-        "status": 0,
+        "status": 1,
         "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/E20T"
@@ -14856,7 +14856,7 @@
             "docs/misc/fsm.md"
         ],
         "archiveLink": "https://web.archive.org/web/20221220000950/https://codeforces.com/contest/956/problem/F",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/S4Qt"
@@ -14866,7 +14866,7 @@
             "docs/misc/fsm.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250214211331/http://poj.org/problem?id=3576",
-        "status": 0,
+        "status": 1,
         "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/dzE1"
@@ -15087,7 +15087,7 @@
             "docs/misc/hoverline.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250906194650/https://www.spoj.com/problems/HISTOGRA",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/lxF4"
@@ -15137,7 +15137,7 @@
             "docs/misc/rand-technique.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240616191504/https://codeforces.com/gym/101550/attachments",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/4qvC"
@@ -15157,7 +15157,7 @@
             "docs/misc/rand-technique.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250925235101/https://archive.topcoder.com/ProblemStatement/pm/11705",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/a9U1"
@@ -15207,7 +15207,7 @@
             "docs/misc/rand-technique.md"
         ],
         "archiveLink": "https://web.archive.org/web/20221221191654/https://codeforces.com/contest/1267/problem/G",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/ahb8"
@@ -15268,7 +15268,7 @@
         ],
         "archiveLink": "https://web.archive.org/web/20241231152116/https://www.bilibili.com/video/BV1zZ4y1k7Jw",
         "status": 0,
-        "failTime": 1,
+        "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Hlof"
     },
@@ -15337,7 +15337,7 @@
             "docs/misc/kahan-summation.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241224160216/https://codeforces.com/contest/800/problem/A",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/dIVO"
@@ -15347,7 +15347,7 @@
             "docs/misc/kahan-summation.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241224150824/https://codeforces.com/problemset/problem/504/B",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/JjYY"
@@ -15417,7 +15417,7 @@
             "docs/misc/kahan-summation.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240516141344/https://codeforces.com/blog/entry/51577",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/VQXR"
@@ -15447,7 +15447,7 @@
             "docs/misc/15-puzzle.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240625030446/https://codeforces.com/problemset/problem/645/A",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/lQOw"
@@ -15467,7 +15467,7 @@
             "docs/misc/15-puzzle.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250528033008/http://poj.org/problem?id=1077",
-        "status": 0,
+        "status": 1,
         "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/gtgW"
@@ -15848,7 +15848,7 @@
             "docs/tools/oj-tool.md"
         ],
         "archiveLink": "https://web.archive.org/web/20231103123508/https://codeforces.com/contest/1136",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/rcq8"
@@ -16292,7 +16292,7 @@
             "docs/tools/polygon.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250406105907/https://polygon.codeforces.com",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/mIpo"
@@ -16302,7 +16302,7 @@
             "docs/tools/polygon.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240713120827/https://codeforces.com/blog/entry/66916",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/to9d"
@@ -16312,7 +16312,7 @@
             "docs/tools/polygon.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241014215704/https://polygon.codeforces.com/docs/freemarker-manual",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/9y87"
@@ -17636,7 +17636,7 @@
         ],
         "archiveLink": "https://web.archive.org/web/20240926201002/https://royqh1979.gitee.io/redpandacpp",
         "status": 0,
-        "failTime": 1,
+        "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/wlvC"
     },
@@ -17755,7 +17755,7 @@
             "docs/tools/testlib/generator.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250819172111/https://codeforces.com/blog/entry/18291",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/lRhp"
@@ -17765,7 +17765,7 @@
             "docs/tools/testlib/generator.md"
         ],
         "archiveLink": "https://web.archive.org/web/20231211133856/https://codeforces.com/blog/entry/72702",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/bpVQ"
@@ -17801,7 +17801,7 @@
             "docs/tools/testlib/index.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240427141157/https://codeforces.com/testlib",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/eJUn"
@@ -17821,7 +17821,7 @@
             "docs/tools/testlib/validator.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240427141059/https://codeforces.com/gym/100541/problem/A",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/3N0a"
@@ -17841,7 +17841,7 @@
             "docs/tools/testlib/validator.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240928082353/https://codeforces.com/blog/entry/18426",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/3cVp"
@@ -17851,7 +17851,7 @@
             "docs/tools/testlib/interactor.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250820012033/https://codeforces.com/blog/entry/18455",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/L0e9"
@@ -17871,7 +17871,7 @@
             "docs/tools/testlib/checker.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250908160217/https://codeforces.com/blog/entry/18431",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/CnhH"
@@ -17881,7 +17881,7 @@
             "docs/tools/testlib/index.md"
         ],
         "archiveLink": "https://web.archive.org/web/20221226071147/https://polygon.codeforces.com/",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/MLs0"
@@ -17981,7 +17981,7 @@
             "docs/graph/bfs.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250804093329/http://codeforces.com/problemset/problem/173/B",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/ZSwI"
@@ -18002,7 +18002,7 @@
             "docs/graph/bfs.md"
         ],
         "archiveLink": "https://web.archive.org/web/20230531030116/https://codeforces.com/problemset/problem/1063/B",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/29Kr"
@@ -18012,7 +18012,7 @@
             "docs/graph/bfs.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250804093329/https://codeforces.com/problemset/problem/173/B",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/TylV"
@@ -18052,7 +18052,7 @@
             "docs/graph/euler.md"
         ],
         "archiveLink": "https://web.archive.org/web/20230526042626/https://codeforces.com/problemsets/acmsguru/problem/99999/101",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/jTup"
@@ -18062,7 +18062,7 @@
             "docs/graph/euler.md"
         ],
         "archiveLink": "https://web.archive.org/web/20131024091129/http://poj.org/problem?id=1780",
-        "status": 0,
+        "status": 1,
         "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/K95A"
@@ -18132,7 +18132,7 @@
             "docs/graph/rings-count.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240722045559/https://codeforces.com/problemset/problem/11/D",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/ZbOA"
@@ -18172,7 +18172,7 @@
             "docs/graph/rings-count.md"
         ],
         "archiveLink": null,
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": null
@@ -18192,7 +18192,7 @@
             "docs/graph/rings-count.md"
         ],
         "archiveLink": "https://web.archive.org/web/20221220045042/https://codeforces.com/contest/985/problem/G",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Bfsx"
@@ -18232,7 +18232,7 @@
             "docs/graph/virtual-tree.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250831053925/http://codeforces.com/contest/613/problem/D/",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/oWFQ"
@@ -18262,7 +18262,7 @@
             "docs/graph/dsu-on-tree.md"
         ],
         "archiveLink": "https://web.archive.org/web/20201021163001/http://codeforces.com/problemset/problem/741/D",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/ZYFQ"
@@ -18272,7 +18272,7 @@
             "docs/graph/dsu-on-tree.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240806142119/http://codeforces.com/problemset/problem/600/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/fsh3"
@@ -18292,7 +18292,7 @@
             "docs/graph/dsu-on-tree.md"
         ],
         "archiveLink": "https://web.archive.org/web/20230519103259/https://codeforces.com/contest/1709/problem/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/t9c5"
@@ -18302,7 +18302,7 @@
             "docs/graph/dsu-on-tree.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250723091717/http://codeforces.com/blog/entry/44351",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/EHoJ"
@@ -18312,7 +18312,7 @@
             "docs/graph/dsu-on-tree.md"
         ],
         "archiveLink": "https://web.archive.org/web/20211021160249/http://codeforces.com/blog/entry/48871",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/yrPw"
@@ -18322,7 +18322,7 @@
             "docs/graph/tree-ahu.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241205101133/https://www.spoj.com/problems/TREEISO/en/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/hRzE"
@@ -18352,7 +18352,7 @@
             "docs/graph/graph-random-walk.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240620030306/https://codeforces.com/problemset/problem/963/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/UX1E"
@@ -18362,7 +18362,7 @@
             "docs/graph/lgv.md"
         ],
         "archiveLink": "https://web.archive.org/web/20210725143213/https://codeforces.com/contest/348/problem/D",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/pbdT"
@@ -18402,7 +18402,7 @@
             "docs/graph/topo.md"
         ],
         "archiveLink": "https://web.archive.org/web/20220708100553/https://codeforces.com/problemset/problem/1385/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/tLPA"
@@ -18452,7 +18452,7 @@
             "docs/graph/mst.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240910220240/https://codeforces.com/problemset/problem/888/G",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/G9NB"
@@ -18492,7 +18492,7 @@
             "docs/graph/mst.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250315200910/http://poj.org/problem?id=1679",
-        "status": 0,
+        "status": 1,
         "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/xqBL"
@@ -18552,7 +18552,7 @@
             "docs/graph/tree-hash.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250326080639/https://acm.hdu.edu.cn/showproblem.php?pid=6647",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/CjF0"
@@ -18572,7 +18572,7 @@
             "docs/graph/tree-centroid.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241225084143/https://codeforces.com/problemset/problem/685/B",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/VK93"
@@ -18582,7 +18582,7 @@
             "docs/graph/tree-centroid.md"
         ],
         "archiveLink": null,
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": null
@@ -18592,7 +18592,7 @@
             "docs/graph/tree-centroid.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250803220145/http://poj.org/problem?id=1655",
-        "status": 0,
+        "status": 1,
         "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/vUhl"
@@ -18612,7 +18612,7 @@
             "docs/graph/tree-centroid.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241225085114/https://codeforces.com/contest/1406/problem/C",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/xUMX"
@@ -18622,7 +18622,7 @@
             "docs/graph/tree-centroid.md"
         ],
         "archiveLink": "https://web.archive.org/web/20171225135618/https://codeforces.com/problemset/problem/708/C",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/RIQs"
@@ -18632,7 +18632,7 @@
             "docs/graph/tree-centroid.md"
         ],
         "archiveLink": null,
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": null
@@ -18702,7 +18702,7 @@
             "docs/graph/color.md"
         ],
         "archiveLink": "https://web.archive.org/web/20231226111756/https://doi.org/10.1093%2Fcomjnl%2F10.1.85",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/meXH"
@@ -18812,7 +18812,7 @@
             "docs/graph/prufer.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250906014649/http://acm.timus.ru/problem.aspx?space=1&num=1069",
-        "status": 1,
+        "status": -1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/VuPM"
@@ -18822,7 +18822,7 @@
             "docs/graph/prufer.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240925110702/http://codeforces.com/contest/156/problem/D",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/prfe"
@@ -18832,7 +18832,7 @@
             "docs/graph/prufer.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250925191951/https://archive.topcoder.com/ProblemStatement/pm/10774",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/j3hK"
@@ -18912,7 +18912,7 @@
             "docs/graph/scc.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241110060821/http://poj.org/problem?id=1236",
-        "status": 0,
+        "status": 1,
         "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Tk1o"
@@ -18932,7 +18932,7 @@
             "docs/graph/lca.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250712171103/https://acm.hdu.edu.cn/showproblem.php?pid=2586",
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/hMHA"
@@ -19013,7 +19013,7 @@
             "docs/graph/hld.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250726233419/http://codeforces.com/contest/1009/problem/F",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/a44h"
@@ -19213,7 +19213,7 @@
             "docs/graph/mdst.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241127025655/https://codeforces.com/contest/266/problem/D",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Pfod"
@@ -19223,7 +19223,7 @@
             "docs/graph/mdst.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241203055801/https://www.spoj.com/problems/MDST/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/p1pt"
@@ -19233,7 +19233,7 @@
             "docs/graph/mdst.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250906014649/https://acm.timus.ru/problem.aspx?space=1&num=1569",
-        "status": 1,
+        "status": -1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/RF8Q"
@@ -19243,7 +19243,7 @@
             "docs/graph/mdst.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250805201944/https://www.spoj.com/problems/PT07C",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/B3Fm"
@@ -19283,7 +19283,7 @@
             "docs/graph/kth-path.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250830081141/https://codeforces.com/blog/entry/102085",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/1XNb"
@@ -19324,7 +19324,7 @@
             "docs/graph/max-clique.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250813193551/http://poj.org/problem?id=2989",
-        "status": 0,
+        "status": 1,
         "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/f01a"
@@ -19344,7 +19344,7 @@
             "docs/graph/max-clique.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250616032111/http://poj.org/problem?id=1419",
-        "status": 0,
+        "status": 1,
         "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/4sVd"
@@ -19354,7 +19354,7 @@
             "docs/graph/max-clique.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250616032114/http://poj.org/problem?id=1129",
-        "status": 0,
+        "status": 1,
         "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/zGUk"
@@ -19464,7 +19464,7 @@
             "docs/graph/diff-constraints.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250519044045/http://poj.org/problem?id=1364",
-        "status": 0,
+        "status": 1,
         "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/hL7Z"
@@ -19474,7 +19474,7 @@
             "docs/graph/diff-constraints.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241110050913/http://poj.org/problem?id=2983",
-        "status": 0,
+        "status": 1,
         "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/OhfD"
@@ -19504,7 +19504,7 @@
             "docs/graph/block-forest.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241109071442/https://codeforces.com/contest/487/problem/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/n9qB"
@@ -19574,7 +19574,7 @@
             "docs/graph/chord.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240803064905/https://www.spoj.com/problems/FISHNET",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/F3ZN"
@@ -19664,7 +19664,7 @@
             "docs/graph/tree-diameter.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250331153635/https://codeforces.com/contest/911/problem/F",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/EEne"
@@ -19684,7 +19684,7 @@
             "docs/graph/tree-diameter.md"
         ],
         "archiveLink": "https://web.archive.org/web/20230331222354/https://codeforces.com/contest/1192/problem/B",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/XW1h"
@@ -19744,7 +19744,7 @@
             "docs/graph/2-sat.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240724114656/https://acm.hdu.edu.cn/showproblem.php?pid=3062",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/BJFU"
@@ -19754,7 +19754,7 @@
             "docs/graph/2-sat.md"
         ],
         "archiveLink": "https://web.archive.org/web/20221219074954/https://codeforces.com/gym/101987/problem/K",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/sfk6"
@@ -19784,7 +19784,7 @@
             "docs/graph/2-sat.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250814054238/http://poj.org/problem?id=3683",
-        "status": 0,
+        "status": 1,
         "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/I7YQ"
@@ -19864,7 +19864,7 @@
             "docs/graph/cut.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250519123610/http://poj.org/problem?id=2117",
-        "status": 0,
+        "status": 1,
         "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/0QGL"
@@ -19874,7 +19874,7 @@
             "docs/graph/cut.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250326082005/https://acm.hdu.edu.cn/showproblem.php?pid=4738",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/KmXO"
@@ -19884,7 +19884,7 @@
             "docs/graph/cut.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240731220543/https://acm.hdu.edu.cn/showproblem.php?pid=2460",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/JMSP"
@@ -19894,7 +19894,7 @@
             "docs/graph/cut.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241112061646/http://poj.org/problem?id=1523",
-        "status": 0,
+        "status": 1,
         "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/G1Ts"
@@ -20114,7 +20114,7 @@
             "docs/graph/graph-matching/bigraph-weight-match.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241212003627/https://www.spoj.com/problems/DAP/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/YTnh"
@@ -20134,7 +20134,7 @@
             "docs/graph/graph-matching/stable-match.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241012193413/https://www.spoj.com/problems/STABLEMP/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/brra"
@@ -20254,7 +20254,7 @@
             "docs/graph/graph-matching/bigraph-match.md"
         ],
         "archiveLink": null,
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": null
@@ -20264,7 +20264,7 @@
             "docs/graph/graph-matching/bigraph-match.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250819195342/https://codeforces.com/problemset/problem/1404/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/LDai"
@@ -20274,7 +20274,7 @@
             "docs/graph/graph-matching/bigraph-match.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250405040913/https://codeforces.com/problemset/problem/1139/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/kHZb"
@@ -20294,7 +20294,7 @@
             "docs/graph/graph-matching/bigraph-match.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250824234458/https://codeforces.com/problemset/problem/1765/A",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Ao7H"
@@ -20314,7 +20314,7 @@
             "docs/graph/graph-matching/bigraph-match.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250821220723/https://codeforces.com/problemset/problem/1773/D",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/mU3d"
@@ -20374,7 +20374,7 @@
             "docs/graph/graph-matching/bigraph-match.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250505125213/https://codeforces.com/blog/entry/118098",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/MXJR"
@@ -21872,7 +21872,7 @@
             "docs/lang/java-pro.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240805181812/https://codeforces.com/problemset/problem/1646/B",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/9I8v"
@@ -22432,7 +22432,7 @@
             "docs/lang/csl/bitset.md"
         ],
         "archiveLink": "https://web.archive.org/web/20221220213847/https://codeforces.com/contest/1097/problem/F",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/QxJf"
@@ -22573,7 +22573,7 @@
             "docs/lang/csl/algorithm.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250903030700/https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=16&page=show_problem&problem=1428",
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/C97u"
@@ -22603,7 +22603,7 @@
             "docs/lang/csl/unordered-container.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250728085134/https://codeforces.com/blog/entry/62393",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/HTe2"
@@ -22793,7 +22793,7 @@
             "docs/topic/segment-tree-offline.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250323142217/https://codeforces.com/problemset/problem/601/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/N959"
@@ -22803,7 +22803,7 @@
             "docs/topic/segment-tree-offline.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250323142353/https://codeforces.com/problemset/problem/19/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/iCfL"
@@ -22963,7 +22963,7 @@
             "docs/search/idastar.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250903030700/https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4089",
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/9vkf"
@@ -23043,7 +23043,7 @@
             "docs/search/dlx.md"
         ],
         "archiveLink": "https://web.archive.org/web/20220928214141/https://www.spoj.com/problems/SUDOKU/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/3qqm"
@@ -24704,7 +24704,7 @@
             "docs/dp/dynamic.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250813182049/https://www.spoj.com/problems/GSS3/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/8Cb2"
@@ -24734,7 +24734,7 @@
             "docs/dp/plug.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240730062431/https://acm.hdu.edu.cn/showproblem.php?pid=1400",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/8pOT"
@@ -24744,7 +24744,7 @@
             "docs/dp/plug.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250925181903/https://archive.topcoder.com/ProblemStatement/pm/14069",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Ykl5"
@@ -24754,7 +24754,7 @@
             "docs/dp/plug.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250617210820/https://acm.hdu.edu.cn/showproblem.php?pid=1693",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/6C6M"
@@ -24774,7 +24774,7 @@
             "docs/dp/plug.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241231195033/https://codeforces.com/gym/100220",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/NWPf"
@@ -24794,7 +24794,7 @@
             "docs/dp/plug.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250906014649/https://acm.timus.ru/problem.aspx?space=1&num=1519",
-        "status": 1,
+        "status": -1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/YB8m"
@@ -24814,7 +24814,7 @@
             "docs/dp/plug.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250808172535/http://poj.org/problem?id=1739",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/mGmG"
@@ -24884,7 +24884,7 @@
             "docs/dp/plug.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250903030700/https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1513",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/6iGn"
@@ -24894,7 +24894,7 @@
             "docs/dp/plug.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241231195002/https://codeforces.com/problemsets/acmsguru/problem/99999/197",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/J2Bn"
@@ -24904,7 +24904,7 @@
             "docs/dp/plug.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250925182853/https://archive.topcoder.com/ProblemStatement/pm/6482",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/FJ5k"
@@ -24944,7 +24944,7 @@
             "docs/dp/plug.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240810091216/https://acm.hdu.edu.cn/showproblem.php?pid=5513",
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/784S"
@@ -24954,7 +24954,7 @@
             "docs/dp/plug.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240707100011/https://acm.hdu.edu.cn/showproblem.php?pid=4113",
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/k1oN"
@@ -24974,7 +24974,7 @@
             "docs/dp/plug.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240707101125/https://acm.hdu.edu.cn/showproblem.php?pid=4796",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/TQqZ"
@@ -25014,7 +25014,7 @@
             "docs/dp/plug.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240707104323/https://acm.hdu.edu.cn/showproblem.php?pid=3958",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Grt2"
@@ -25054,7 +25054,7 @@
             "docs/dp/plug.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241203051326/https://www.spoj.com/problems/CAKE3",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/yF9N"
@@ -25084,7 +25084,7 @@
             "docs/dp/plug.md"
         ],
         "archiveLink": null,
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": null
@@ -25094,7 +25094,7 @@
             "docs/dp/plug.md"
         ],
         "archiveLink": null,
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": null
@@ -25184,7 +25184,7 @@
             "docs/dp/plug.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250906014649/https://acm.timus.ru/problem.aspx?space=1&num=1594",
-        "status": 1,
+        "status": -1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/eMrr"
@@ -25264,7 +25264,7 @@
             "docs/dp/dp-of-dp.md"
         ],
         "archiveLink": "https://web.archive.org/web/20211022120232/https://codeforces.com/problemset/problem/979/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Xl8w"
@@ -25294,7 +25294,7 @@
             "docs/dp/probability.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250210115022/https://codeforces.com/problemset/problem/148/D",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/1BQY"
@@ -25304,7 +25304,7 @@
             "docs/dp/probability.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250806000902/http://poj.org/problem?id=3071",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/1hNW"
@@ -25314,7 +25314,7 @@
             "docs/dp/probability.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241231195954/https://codeforces.com/problemset/problem/768/D",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/bFYF"
@@ -25324,7 +25324,7 @@
             "docs/dp/probability.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250814042226/http://poj.org/problem?id=2096",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/mluB"
@@ -25344,7 +25344,7 @@
             "docs/dp/probability.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250518203917/https://acm.hdu.edu.cn/showproblem.php?pid=3853",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/xjtW"
@@ -25354,7 +25354,7 @@
             "docs/dp/probability.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250123060308/https://acm.hdu.edu.cn/showproblem.php?pid=4035",
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/DIj5"
@@ -25374,7 +25374,7 @@
             "docs/dp/probability.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250903125251/https://codeforces.com/problemset/problem/24/D",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/kcmp"
@@ -25384,7 +25384,7 @@
             "docs/dp/probability.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240906103142/https://acm.hdu.edu.cn/showproblem.php?pid=4418",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/cDNc"
@@ -25434,7 +25434,7 @@
             "docs/dp/tree.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250617210853/http://poj.org/problem?id=1463",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/SM0t"
@@ -25484,7 +25484,7 @@
             "docs/dp/tree.md"
         ],
         "archiveLink": "https://web.archive.org/web/20230531232319/https://codeforces.com/contest/1830/problem/D",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/8kiD"
@@ -25514,7 +25514,7 @@
             "docs/dp/tree.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250524210835/https://codeforces.com/contest/1187/problem/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/BrfJ"
@@ -25524,7 +25524,7 @@
             "docs/dp/tree.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250809003323/http://poj.org/problem?id=3585",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/QEQY"
@@ -25544,7 +25544,7 @@
             "docs/dp/tree.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241231200223/http://codeforces.com/problemset/problem/708/C",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/FGvZ"
@@ -25714,7 +25714,7 @@
             "docs/dp/number.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250908044601/https://acm.hdu.edu.cn/showproblem.php?pid=2089",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/MrMK"
@@ -25734,7 +25734,7 @@
             "docs/dp/number.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241231195554/https://www.spoj.com/problems/MYQ10/en/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/D51e"
@@ -25784,7 +25784,7 @@
             "docs/dp/number.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241231195556/http://codeforces.com/problemset/problem/55/D",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/zGSD"
@@ -25794,7 +25794,7 @@
             "docs/dp/number.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250725004157/http://codeforces.com/problemset/problem/628/D",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/JKOB"
@@ -25854,7 +25854,7 @@
             "docs/dp/opt/dp-opt.md"
         ],
         "archiveLink": "https://web.archive.org/web/20231208085401/https://codeforces.com/problemset/problem/115/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/GKNC"
@@ -25914,7 +25914,7 @@
             "docs/dp/opt/dp-opt.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240421013657/https://codeforces.com/problemset/problem/576/D",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/9cpg"
@@ -25934,7 +25934,7 @@
             "docs/dp/opt/dp-opt.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240505114017/https://codeforces.com/contest/553/problem/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/K1Sd"
@@ -25944,7 +25944,7 @@
             "docs/dp/opt/dp-opt.md"
         ],
         "archiveLink": "https://web.archive.org/web/20230220040611/https://codeforces.com/problemset/problem/1784/D",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/CzgO"
@@ -26005,7 +26005,7 @@
             "docs/dp/opt/slope-trick.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240916204003/https://codeforces.com/problemset/problem/713/C",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/BFP2"
@@ -26085,7 +26085,7 @@
             "docs/dp/opt/slope-trick.md"
         ],
         "archiveLink": "https://web.archive.org/web/20171219030156/https://codeforces.com/problemset/problem/865/D",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/2Ja9"
@@ -26165,7 +26165,7 @@
             "docs/dp/opt/slope-trick.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250820082738/https://codeforces.com/problemset/problem/280/D",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/FfaM"
@@ -26175,7 +26175,7 @@
             "docs/dp/opt/slope-trick.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240714065050/https://codeforces.com/problemset/problem/280/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/0yQC"
@@ -26186,7 +26186,7 @@
             "docs/dp/opt/wqs-binary-search.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241118003759/https://codeforces.com/contest/802/problem/O",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/WxJs"
@@ -26196,7 +26196,7 @@
             "docs/dp/opt/slope-trick.md"
         ],
         "archiveLink": "https://web.archive.org/web/20230410084234/https://codeforces.com/contest/1209/problem/H",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/zljO"
@@ -26206,7 +26206,7 @@
             "docs/dp/opt/slope-trick.md"
         ],
         "archiveLink": "https://web.archive.org/web/20221221151421/https://codeforces.com/contest/1229/problem/F",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/qceQ"
@@ -26216,7 +26216,7 @@
             "docs/dp/opt/slope-trick.md"
         ],
         "archiveLink": "https://web.archive.org/web/20220817064213/https://codeforces.com/problemset/problem/1534/G",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/oTsv"
@@ -26226,7 +26226,7 @@
             "docs/dp/opt/slope-trick.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240418115813/https://codeforces.com/problemset/problem/1787/H",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/cpVj"
@@ -26237,7 +26237,7 @@
             "docs/dp/opt/wqs-binary-search.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240912182241/https://codeforces.com/gym/102331/problem/H",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/bURv"
@@ -26247,7 +26247,7 @@
             "docs/dp/opt/slope-trick.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240823204006/https://codeforces.com/gym/102482/problem/C",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/DjS0"
@@ -26257,7 +26257,7 @@
             "docs/dp/opt/slope-trick.md"
         ],
         "archiveLink": "https://web.archive.org/web/20220123115242/https://codeforces.com/gym/102538/problem/F",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/42Zu"
@@ -26267,7 +26267,7 @@
             "docs/dp/opt/slope-trick.md"
         ],
         "archiveLink": "https://web.archive.org/web/20210507031513/https://codeforces.com/blog/entry/47821",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/AjA9"
@@ -26277,7 +26277,7 @@
             "docs/dp/opt/slope-trick.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250121191138/https://codeforces.com/blog/entry/77298",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/akr2"
@@ -26297,7 +26297,7 @@
             "docs/dp/opt/slope-trick.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240724054911/https://codeforces.com/blog/entry/103222",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/K8EU"
@@ -26328,7 +26328,7 @@
             "docs/dp/opt/quadrangle.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250525021423/https://codeforces.com/contest/321/problem/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/bE4s"
@@ -26338,7 +26338,7 @@
             "docs/dp/opt/quadrangle.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250422164948/https://www.spoj.com/problems/LARMY/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/M8al"
@@ -26418,7 +26418,7 @@
             "docs/dp/opt/quadrangle.md"
         ],
         "archiveLink": "https://web.archive.org/web/20231211014805/https://codeforces.com/blog/entry/86306",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/UnKR"
@@ -26489,7 +26489,7 @@
             "docs/dp/opt/slope.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241231195327/http://codeforces.com/problemset/problem/311/B",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/NvxV"
@@ -26539,7 +26539,7 @@
             "docs/dp/opt/monotonous-queue-stack.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241231200206/http://codeforces.com/problemset/problem/372/C",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/OrYy"
@@ -26639,7 +26639,7 @@
             "docs/dp/opt/wqs-binary-search.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250819102647/https://codeforces.com/problemset/problem/739/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/w5VP"
@@ -26649,7 +26649,7 @@
             "docs/dp/opt/wqs-binary-search.md"
         ],
         "archiveLink": "https://web.archive.org/web/20230123154022/https://codeforces.com/problemset/problem/1661/F",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/uEDp"
@@ -26769,7 +26769,7 @@
             "docs/dp/opt/wqs-binary-search.md"
         ],
         "archiveLink": "https://web.archive.org/web/20200813232215/https://codeforces.com/problemset/problem/125/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/1hyK"
@@ -26779,7 +26779,7 @@
             "docs/dp/opt/wqs-binary-search.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240615235629/https://codeforces.com/problemset/problem/321/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/VPYe"
@@ -26789,7 +26789,7 @@
             "docs/dp/opt/wqs-binary-search.md"
         ],
         "archiveLink": "https://web.archive.org/web/20220701235826/https://codeforces.com/problemset/problem/958/E2",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/IBAv"
@@ -26799,7 +26799,7 @@
             "docs/dp/opt/wqs-binary-search.md"
         ],
         "archiveLink": "https://web.archive.org/web/20210727131156/https://codeforces.com/problemset/problem/1279/F",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/UXXH"
@@ -26809,7 +26809,7 @@
             "docs/dp/opt/wqs-binary-search.md"
         ],
         "archiveLink": "https://web.archive.org/web/20230403051318/https://codeforces.com/problemset/problem/1799/F",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/WsRq"
@@ -26819,7 +26819,7 @@
             "docs/dp/opt/wqs-binary-search.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250906082334/https://codeforces.com/blog/entry/98334",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/WtMj"
@@ -26919,7 +26919,7 @@
             "docs/geometry/scanning.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250208064538/http://poj.org/problem?id=1151",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/XcE6"
@@ -26929,7 +26929,7 @@
             "docs/geometry/scanning.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250514082437/http://poj.org/problem?id=1177",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/MRb8"
@@ -26939,7 +26939,7 @@
             "docs/geometry/scanning.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250325025942/http://poj.org/problem?id=3832",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/h9OX"
@@ -27079,7 +27079,7 @@
             "docs/geometry/pick.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250325015159/http://poj.org/problem?id=1265",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/mFNj"
@@ -27169,7 +27169,7 @@
             "docs/geometry/nearest-points.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250813004903/https://www.spoj.com/problems/CLOPPAIR/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/HYqn"
@@ -27179,7 +27179,7 @@
             "docs/geometry/nearest-points.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241126231523/http://codeforces.com/contest/120/problem/J",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Jcad"
@@ -27189,7 +27189,7 @@
             "docs/geometry/nearest-points.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241118082037/https://www.spoj.com/problems/CLOSEST/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/OjLV"
@@ -27239,7 +27239,7 @@
             "docs/geometry/half-plane.md"
         ],
         "archiveLink": "https://web.archive.org/web/20221130064056/http://poj.org/problem?id=2451",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/jhQt"
@@ -27249,7 +27249,7 @@
             "docs/geometry/half-plane.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250514081914/http://poj.org/problem?id=1279",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/yRiL"
@@ -27309,7 +27309,7 @@
             "docs/geometry/convex-hull.md"
         ],
         "archiveLink": "https://web.archive.org/web/20221130062253/http://poj.org/problem?id=1873",
-        "status": 0,
+        "status": 1,
         "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/hL2a"
@@ -27319,7 +27319,7 @@
             "docs/geometry/convex-hull.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250517184815/http://poj.org/problem?id=1113",
-        "status": 0,
+        "status": 1,
         "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/OSQt"
@@ -27439,7 +27439,7 @@
             "docs/geometry/random-incremental.md"
         ],
         "archiveLink": "https://web.archive.org/web/20221003071617/https://codeforces.com/problemset/problem/442/E",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/NQrO"
@@ -27489,7 +27489,7 @@
             "docs/geometry/triangulation.md"
         ],
         "archiveLink": "https://web.archive.org/web/20230604004505/https://codeforces.com/problemsets/acmsguru/problem/99999/383",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/OiR5"
@@ -27509,7 +27509,7 @@
             "docs/geometry/triangulation.md"
         ],
         "archiveLink": "https://web.archive.org/web/20220721015119/https://codeforces.com/gym/103485/problem/M",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/149B"
@@ -27569,7 +27569,7 @@
             "docs/geometry/rotating-calipers.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250815062834/http://poj.org/problem?id=3608",
-        "status": 0,
+        "status": 1,
         "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/d21U"
@@ -27579,7 +27579,7 @@
             "docs/geometry/rotating-calipers.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240604142804/https://codeforces.com/gym/101175",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/K3Av"
@@ -27589,7 +27589,7 @@
             "docs/geometry/rotating-calipers.md"
         ],
         "archiveLink": "https://web.archive.org/web/20220813062222/https://codeforces.com/contest/1578/problem/F",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Qaqd"
@@ -27649,7 +27649,7 @@
             "docs/geometry/inverse.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250331215552/https://acm.hdu.edu.cn/showproblem.php?pid=6158",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Tn3t"
