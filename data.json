@@ -2195,7 +2195,7 @@
             "docs/ds/cartesian-tree.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250617211010/https://acm.hdu.edu.cn/showproblem.php?pid=1506",
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/2Xa4"
@@ -3750,7 +3750,7 @@
             "docs/ds/pairing-heap.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250828133602/http://web.eecs.umich.edu/~pettie/papers/focs05.pdf",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/3eSB"
@@ -3821,7 +3821,7 @@
             "docs/ds/aa-tree.md"
         ],
         "archiveLink": "https://web.archive.org/web/20230401045344/https://www.cs.umd.edu/class/fall2019/cmsc420-0201/Lects/lect06-aa.pdf",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/9LuR"
@@ -4002,7 +4002,7 @@
             "docs/basic/prefix-sum.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240707112323/https://acm.hdu.edu.cn/showproblem.php?pid=6514",
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/jHt5"
@@ -4273,7 +4273,7 @@
             "docs/basic/enumerate.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241231232337/https://stackoverflow.com/questions/42399355/what-is-a-bucket-or-double-bucket-data-structure",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/9Wfg"
@@ -4594,7 +4594,7 @@
             "docs/basic/binary.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241231195939/https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=447&page=show_problem&problem=4222",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/ujeK"
@@ -4604,7 +4604,7 @@
             "docs/basic/binary.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241231195941/https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=15&page=show_problem&problem=1326",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Gs5D"
@@ -5287,7 +5287,7 @@
             "docs/math/balanced-ternary.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240917183133/http://e-maxx.ru/algo/balanced_ternary",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/LWlm"
@@ -5408,8 +5408,8 @@
         ],
         "archiveLink": "https://web.archive.org/web/20220926103450/https://facultyweb.kennesaw.edu/mlavrov/courses/lp/lecture8.pdf",
         "status": 0,
-        "failTime": 2,
-        "fail": false,
+        "failTime": 3,
+        "fail": true,
         "shortArchiveLink": "https://d.00.mk/KBq0"
     },
     "https://zh.cppreference.com/w/cpp/numeric/math/atan2": {
@@ -6419,8 +6419,8 @@
         ],
         "archiveLink": "https://web.archive.org/web/20250503173426/https://blogs.cs.st-andrews.ac.uk/codima/files/2015/11/CoDiMa2015_Holt.pdf",
         "status": 0,
-        "failTime": 2,
-        "fail": false,
+        "failTime": 3,
+        "fail": true,
         "shortArchiveLink": "https://d.00.mk/oEHE"
     },
     "https://www.m8j.net/data/List/Files-118/Documentation.pdf": {
@@ -7880,7 +7880,7 @@
             "docs/math/number-theory/euler-totient.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250906014649/http://acm.timus.ru/problem.aspx?space=1&num=1673",
-        "status": -1,
+        "status": -2,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/UPPT"
@@ -7970,7 +7970,7 @@
             "docs/math/number-theory/continued-fraction.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250808145557/https://timus.online/problem.aspx?space=1&num=1814",
-        "status": -1,
+        "status": -2,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/icSP"
@@ -7980,7 +7980,7 @@
             "docs/math/number-theory/continued-fraction.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250810093349/https://timus.online/problem.aspx?space=1&num=1430",
-        "status": -1,
+        "status": -2,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/gQbH"
@@ -8223,7 +8223,7 @@
             "docs/math/number-theory/continued-fraction.md"
         ],
         "archiveLink": "https://web.archive.org/web/20230528205514/https://proofwiki.org/wiki/Continued_Fraction_Expansion_of_Euler%27s_Number",
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/7BW0"
@@ -8414,7 +8414,7 @@
             "docs/math/number-theory/quad-residue.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250906014649/https://acm.timus.ru/problem.aspx?space=1&num=1132",
-        "status": -1,
+        "status": -2,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/BWgb"
@@ -13040,7 +13040,7 @@
             "docs/contest/resources.md"
         ],
         "archiveLink": "https://web.archive.org/web/20201210120600/http://acm.timus.ru/",
-        "status": -1,
+        "status": -2,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/3lve"
@@ -13612,7 +13612,7 @@
             "docs/contest/resources.md"
         ],
         "archiveLink": "https://web.archive.org/web/20221210214917/https://www.udebug.com",
-        "status": 0,
+        "status": 1,
         "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/35dt"
@@ -15407,7 +15407,7 @@
             "docs/misc/kahan-summation.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250407092358/https://rosettacode.org/wiki/Kahan_summation",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/5Y0D"
@@ -17013,8 +17013,8 @@
         ],
         "archiveLink": "https://web.archive.org/web/20250827023302/https://docs.kde.org/stable5/en/kate/kate/kate.pdf",
         "status": 0,
-        "failTime": 2,
-        "fail": false,
+        "failTime": 3,
+        "fail": true,
         "shortArchiveLink": "https://d.00.mk/FeS6"
     },
     "https://docs.kde.org/trunk5/en/kate/kate/kate-application-plugin-lspclient.html#Configuration": {
@@ -17901,7 +17901,7 @@
             "docs/graph/tree-center.md"
         ],
         "archiveLink": "https://web.archive.org/web/20170709171708/https://proofwiki.org/wiki/Definition:Center_of_Tree",
-        "status": 1,
+        "status": -2,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/WezY"
@@ -18812,7 +18812,7 @@
             "docs/graph/prufer.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250906014649/http://acm.timus.ru/problem.aspx?space=1&num=1069",
-        "status": -1,
+        "status": -2,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/VuPM"
@@ -19233,7 +19233,7 @@
             "docs/graph/mdst.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250906014649/https://acm.timus.ru/problem.aspx?space=1&num=1569",
-        "status": -1,
+        "status": -2,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/RF8Q"
@@ -19874,7 +19874,7 @@
             "docs/graph/cut.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250326082005/https://acm.hdu.edu.cn/showproblem.php?pid=4738",
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/KmXO"
@@ -20394,8 +20394,8 @@
             "docs/graph/graph-matching/bigraph-match.md"
         ],
         "archiveLink": "https://web.archive.org/web/20190728161400/https://www.cse.iitm.ac.in/~meghana/matchings/bip-decomp.pdf",
-        "status": 1,
-        "failTime": 0,
+        "status": 0,
+        "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/zE3c"
     },
@@ -20424,7 +20424,7 @@
             "docs/graph/graph-matching/general-match.md"
         ],
         "archiveLink": "https://web.archive.org/web/20170810155416/http://web.eecs.umich.edu/~pettie/matching/Mucha-Sankowski-maximum-matching-matrix-multiplication.pdf",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/cpre"
@@ -20504,8 +20504,8 @@
             "docs/graph/graph-matching/graph-match.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250908212404/https://www.wikiwand.com/en/Hopcroft%E2%80%93Karp_algorithm",
-        "status": 1,
-        "failTime": 0,
+        "status": 0,
+        "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/oLQR"
     },
@@ -23083,7 +23083,7 @@
             "docs/search/dlx.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240228220532/https://book.douban.com/subject/35431537/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/gDpG"
@@ -23134,7 +23134,7 @@
             "docs/search/bidirectional.md"
         ],
         "archiveLink": null,
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": null
@@ -24754,7 +24754,7 @@
             "docs/dp/plug.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250617210820/https://acm.hdu.edu.cn/showproblem.php?pid=1693",
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/6C6M"
@@ -24794,7 +24794,7 @@
             "docs/dp/plug.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250906014649/https://acm.timus.ru/problem.aspx?space=1&num=1519",
-        "status": -1,
+        "status": -2,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/YB8m"
@@ -24944,7 +24944,7 @@
             "docs/dp/plug.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240810091216/https://acm.hdu.edu.cn/showproblem.php?pid=5513",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/784S"
@@ -24974,7 +24974,7 @@
             "docs/dp/plug.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240707101125/https://acm.hdu.edu.cn/showproblem.php?pid=4796",
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/TQqZ"
@@ -25014,7 +25014,7 @@
             "docs/dp/plug.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240707104323/https://acm.hdu.edu.cn/showproblem.php?pid=3958",
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Grt2"
@@ -25184,7 +25184,7 @@
             "docs/dp/plug.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250906014649/https://acm.timus.ru/problem.aspx?space=1&num=1594",
-        "status": -1,
+        "status": -2,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/eMrr"
@@ -25344,7 +25344,7 @@
             "docs/dp/probability.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250518203917/https://acm.hdu.edu.cn/showproblem.php?pid=3853",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/xjtW"
@@ -25354,7 +25354,7 @@
             "docs/dp/probability.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250123060308/https://acm.hdu.edu.cn/showproblem.php?pid=4035",
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/DIj5"
@@ -25424,7 +25424,7 @@
             "docs/dp/tree.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250908044601/https://acm.hdu.edu.cn/showproblem.php?pid=2196",
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/VaEJ"
@@ -25644,7 +25644,7 @@
             "docs/dp/knapsack.md"
         ],
         "archiveLink": "https://web.archive.org/web/20230910154657/https://acm.hdu.edu.cn/showproblem.php?pid=5410",
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/cgOD"
@@ -25714,7 +25714,7 @@
             "docs/dp/number.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250908044601/https://acm.hdu.edu.cn/showproblem.php?pid=2089",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/MrMK"
@@ -25774,7 +25774,7 @@
             "docs/dp/number.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241211124246/https://acm.hdu.edu.cn/showproblem.php?pid=6148",
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/KOAY"
@@ -26378,7 +26378,7 @@
             "docs/dp/opt/quadrangle.md"
         ],
         "archiveLink": null,
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": null
