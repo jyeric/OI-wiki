@@ -1103,7 +1103,7 @@
             "docs/string/lib-func.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250619031046/https://zh.cppreference.com/w/c/io/fprintf",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/EvFm"
@@ -1113,7 +1113,7 @@
             "docs/string/lib-func.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241128234951/https://zh.cppreference.com/w/c/io/fscanf",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/3pqO"
@@ -1123,7 +1123,7 @@
             "docs/string/lib-func.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241223012813/https://zh.cppreference.com/w/c/string/byte",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/WZrS"
@@ -1135,7 +1135,7 @@
             "docs/string/lib-func.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241126182945/https://zh.cppreference.com/w/cpp/string/basic_string",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/bjm7"
@@ -1145,7 +1145,7 @@
             "docs/string/lib-func.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250414195640/https://zh.cppreference.com/w/cpp/string/basic_string_view",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/L43f"
@@ -1456,7 +1456,7 @@
             "docs/ds/stack.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240907014152/https://zh.cppreference.com/w/cpp/container/stack",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/FhBR"
@@ -1688,8 +1688,8 @@
             "docs/ds/persistent.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250618110258/https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/lecture-notes/persistent.pdf",
-        "status": 1,
-        "failTime": 0,
+        "status": 0,
+        "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Rts8"
     },
@@ -1789,7 +1789,7 @@
             "docs/ds/sparse-table.md"
         ],
         "archiveLink": "https://web.archive.org/web/20211016122752/https://en.cppreference.com/w/cpp/numeric/math/log",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/7hGo"
@@ -2849,7 +2849,7 @@
             "docs/ds/skiplist.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250527164612/https://15721.courses.cs.cmu.edu/spring2018/papers/08-oltpindexes1/pugh-skiplists-cacm1990.pdf",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/A9ky"
@@ -3259,7 +3259,7 @@
             "docs/ds/queue.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250824182911/https://zh.cppreference.com/w/cpp/container/queue",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/fILy"
@@ -3270,7 +3270,7 @@
             "docs/lang/csl/sequence-container.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250416012538/https://zh.cppreference.com/w/cpp/container/deque",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/NP8y"
@@ -3720,7 +3720,7 @@
             "docs/ds/pairing-heap.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250604064156/http://www.cs.cmu.edu/~sleator/papers/pairing-heaps.pdf",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/GA5W"
@@ -3871,7 +3871,7 @@
             "docs/basic/radix-sort.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250831060441/https://zh.cppreference.com/w/cpp/string/byte",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Llgq"
@@ -3902,7 +3902,7 @@
             "docs/basic/prefix-sum.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250319140255/https://zh.cppreference.com/w/cpp/algorithm/partial_sum",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/xxlY"
@@ -3912,7 +3912,7 @@
             "docs/basic/prefix-sum.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250122034811/https://zh.cppreference.com/w/cpp/algorithm/inclusive_scan",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/9s6s"
@@ -3932,7 +3932,7 @@
             "docs/basic/prefix-sum.md"
         ],
         "archiveLink": "https://web.archive.org/web/20230425095520/https://zh.cppreference.com/w/cpp/algorithm/adjacent_difference",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/9K53"
@@ -4273,7 +4273,7 @@
             "docs/basic/enumerate.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241231232337/https://stackoverflow.com/questions/42399355/what-is-a-bucket-or-double-bucket-data-structure",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/9Wfg"
@@ -4554,7 +4554,7 @@
             "docs/basic/binary.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250520231006/https://zh.cppreference.com/w/cpp/algorithm/lower_bound",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/GNYv"
@@ -4564,7 +4564,7 @@
             "docs/basic/binary.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250520231008/https://zh.cppreference.com/w/cpp/algorithm/upper_bound",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/cHla"
@@ -4664,7 +4664,7 @@
             "docs/basic/stl-sort.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250814212718/https://zh.cppreference.com/w/c/algorithm/qsort",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/eLqK"
@@ -4674,7 +4674,7 @@
             "docs/basic/stl-sort.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241231195530/https://zh.cppreference.com/w/cpp/algorithm/qsort",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/D3Ud"
@@ -4684,7 +4684,7 @@
             "docs/basic/stl-sort.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250520225915/https://zh.cppreference.com/w/cpp/algorithm/sort",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/ik9p"
@@ -4714,7 +4714,7 @@
             "docs/basic/stl-sort.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250520225922/https://zh.cppreference.com/w/cpp/algorithm/nth_element",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/3FBv"
@@ -4724,7 +4724,7 @@
             "docs/basic/stl-sort.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250520225915/https://zh.cppreference.com/w/cpp/algorithm/stable_sort",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/yizP"
@@ -4734,7 +4734,7 @@
             "docs/basic/stl-sort.md"
         ],
         "archiveLink": "https://web.archive.org/web/20190927164142/https://zh.cppreference.com/w/cpp/algorithm/partial_sort",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/ovj7"
@@ -4746,7 +4746,7 @@
             "docs/lang/op-overload.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250115084012/https://zh.cppreference.com/w/cpp/language/operators",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/OTpl"
@@ -4987,7 +4987,7 @@
             "docs/math/order-theory.md"
         ],
         "archiveLink": "https://web.archive.org/web/20180618183107/https://en.cppreference.com/w/cpp/named_req/Compare#Standard_library",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/FaZy"
@@ -4997,7 +4997,7 @@
             "docs/math/order-theory.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250813150849/https://en.cppreference.com/w/cpp/named_req/Compare",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/vp9w"
@@ -5417,7 +5417,7 @@
             "docs/math/coordinate.md"
         ],
         "archiveLink": "https://web.archive.org/web/20190924110344/https://zh.cppreference.com/w/cpp/numeric/math/atan2",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/csQ1"
@@ -5587,7 +5587,7 @@
             "docs/math/complex.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250813141413/https://zh.cppreference.com/w/cpp/numeric/complex/operator%2522%2522i.html",
-        "status": 0,
+        "status": -1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/u8RH"
@@ -5617,7 +5617,7 @@
             "docs/math/complex.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250813144101/https://en.cppreference.com/w/c/numeric/complex",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/8Gct"
@@ -5627,7 +5627,7 @@
             "docs/math/complex.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250830022445/https://en.cppreference.com/w/cpp/numeric/complex",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/M0PD"
@@ -5677,7 +5677,7 @@
             "docs/math/bit.md"
         ],
         "archiveLink": "https://web.archive.org/web/20231222012059/https://gcc.gnu.org/onlinedocs/gcc/Other-Builtins.html",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/fiaL"
@@ -5687,7 +5687,7 @@
             "docs/math/bignum.md"
         ],
         "archiveLink": "https://web.archive.org/web/20220726094858/https://paste.ubuntu.com/p/7VKYzpC7dn/",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/tvYp"
@@ -6268,7 +6268,7 @@
             "docs/math/probability/basic-conception.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250906105355/https://baike.baidu.com/item/%E5%87%A0%E4%BD%95%E6%A6%82%E5%9E%8B/4035773",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/2zSl"
@@ -7628,7 +7628,7 @@
             "docs/math/numerical/interp.md"
         ],
         "archiveLink": "https://web.archive.org/web/20211208111809/https://en.cppreference.com/w/cpp/numeric/midpoint",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/EO9C"
@@ -7638,7 +7638,7 @@
             "docs/math/numerical/interp.md"
         ],
         "archiveLink": "https://web.archive.org/web/20220926064623/https://en.cppreference.com/w/cpp/numeric/lerp",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/aDPo"
@@ -9125,7 +9125,7 @@
             "docs/math/number-theory/gcd.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250813152238/https://en.cppreference.com/w/cpp/header/numeric",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/I5Vr"
@@ -9136,7 +9136,7 @@
             "docs/math/number-theory/gcd.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250813152229/https://en.cppreference.com/w/cpp/numeric/gcd",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/51jB"
@@ -9146,7 +9146,7 @@
             "docs/math/number-theory/gcd.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250813153137/https://en.cppreference.com/w/cpp/numeric/lcm",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/6Q7C"
@@ -9176,7 +9176,7 @@
             "docs/math/number-theory/gcd.md"
         ],
         "archiveLink": "https://web.archive.org/web/20201114100248/https://en.cppreference.com/w/cpp/numeric/countr_zero",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/sojL"
@@ -9246,7 +9246,7 @@
             "docs/math/number-theory/basic.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250813143926/https://en.cppreference.com/w/c/language/operator_arithmetic",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/boqQ"
@@ -9256,7 +9256,7 @@
             "docs/math/number-theory/basic.md"
         ],
         "archiveLink": "https://web.archive.org/web/20221229170725/https://en.cppreference.com/w/cpp/language/operator_arithmetic",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/NWLp"
@@ -11601,7 +11601,7 @@
             "docs/contest/common-mistakes.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250414071346/https://zh.cppreference.com/w/cpp/language/constructor",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Hfjg"
@@ -11651,7 +11651,7 @@
             "docs/contest/common-mistakes.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241004224138/https://unix.stackexchange.com/questions/35129/need-explanation-on-resident-set-size-virtual-size",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/6yh2"
@@ -11712,7 +11712,7 @@
             "docs/dp/plug.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241231193912/https://github.com/OI-wiki/libs/blob/master/topic/7-%E7%8E%8B%E5%A4%A9%E6%87%BF-%E8%AE%BA%E5%81%8F%E9%A2%98%E7%9A%84%E5%8D%B1%E5%AE%B3.ppt",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/IExQ"
@@ -12498,7 +12498,7 @@
             "docs/contest/oi.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250811134118/http://olimpiada.info/",
-        "status": 0,
+        "status": -2,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/QL1H"
@@ -12860,7 +12860,7 @@
         ],
         "archiveLink": "https://web.archive.org/web/20250101082611/https://www.linkedin.com/in/mike-mirzayanov-31772a93/",
         "status": 0,
-        "failTime": 1,
+        "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/A0QY"
     },
@@ -13360,7 +13360,7 @@
             "docs/contest/resources.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241231194341/https://contest.cs.cmu.edu/295/",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/8UL9"
@@ -13480,7 +13480,7 @@
             "docs/contest/resources.md"
         ],
         "archiveLink": "https://web.archive.org/web/20231208071341/https://zh.cppreference.com/w/",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/BKv1"
@@ -13612,7 +13612,7 @@
             "docs/contest/resources.md"
         ],
         "archiveLink": "https://web.archive.org/web/20221210214917/https://www.udebug.com",
-        "status": 1,
+        "status": -2,
         "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/35dt"
@@ -13873,7 +13873,7 @@
             "docs/contest/io.md"
         ],
         "archiveLink": "https://web.archive.org/web/20231126223636/https://en.cppreference.com/w/cpp/io/ios_base/sync_with_stdio",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/ATxb"
@@ -13883,7 +13883,7 @@
             "docs/contest/io.md"
         ],
         "archiveLink": "https://web.archive.org/web/20220927173709/https://en.cppreference.com/w/cpp/io/basic_ios/tie",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/sTt6"
@@ -13923,7 +13923,7 @@
             "docs/contest/io.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250813144111/https://en.cppreference.com/w/cpp/string/byte/isdigit",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/mbjX"
@@ -13933,7 +13933,7 @@
             "docs/contest/io.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250904222042/https://en.cppreference.com/w/cpp/language/templates.html",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/yU90"
@@ -14404,7 +14404,7 @@
             "docs/misc/random.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250830075113/https://zh.cppreference.com/w/cpp/numeric/random#.E9.9A.8F.E6.9C.BA.E6.95.B0.E5.88.86.E5.B8.83",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/5qnf"
@@ -14424,7 +14424,7 @@
             "docs/misc/random.md"
         ],
         "archiveLink": "https://web.archive.org/web/20220601072730/https://zh.cppreference.com/w/cpp/numeric/random#%E9%A2%84%E5%AE%9A%E4%B9%89%E9%9A%8F%E6%9C%BA%E6%95%B0%E7%94%9F%E6%88%90%E5%99%A8",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/UJMk"
@@ -14616,7 +14616,7 @@
             "docs/misc/main-element.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250813152020/https://en.cppreference.com/w/cpp/io/basic_istream/seekg",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Z5c6"
@@ -14626,7 +14626,7 @@
             "docs/misc/main-element.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250813143603/https://en.cppreference.com/w/c/io/rewind",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/MaaU"
@@ -14636,7 +14636,7 @@
             "docs/misc/main-element.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250813143610/https://en.cppreference.com/w/c/io/fseek",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/c9TH"
@@ -15798,7 +15798,7 @@
             "docs/tools/wsl.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250908010456/https://wiki.ubuntu.com/WSL",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Ubb3"
@@ -15988,7 +15988,7 @@
             "docs/tools/cmd.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250429213145/https://stackoverflow.com/questions/1033898/why-do-you-have-to-link-the-math-library-in-c",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/FfWP"
@@ -16362,7 +16362,7 @@
             "docs/tools/special-judge.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240722185829/https://paste.ubuntu.com/p/JsTspHHnmB/",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/UaSx"
@@ -16542,7 +16542,7 @@
             "docs/tools/latex.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250724155641/http://mirror.ctan.org/macros/latex/contrib/natbib/natnotes.pdf",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/x0aG"
@@ -16632,7 +16632,7 @@
             "docs/tools/cmd.md"
         ],
         "archiveLink": "https://web.archive.org/web/20220609140547/https://unix.stackexchange.com/a/70655",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/HQ6K"
@@ -20094,7 +20094,7 @@
             "docs/graph/graph-matching/bigraph-weight-match.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250617173805/https://www.ri.cmu.edu/publications/the-dynamic-hungarian-algorithm-for-the-assignment-problem-with-changing-costs/",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/1yCo"
@@ -20395,8 +20395,8 @@
         ],
         "archiveLink": "https://web.archive.org/web/20190728161400/https://www.cse.iitm.ac.in/~meghana/matchings/bip-decomp.pdf",
         "status": 0,
-        "failTime": 2,
-        "fail": false,
+        "failTime": 3,
+        "fail": true,
         "shortArchiveLink": "https://d.00.mk/zE3c"
     },
     "https://uoj.ac/problem/79": {
@@ -20444,7 +20444,7 @@
             "docs/graph/graph-matching/graph-match.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250906224334/https://www.wikiwand.com/en/Matching_%28graph_theory%29",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/uwGB"
@@ -20454,7 +20454,7 @@
             "docs/graph/graph-matching/graph-match.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250907204519/https://www.wikiwand.com/en/Blossom_algorithm",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/1qoS"
@@ -20504,7 +20504,7 @@
             "docs/graph/graph-matching/graph-match.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250908212404/https://www.wikiwand.com/en/Hopcroft%E2%80%93Karp_algorithm",
-        "status": 1,
+        "status": -1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/oLQR"
@@ -20545,7 +20545,7 @@
             "docs/lang/struct.md"
         ],
         "archiveLink": "https://web.archive.org/web/20220721015120/https://zh.cppreference.com/w/cpp/language/class",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/WupF"
@@ -20576,7 +20576,7 @@
             "docs/lang/cpp-other-langs.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241228073814/https://en.cppreference.com/w/c/language/struct_initialization",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/cpXJ"
@@ -20597,7 +20597,7 @@
             "docs/lang/cpp-other-langs.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250813143903/https://en.cppreference.com/w/c/language/identifier",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/A2lG"
@@ -20608,7 +20608,7 @@
             "docs/lang/cpp-other-langs.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250813143442/https://en.cppreference.com/w/cpp/language/aggregate_initialization",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/491l"
@@ -20638,7 +20638,7 @@
             "docs/lang/var.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241113142846/https://zh.cppreference.com/w/cpp/language/type",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/uuav"
@@ -20648,7 +20648,7 @@
             "docs/lang/var.md"
         ],
         "archiveLink": "https://web.archive.org/web/20230921092231/https://zh.cppreference.com/w/c/language/arithmetic_types",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/R4cS"
@@ -20659,7 +20659,7 @@
             "docs/lang/var.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250414032504/https://zh.cppreference.com/w/cpp/language/types",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/cdp9"
@@ -20669,7 +20669,7 @@
             "docs/lang/var.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250414054905/https://zh.cppreference.com/w/cpp/types/integer",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/3CJT"
@@ -20690,7 +20690,7 @@
             "docs/lang/var.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250520230445/https://zh.cppreference.com/w/cpp/language/implicit_conversion",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/w7QU"
@@ -20700,7 +20700,7 @@
             "docs/lang/var.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250905082545/https://zh.cppreference.com/w/cpp/language/declarations",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/lwGe"
@@ -20710,7 +20710,7 @@
             "docs/lang/var.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240805201310/https://zh.cppreference.com/w/cpp/language/scope",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Wfx2"
@@ -20720,7 +20720,7 @@
             "docs/lang/var.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240805201310/https://zh.cppreference.com/w/cpp/language/scope#.E5.A3.B0.E6.98.8E.E7.82.B9",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/q3Hx"
@@ -20730,7 +20730,7 @@
             "docs/lang/var.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250520230445/https://zh.cppreference.com/w/cpp/language/implicit_conversion#.E6.95.B4.E5.9E.8B.E8.BD.AC.E6.8D.A2",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Wd8y"
@@ -20740,7 +20740,7 @@
             "docs/lang/op-overload.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250430131354/https://zh.cppreference.com/w/cpp/language/operator_comparison#Three-way_comparison",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/oKvS"
@@ -20750,7 +20750,7 @@
             "docs/lang/op-overload.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240731103603/https://zh.cppreference.com/w/cpp/language/user_literal",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/KIdC"
@@ -20760,7 +20760,7 @@
             "docs/lang/op-overload.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250430131354/https://zh.cppreference.com/w/cpp/language/operator_comparison#.E4.B8.89.E8.B7.AF.E6.AF.94.E8.BE.83",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/mKlm"
@@ -20770,7 +20770,7 @@
             "docs/lang/op-overload.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240907182131/https://zh.cppreference.com/w/cpp/language/default_comparisons",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/hf2p"
@@ -20780,7 +20780,7 @@
             "docs/lang/value-category.md"
         ],
         "archiveLink": "https://web.archive.org/web/20231230225217/https://en.cppreference.com/w/cpp/language/value_category",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/K0gw"
@@ -20820,7 +20820,7 @@
             "docs/lang/value-category.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250906062145/https://en.cppreference.com/w/cpp/language/copy_elision",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/qRI2"
@@ -20830,7 +20830,7 @@
             "docs/lang/reference.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240627233608/https://zh.cppreference.com/w/cpp/utility/functional/reference_wrapper",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/HdBI"
@@ -20840,7 +20840,7 @@
             "docs/lang/reference.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241227070322/https://zh.cppreference.com/w/cpp/language/reference",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/f4Dv"
@@ -20850,7 +20850,7 @@
             "docs/lang/reference.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250520231334/https://zh.cppreference.com/w/cpp/language/aggregate_initialization",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/uWwK"
@@ -20860,7 +20860,7 @@
             "docs/lang/reference.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250824043625/https://zh.cppreference.com/w/cpp/language/value_category",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/sfzi"
@@ -20870,7 +20870,7 @@
             "docs/lang/reference.md"
         ],
         "archiveLink": "https://web.archive.org/web/20170326022015/https://stackoverflow.com/questions/38909228/does-const-ref-lvalue-to-non-const-func-return-value-specifically-reduce-copies",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/l9Mj"
@@ -20880,7 +20880,7 @@
             "docs/lang/namespace.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250813145241/https://en.cppreference.com/w/cpp/language/namespace",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/MEid"
@@ -20890,7 +20890,7 @@
             "docs/lang/class.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241227023047/https://zh.cppreference.com/w/cpp/language/access",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/iDnP"
@@ -20900,7 +20900,7 @@
             "docs/lang/class.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241126180016/https://zh.cppreference.com/w/cpp/language/default_constructor",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/h2sR"
@@ -20940,7 +20940,7 @@
             "docs/lang/class.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250530102539/https://zh.cppreference.com/w/cpp/language/value_initialization",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/jZHO"
@@ -20980,7 +20980,7 @@
             "docs/lang/union.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250520231324/https://zh.cppreference.com/w/cpp/language/union",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/H2mG"
@@ -20990,7 +20990,7 @@
             "docs/lang/const.md"
         ],
         "archiveLink": "https://web.archive.org/web/20230330202013/https://zh.cppreference.com/w/cpp/keyword/const",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/9IN9"
@@ -21000,7 +21000,7 @@
             "docs/lang/const.md"
         ],
         "archiveLink": "https://web.archive.org/web/20171229034447/https://zh.cppreference.com/w/cpp/keyword/constexpr",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/ZLpQ"
@@ -21010,7 +21010,7 @@
             "docs/lang/pointer.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250906195009/https://en.cppreference.com/w/cpp/language/list_initialization",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/vqi0"
@@ -21350,7 +21350,7 @@
             "docs/lang/python.md"
         ],
         "archiveLink": "https://web.archive.org/web/20230328063329/https://zh.cppreference.com/w/cpp/language/try_catch",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/xXmU"
@@ -21690,7 +21690,7 @@
             "docs/lang/lambda.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241227023047/https://zh.cppreference.com/w/cpp/language/function#.E5.BD.A2.E5.8F.82.E5.88.97.E8.A1.A8",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/CbAH"
@@ -21720,7 +21720,7 @@
             "docs/lang/lambda.md"
         ],
         "archiveLink": "https://web.archive.org/web/20161102090459/https://zh.cppreference.com/w/cpp/algorithm/find",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/i6Qd"
@@ -21730,7 +21730,7 @@
             "docs/lang/lambda.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250901070742/https://en.cppreference.com/w/cpp/language/lambda",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/ESym"
@@ -21740,7 +21740,7 @@
             "docs/lang/lambda.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250911185130/https://stackoverflow.com/a/33881130/11120338",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/scne"
@@ -21750,7 +21750,7 @@
             "docs/lang/new.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250415065225/https://zh.cppreference.com/w/cpp/utility/tuple",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/m3Ys"
@@ -21760,7 +21760,7 @@
             "docs/lang/new.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250813132122/https://zh.cppreference.com/w/cpp/named_req/FunctionObject",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/rRcH"
@@ -21770,7 +21770,7 @@
             "docs/lang/new.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250819090024/https://stackoverflow.com/questions/5057382/what-is-the-performance-overhead-of-stdfunction",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/EnsR"
@@ -21780,7 +21780,7 @@
             "docs/lang/new.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250813154048/https://zh.cppreference.com/w/cpp/named_req/Callable",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/mqoA"
@@ -21790,7 +21790,7 @@
             "docs/lang/new.md"
         ],
         "archiveLink": "https://web.archive.org/web/20181215185746/https://zh.cppreference.com/w/cpp/utility/functional/bad_function_call",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/6au9"
@@ -21800,7 +21800,7 @@
             "docs/lang/new.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250417103550/https://zh.cppreference.com/w/cpp/ranges",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/77hV"
@@ -21810,7 +21810,7 @@
             "docs/lang/new.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250811132410/https://zh.cppreference.com/w/cpp/named_req/RangeAdaptorClosureObject",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/umZP"
@@ -21830,7 +21830,7 @@
             "docs/lang/new.md"
         ],
         "archiveLink": "https://web.archive.org/web/20220621102545/https://zh.cppreference.com/w/cpp/language/constraints",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/8flq"
@@ -21842,7 +21842,7 @@
             "docs/lang/csl/index.md"
         ],
         "archiveLink": "https://web.archive.org/web/20231219221012/https://zh.cppreference.com/",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/zfiw"
@@ -21892,7 +21892,7 @@
             "docs/lang/optimizations.md"
         ],
         "archiveLink": "https://web.archive.org/web/20211205073926/https://en.cppreference.com/w/cpp/language/as_if",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/e239"
@@ -21912,7 +21912,7 @@
             "docs/lang/optimizations.md"
         ],
         "archiveLink": "https://web.archive.org/web/20231126224641/https://en.cppreference.com/w/cpp/language/attributes/likely",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/EIWB"
@@ -22002,7 +22002,7 @@
             "docs/lang/optimizations.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250813152929/https://en.cppreference.com/w/cpp/keyword/register",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/H3Kf"
@@ -22012,7 +22012,7 @@
             "docs/lang/optimizations.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250907013816/https://en.cppreference.com/w/cpp/language/ub",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/FKrm"
@@ -22292,7 +22292,7 @@
             "docs/lang/pas-cpp.md"
         ],
         "archiveLink": "https://web.archive.org/web/20120910031335/https://zh.cppreference.com/w/cpp/numeric/math",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/77yj"
@@ -22302,7 +22302,7 @@
             "docs/lang/op.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240111012601/https://zh.cppreference.com/w/cpp/language/operator_member_access",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/3obe"
@@ -22312,7 +22312,7 @@
             "docs/lang/op.md"
         ],
         "archiveLink": "https://web.archive.org/web/20221229025118/https://zh.cppreference.com/w/cpp/language/operator_precedence",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/73GJ"
@@ -22322,7 +22322,7 @@
             "docs/lang/csl/iterator.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250903104442/https://en.cppreference.com/w/cpp/iterator",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/bNm9"
@@ -22332,7 +22332,7 @@
             "docs/lang/csl/sequence-container.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250829072741/https://zh.cppreference.com/w/cpp/language/list_initialization",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/WQvJ"
@@ -22342,7 +22342,7 @@
             "docs/lang/csl/sequence-container.md"
         ],
         "archiveLink": "https://web.archive.org/web/20230729122110/https://zh.cppreference.com/w/cpp/container/vector",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/tEF2"
@@ -22362,7 +22362,7 @@
             "docs/lang/csl/sequence-container.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250417160005/https://zh.cppreference.com/w/cpp/container/list",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/XBo7"
@@ -22372,7 +22372,7 @@
             "docs/lang/csl/sequence-container.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250514190329/https://zh.cppreference.com/w/cpp/container/forward_list",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/fBxI"
@@ -22382,7 +22382,7 @@
             "docs/lang/csl/bitset.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250901193325/https://en.cppreference.com/w/cpp/utility/bitset",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/u1DV"
@@ -22532,7 +22532,7 @@
             "docs/lang/csl/algorithm.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250909001151/https://zh.cppreference.com/w/cpp/algorithm",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/avNf"
@@ -22542,7 +22542,7 @@
             "docs/lang/csl/algorithm.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240814172753/https://zh.cppreference.com/w/cpp/numeric/random/random_device",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/H7SU"
@@ -22552,7 +22552,7 @@
             "docs/lang/csl/algorithm.md"
         ],
         "archiveLink": "https://web.archive.org/web/20200902075102/https://zh.cppreference.com/w/cpp/numeric/random/mersenne_twister_engine",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/6V6n"
@@ -22663,7 +22663,7 @@
             "docs/lang/csl/index.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241230212004/https://www.boost.org/",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/TYBO"
@@ -22673,7 +22673,7 @@
             "docs/lang/csl/index.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250831184136/https://en.cppreference.com/",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/qyoE"
@@ -22693,7 +22693,7 @@
             "docs/lang/csl/index.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250826111207/https://theboostcpplibraries.com/",
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/jg9O"
@@ -23134,7 +23134,7 @@
             "docs/search/bidirectional.md"
         ],
         "archiveLink": null,
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": null
@@ -24023,7 +24023,7 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250922011758/http://www.w3.org/TR/SVG11/",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/vwxf"
@@ -24123,7 +24123,7 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241230161914/https://en.cppreference.com/w/cpp/language/type_alias",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/0vXo"
@@ -24223,7 +24223,7 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250831215946/https://en.cppreference.com/w/cpp/language/operator_alternative#Alternative_tokens",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/plce"
@@ -24233,7 +24233,7 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250813153249/https://en.cppreference.com/w/cpp/language/operators",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/PvaQ"
@@ -24243,7 +24243,7 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20221130132418/https://en.cppreference.com/w/cpp/io/c#Formatted_input.2Foutput",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/jiVI"
@@ -24383,7 +24383,7 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250101001942/https://stackoverflow.com/questions/10460250/cstdio-stdio-h-namespace",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/JwOI"
@@ -27089,7 +27089,7 @@
             "docs/geometry/2d.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250824212208/https://en.cppreference.com/w/cpp/utility/pair.html",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/kEuV"
