@@ -1688,8 +1688,8 @@
             "docs/ds/persistent.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250618110258/https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/lecture-notes/persistent.pdf",
-        "status": 1,
-        "failTime": 1,
+        "status": 0,
+        "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Rts8"
     },
@@ -5277,8 +5277,8 @@
             "docs/math/balanced-ternary.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250925210916/https://archive.topcoder.com/ProblemStatement/pm/12917",
-        "status": -1,
-        "failTime": 0,
+        "status": 0,
+        "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/y7UP"
     },
@@ -8516,7 +8516,7 @@
         ],
         "archiveLink": "https://web.archive.org/web/20220628150754/https://projecteuler.net/problem=708",
         "status": 0,
-        "failTime": 1,
+        "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/dogC"
     },
@@ -8526,7 +8526,7 @@
         ],
         "archiveLink": "https://web.archive.org/web/20250323214750/https://projecteuler.net/problem=639",
         "status": 0,
-        "failTime": 1,
+        "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/aVaV"
     },
@@ -8536,7 +8536,7 @@
         ],
         "archiveLink": "https://web.archive.org/web/20250612143537/https://projecteuler.net/problem=484",
         "status": 0,
-        "failTime": 1,
+        "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/tefM"
     },
@@ -9186,7 +9186,7 @@
             "docs/math/number-theory/gcd.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250816191443/https://lemire.me/blog/2013/12/26/fastest-way-to-compute-the-greatest-common-divisor/",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/G2fM"
@@ -10016,7 +10016,7 @@
             "i-wiki/OI-wiki/docs/math/number-theory/mobius.md"
         ],
         "archiveLink": null,
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": null
@@ -10657,7 +10657,7 @@
         ],
         "archiveLink": "https://web.archive.org/web/20220628150708/https://projecteuler.net/problem=434",
         "status": 0,
-        "failTime": 1,
+        "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/KAzT"
     },
@@ -11873,7 +11873,7 @@
             "docs/contest/problemsetting.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250913220714/https://help.luogu.com.cn/manual/luogu/problem/testcase-format#附录windows-环境下造数据注意事项",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/MxdU"
@@ -12498,7 +12498,7 @@
             "docs/contest/oi.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250811134118/http://olimpiada.info/",
-        "status": -2,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/QL1H"
@@ -13020,8 +13020,8 @@
             "docs/contest/resources.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250909195108/https://www.topcoder.com/",
-        "status": 1,
-        "failTime": 0,
+        "status": 0,
+        "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/ksrc"
     },
@@ -13030,8 +13030,8 @@
             "docs/contest/resources.md"
         ],
         "archiveLink": "https://web.archive.org/web/20191204085752/https://www.topcoder.com/community/competitive-programming/",
-        "status": 1,
-        "failTime": 0,
+        "status": 0,
+        "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/xZXg"
     },
@@ -13130,8 +13130,8 @@
             "docs/contest/resources.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250820214924/https://www.topcoder.com/community/competitive-programming/tutorials/",
-        "status": 1,
-        "failTime": 0,
+        "status": 0,
+        "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/qBz4"
     },
@@ -13470,7 +13470,7 @@
             "docs/contest/resources.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250908233913/http://algorithm-visualizer.org",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/jSY8"
@@ -13754,7 +13754,7 @@
         ],
         "archiveLink": "https://web.archive.org/web/20241231194607/https://projecteuler.net/",
         "status": 0,
-        "failTime": 1,
+        "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/HpiO"
     },
@@ -15157,8 +15157,8 @@
             "docs/misc/rand-technique.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250925235101/https://archive.topcoder.com/ProblemStatement/pm/11705",
-        "status": -1,
-        "failTime": 0,
+        "status": 0,
+        "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/a9U1"
     },
@@ -15658,7 +15658,7 @@
             "docs/tools/wsl.md"
         ],
         "archiveLink": "https://web.archive.org/web/20181230051425/https://sourceforge.net/projects/xming/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/cD4J"
@@ -15968,7 +15968,7 @@
             "docs/tools/cmd.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241224195320/https://www.gnu.org/software/make/manual/html_node/Catalogue-of-Rules.html",
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/m0Be"
@@ -16612,7 +16612,7 @@
             "docs/tools/latex.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240626134605/https://web.archive.org/web/20220309055041/http://www.docs.is.ed.ac.uk/skills/documents/3722/3722-2014.pdf",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/WAbE"
@@ -16702,7 +16702,7 @@
             "docs/tools/judger/cena.md"
         ],
         "archiveLink": null,
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": null
@@ -17555,7 +17555,7 @@
             "docs/tools/editor/npp.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241224034333/https://sourceforge.net/projects/npp-plugins/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/hzYN"
@@ -17565,7 +17565,7 @@
             "docs/tools/editor/npp.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250802113220/https://sourceforge.net/projects/orwelldevcpp/files/Tools/ConsolePauser.exe/download",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/oM5Y"
@@ -17615,7 +17615,7 @@
             "docs/tools/editor/devcpp.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250813220121/https://sourceforge.net/projects/embarcadero-devcpp/",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/yik0"
@@ -18632,7 +18632,7 @@
             "docs/graph/tree-centroid.md"
         ],
         "archiveLink": null,
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": null
@@ -18832,8 +18832,8 @@
             "docs/graph/prufer.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250925191951/https://archive.topcoder.com/ProblemStatement/pm/10774",
-        "status": -1,
-        "failTime": 0,
+        "status": 0,
+        "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/j3hK"
     },
@@ -18932,7 +18932,7 @@
             "docs/graph/lca.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250712171103/https://acm.hdu.edu.cn/showproblem.php?pid=2586",
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/hMHA"
@@ -20014,7 +20014,7 @@
             "docs/graph/flow/min-cost.md"
         ],
         "archiveLink": null,
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": null
@@ -20679,7 +20679,7 @@
             "docs/lang/var.md"
         ],
         "archiveLink": "https://web.archive.org/web/20201207082430/https://people.eecs.berkeley.edu/~wkahan/ieee754status/IEEE754.PDF",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/5Gj2"
@@ -21040,7 +21040,7 @@
             "docs/lang/python.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250904085839/https://devguide.python.org/versions/#unsupported-versions",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/95a9"
@@ -23318,7 +23318,7 @@
             "docs/intro/faq.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241231195156/https://mkdocs.readthedocs.io",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/bwoX"
@@ -23553,7 +23553,7 @@
             "docs/intro/mirrors.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241231193854/http://oi-wiki.com",
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/OcWN"
@@ -23713,7 +23713,7 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250926173320/https://github.com/OI-wiki/OI-wiki/pull/6412",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/v0kE"
@@ -23723,7 +23723,7 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250926174246/https://github.com/OI-wiki/OI-wiki/pull/6409",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/aCvf"
@@ -23733,7 +23733,7 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250926173512/https://github.com/OI-wiki/OI-wiki/pull/5912",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Urlf"
@@ -23743,7 +23743,7 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250927161312/https://github.com/OI-wiki/OI-wiki/pull/5924",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/z1ag"
@@ -23753,7 +23753,7 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250926173416/https://github.com/OI-wiki/OI-wiki/pull/5482",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/phJ5"
@@ -23763,7 +23763,7 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250926173541/https://github.com/OI-wiki/OI-wiki/pull/5152",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/gVyf"
@@ -23773,7 +23773,7 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250926173444/https://github.com/OI-wiki/OI-wiki/pull/5023",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Oi2X"
@@ -23783,7 +23783,7 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250925200004/https://github.com/OI-wiki/OI-wiki/pull/4792",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/ZXsw"
@@ -23813,7 +23813,7 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250925201048/https://github.com/OI-wiki/OI-wiki/pull/4500",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/GbeQ"
@@ -23823,7 +23823,7 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250926173540/https://github.com/OI-wiki/OI-wiki/pull/4057",
-        "status": 0,
+        "status": 1,
         "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/L5HY"
@@ -23833,7 +23833,7 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250925201132/https://github.com/OI-wiki/OI-wiki/pull/4043",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/nVS0"
@@ -23843,7 +23843,7 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250925201152/https://github.com/OI-wiki/OI-wiki/pull/3517",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/7q2K"
@@ -23853,7 +23853,7 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250925201217/https://github.com/OI-wiki/OI-wiki/pull/3499",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/qNZ7"
@@ -23863,7 +23863,7 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250925201329/https://github.com/OI-wiki/OI-wiki/pull/3447",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/t6cf"
@@ -23883,7 +23883,7 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250925202337/https://github.com/OI-wiki/OI-wiki/pull/3255",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/I1Fj"
@@ -23893,7 +23893,7 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250925202356/https://github.com/OI-wiki/OI-wiki/pull/3197",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/KLmV"
@@ -23913,7 +23913,7 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250925202425/https://github.com/OI-wiki/OI-wiki/pull/2950",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/rNMN"
@@ -23933,7 +23933,7 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250925202450/https://github.com/OI-wiki/OI-wiki/pull/2918",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/JsFC"
@@ -23943,7 +23943,7 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20210105232132/https://github.com/OI-wiki/OI-wiki/pull/2744",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/s1as"
@@ -23963,7 +23963,7 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20210105232903/https://github.com/OI-wiki/OI-wiki/pull/2502",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/QrM2"
@@ -23973,7 +23973,7 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20210105233026/https://github.com/OI-wiki/OI-wiki/pull/2466",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/qZtw"
@@ -23983,7 +23983,7 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20210105233112/https://github.com/OI-wiki/OI-wiki/pull/2442",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/kYBY"
@@ -23993,7 +23993,7 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20210105233139/https://github.com/OI-wiki/OI-wiki/pull/2422",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/HlpY"
@@ -24003,7 +24003,7 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20210105233150/https://github.com/OI-wiki/OI-wiki/pull/2412",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/GD2B"
@@ -24013,7 +24013,7 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20210105233329/https://github.com/OI-wiki/OI-wiki/pull/2350",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/xwhT"
@@ -24143,7 +24143,7 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250925202511/https://github.com/OI-wiki/OI-wiki/pull/5729",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/EbXt"
@@ -24373,7 +24373,7 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250829175241/https://web.archive.org/save/",
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/k308"
@@ -24744,8 +24744,8 @@
             "docs/dp/plug.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250925181903/https://archive.topcoder.com/ProblemStatement/pm/14069",
-        "status": -1,
-        "failTime": 0,
+        "status": 0,
+        "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Ykl5"
     },
@@ -24845,7 +24845,7 @@
         ],
         "archiveLink": "https://web.archive.org/web/20250831093647/https://projecteuler.net/problem=393",
         "status": 0,
-        "failTime": 1,
+        "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/VVEP"
     },
@@ -24904,8 +24904,8 @@
             "docs/dp/plug.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250925182853/https://archive.topcoder.com/ProblemStatement/pm/6482",
-        "status": -1,
-        "failTime": 0,
+        "status": 0,
+        "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/FJ5k"
     },
@@ -24944,7 +24944,7 @@
             "docs/dp/plug.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240810091216/https://acm.hdu.edu.cn/showproblem.php?pid=5513",
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/784S"
@@ -25014,7 +25014,7 @@
             "docs/dp/plug.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240707104323/https://acm.hdu.edu.cn/showproblem.php?pid=3958",
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Grt2"
@@ -25084,7 +25084,7 @@
             "docs/dp/plug.md"
         ],
         "archiveLink": null,
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": null
@@ -25094,7 +25094,7 @@
             "docs/dp/plug.md"
         ],
         "archiveLink": null,
-        "status": 0,
+        "status": 1,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": null
@@ -27539,7 +27539,7 @@
             "docs/geometry/triangulation.md"
         ],
         "archiveLink": "https://web.archive.org/web/20211127063406/http://www.geom.uiuc.edu/~samuelp/del_project.html",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/X3Tw"
