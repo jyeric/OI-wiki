@@ -1678,7 +1678,7 @@
             "docs/ds/persistent.md"
         ],
         "archiveLink": "https://web.archive.org/web/20131111075322/https://en.wikipedia.org/wiki/Persistent_data_structure",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/cScD"
@@ -1688,7 +1688,7 @@
             "docs/ds/persistent.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250618110258/https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/lecture-notes/persistent.pdf",
-        "status": 0,
+        "status": 1,
         "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Rts8"
@@ -1728,7 +1728,7 @@
             "docs/ds/pq-tree.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250827022512/https://en.wikipedia.org/wiki/Journal_of_Computer_and_System_Sciences",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/4dmV"
@@ -2033,7 +2033,7 @@
             "docs/ds/llrbt.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250906214239/https://en.wikipedia.org/wiki/2%E2%80%933_tree",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/zkgB"
@@ -2205,7 +2205,7 @@
             "docs/ds/cartesian-tree.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250822232334/https://zh.wikipedia.org/wiki/%E7%AC%9B%E5%8D%A1%E5%B0%94%E6%A0%91",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/PtXC"
@@ -2521,7 +2521,7 @@
             "docs/ds/finger-tree.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250907012346/https://en.wikipedia.org/wiki/Monoidal_category",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/P4Co"
@@ -2561,7 +2561,7 @@
             "docs/ds/finger-tree.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250512192212/https://en.wikipedia.org/wiki/Finger_tree",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/HvKD"
@@ -2612,7 +2612,7 @@
             "docs/ds/sgt.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250812125839/https://en.wikipedia.org/wiki/Scapegoat_tree",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/xa51"
@@ -2787,7 +2787,7 @@
             "docs/ds/treap.md"
         ],
         "archiveLink": "https://web.archive.org/web/20231128183754/https://charleswu.site/archives/1051",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/PkQk"
@@ -3280,7 +3280,7 @@
             "docs/ds/rbtree.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250403125734/https://en.wikipedia.org/wiki/2%E2%80%933%E2%80%934_tree",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/kwT7"
@@ -3530,7 +3530,7 @@
             "docs/ds/heap.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250908043910/https://en.wikipedia.org/wiki/Priority_queue#Summary_of_running_times",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/swWr"
@@ -3550,7 +3550,7 @@
             "docs/ds/wblt.md"
         ],
         "archiveLink": "https://web.archive.org/web/20190720235403/https://en.wikipedia.org/wiki/Weight-balanced_tree",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/z7sc"
@@ -3700,7 +3700,7 @@
             "docs/ds/pairing-heap.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250818080934/https://en.wikipedia.org/wiki/Pairing_heap",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/pCXq"
@@ -3791,7 +3791,7 @@
             "docs/ds/aa-tree.md"
         ],
         "archiveLink": "https://web.archive.org/web/20210917150031/https://en.wikipedia.org/wiki/AA_tree",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/EFst"
@@ -4143,7 +4143,7 @@
             "docs/basic/tim-sort.md"
         ],
         "archiveLink": "https://web.archive.org/web/20201112015536/https://en.wikipedia.org/wiki/Timsort",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/NktL"
@@ -4243,7 +4243,7 @@
             "docs/basic/greedy.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250829034835/https://zh.wikipedia.org/wiki/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/u3QL"
@@ -4253,7 +4253,7 @@
             "docs/basic/counting-sort.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250825175033/https://zh.wikipedia.org/wiki/%E8%AE%A1%E6%95%B0%E6%8E%92%E5%BA%8F",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/sHxV"
@@ -4283,7 +4283,7 @@
             "docs/basic/bucket-sort.md"
         ],
         "archiveLink": "https://web.archive.org/web/20221110055912/https://en.wikipedia.org/wiki/Bucket_sort#Average-case_analysis",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/txV8"
@@ -4293,7 +4293,7 @@
             "docs/basic/merge-sort.md"
         ],
         "archiveLink": "https://web.archive.org/web/20231227210416/https://en.wikipedia.org/wiki/Merge_sort",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/JrV7"
@@ -4313,7 +4313,7 @@
             "docs/basic/merge-sort.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240920013906/https://zh.wikipedia.org/wiki/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/zDE0"
@@ -4323,7 +4323,7 @@
             "docs/basic/merge-sort.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250101080900/https://zh.wikipedia.org/wiki/%E9%80%86%E5%BA%8F%E5%AF%B9",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/jQRF"
@@ -4374,7 +4374,7 @@
             "docs/basic/tournament-sort.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250820093027/https://en.wikipedia.org/wiki/Tournament_sort",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/MN9B"
@@ -4384,7 +4384,7 @@
             "docs/basic/sort-intro.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250901031330/https://zh.wikipedia.org/wiki/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/SgJZ"
@@ -4394,7 +4394,7 @@
             "docs/basic/quick-sort.md"
         ],
         "archiveLink": "https://web.archive.org/web/20231211051525/https://en.wikipedia.org/wiki/Dutch_national_flag_problem",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/jrbv"
@@ -4424,7 +4424,7 @@
             "docs/basic/quick-sort.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250820093031/https://en.wikipedia.org/wiki/Introsort",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Fk3o"
@@ -4434,7 +4434,7 @@
             "docs/basic/quick-sort.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250807134837/https://zh.wikibooks.org/wiki/%E7%AE%97%E6%B3%95%E5%AE%9E%E7%8E%B0/%E6%8E%92%E5%BA%8F/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/L723"
@@ -4524,7 +4524,7 @@
             "docs/basic/amortized-analysis.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250804201210/https://en.wikipedia.org/wiki/Amortized_analysis",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/IJtv"
@@ -4544,7 +4544,7 @@
             "docs/basic/heap-sort.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250621121154/https://zh.wikipedia.org/wiki/%E5%A0%86%E6%8E%92%E5%BA%8F",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Nyf0"
@@ -4634,7 +4634,7 @@
             "docs/basic/binary.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241211111413/https://en.wikipedia.org/wiki/Ternary_search",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Dhzd"
@@ -4644,7 +4644,7 @@
             "docs/basic/binary.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250614183921/https://en.wikipedia.org/wiki/Golden-section_search",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Lcj7"
@@ -4777,7 +4777,7 @@
             "docs/basic/shell-sort.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250810204546/https://zh.wikipedia.org/wiki/%E5%B8%8C%E5%B0%94%E6%8E%92%E5%BA%8F",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/0QHW"
@@ -4907,7 +4907,7 @@
             "docs/math/order-theory.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250901000242/https://en.wikipedia.org/wiki/Zorn%27s_lemma",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/pvYt"
@@ -4927,7 +4927,7 @@
             "docs/math/order-theory.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241218115128/https://en.wikipedia.org/wiki/Well-ordering_theorem",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/y85t"
@@ -4937,7 +4937,7 @@
             "docs/math/order-theory.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250812173256/https://en.wikipedia.org/wiki/Level_set",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/D54B"
@@ -5017,7 +5017,7 @@
             "docs/math/order-theory.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250907062530/https://en.wikipedia.org/wiki/Binary_relation",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/6fuW"
@@ -5027,7 +5027,7 @@
             "docs/math/order-theory.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250901194602/https://en.wikipedia.org/wiki/Order_theory",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/AH99"
@@ -5037,7 +5037,7 @@
             "docs/math/order-theory.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241217204539/https://en.wikipedia.org/wiki/Hasse_diagram",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/6rGd"
@@ -5047,7 +5047,7 @@
             "docs/math/order-theory.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250822170711/https://en.wikipedia.org/wiki/Directed_set",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/CPGo"
@@ -5077,7 +5077,7 @@
             "docs/math/order-theory.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250902130918/https://en.wikipedia.org/wiki/List_of_order_theory_topics",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/W2Qj"
@@ -5107,7 +5107,7 @@
             "docs/math/order-theory.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250822190605/https://en.wikipedia.org/wiki/Dilworth%27s_theorem",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/oXVl"
@@ -5127,7 +5127,7 @@
             "docs/math/order-theory.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250822201829/https://en.wikipedia.org/wiki/Hall's_marriage_theorem",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": null
@@ -5237,7 +5237,7 @@
             "docs/math/matroid.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250908041832/https://en.wikipedia.org/wiki/Matroid",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/K12V"
@@ -5278,7 +5278,7 @@
         ],
         "archiveLink": "https://web.archive.org/web/20250925210916/https://archive.topcoder.com/ProblemStatement/pm/12917",
         "status": 0,
-        "failTime": 1,
+        "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/y7UP"
     },
@@ -5317,7 +5317,7 @@
             "docs/math/permutation.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241216024207/https://en.wikipedia.org/wiki/Lehmer_code",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/BKkH"
@@ -5327,7 +5327,7 @@
             "docs/math/permutation.md"
         ],
         "archiveLink": "https://web.archive.org/web/20221202060332/https://en.wikipedia.org/wiki/Factorial_number_system",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/i4H0"
@@ -5447,7 +5447,7 @@
             "docs/math/linear-programming.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241222174903/https://en.wikipedia.org/wiki/Hyperplane_separation_theorem",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/K8fX"
@@ -5477,7 +5477,7 @@
             "docs/math/young-tableau.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250829190325/https://en.wikipedia.org/wiki/Partition_%28number_theory%29#Ferrers_diagram",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/pupN"
@@ -5487,7 +5487,7 @@
             "i-wiki/OI-wiki/docs/math/young-tableau.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250812065408/https://en.wikipedia.org/wiki/Telephone_number_%28mathematics%29",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/hjTL"
@@ -5497,7 +5497,7 @@
             "docs/math/young-tableau.md"
         ],
         "archiveLink": "https://web.archive.org/web/20231226032949/https://en.wikipedia.org/wiki/On-Line_Encyclopedia_of_Integer_Sequences",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Tpwj"
@@ -5567,7 +5567,7 @@
             "docs/math/young-tableau.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250522104140/https://en.wikipedia.org/wiki/Hook_length_formula",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/bytg"
@@ -5667,7 +5667,7 @@
             "docs/math/bit.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250908122529/https://graphics.stanford.edu/~seander/bithacks.html",
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/L5gp"
@@ -5767,7 +5767,7 @@
             "docs/math/bignum.md"
         ],
         "archiveLink": "https://web.archive.org/web/20231224172114/https://en.wikipedia.org/wiki/Karatsuba_algorithm",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/W9Ri"
@@ -6158,7 +6158,7 @@
             "docs/math/game-theory/impartial-game.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250806023836/https://en.wikipedia.org/wiki/Sprague%E2%80%93Grundy_theorem",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Yk3G"
@@ -6168,7 +6168,7 @@
             "docs/math/game-theory/impartial-game.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250818155844/https://en.wikipedia.org/wiki/Nimber",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/a3yL"
@@ -6178,7 +6178,7 @@
             "docs/math/game-theory/impartial-game.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250818080651/https://en.wikipedia.org/wiki/Beatty_sequence",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/6vLJ"
@@ -6228,7 +6228,7 @@
             "docs/math/game-theory/intro.md"
         ],
         "archiveLink": "https://web.archive.org/web/20231223143545/https://en.wikipedia.org/wiki/Impartial_game",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/rvYQ"
@@ -6238,7 +6238,7 @@
             "docs/math/game-theory/intro.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250819072250/https://en.wikipedia.org/wiki/Mis%C3%A8re",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/VXoZ"
@@ -6248,7 +6248,7 @@
             "docs/math/probability/exp-var.md"
         ],
         "archiveLink": "https://web.archive.org/web/20181230063044/https://en.wikipedia.org/wiki/Riemann%E2%80%93Stieltjes_integral",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/6MUb"
@@ -6268,7 +6268,7 @@
             "docs/math/probability/basic-conception.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250906105355/https://baike.baidu.com/item/%E5%87%A0%E4%BD%95%E6%A6%82%E5%9E%8B/4035773",
-        "status": -1,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/2zSl"
@@ -6368,7 +6368,7 @@
             "docs/math/algebra/schreier-sims.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250818231654/https://en.wikipedia.org/wiki/Schreier%E2%80%93Sims_algorithm",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Kblf"
@@ -6448,7 +6448,7 @@
             "docs/math/algebra/schreier-sims.md"
         ],
         "archiveLink": "https://web.archive.org/web/20230917103600/https://en.wikipedia.org/wiki/Nielsen%E2%80%93Schreier_theorem",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/TNtQ"
@@ -6458,7 +6458,7 @@
             "docs/math/algebra/schreier-sims.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250822190206/https://en.wikipedia.org/wiki/Free_group",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/scIK"
@@ -6568,7 +6568,7 @@
             "docs/math/algebra/field-theory.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250908142548/https://en.wikipedia.org/wiki/Factorization_of_polynomials",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/TLvJ"
@@ -6578,7 +6578,7 @@
             "docs/math/algebra/field-theory.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250904094052/https://en.wikipedia.org/wiki/Factorization_of_polynomials_over_finite_fields",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/AlRd"
@@ -6588,7 +6588,7 @@
             "docs/math/algebra/field-theory.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250822195159/https://en.wikipedia.org/wiki/Cyclotomic_polynomial",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/p10e"
@@ -6628,7 +6628,7 @@
             "docs/math/algebra/field-theory.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250903061804/https://en.wikipedia.org/wiki/Finite_field_arithmetic",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/uwlO"
@@ -6638,7 +6638,7 @@
             "docs/math/algebra/field-theory.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250823124628/https://en.wikipedia.org/wiki/Initial_and_terminal_objects",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Tj9A"
@@ -6658,7 +6658,7 @@
             "docs/math/algebra/field-theory.md"
         ],
         "archiveLink": "https://web.archive.org/web/20231204005313/https://www.ams.org/journals/mcom/1992-59-200/S0025-5718-1992-1134730-7/S0025-5718-1992-1134730-7.pdf",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/SxOy"
@@ -6668,7 +6668,7 @@
             "docs/math/algebra/field-theory.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240108150903/https://en.wikipedia.org/wiki/Algebra_extension",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/sE5M"
@@ -6678,7 +6678,7 @@
             "docs/math/algebra/field-theory.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250614155537/https://en.wikipedia.org/wiki/Subring#Ring_extensions",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/wxi7"
@@ -6688,7 +6688,7 @@
             "docs/math/algebra/field-theory.md"
         ],
         "archiveLink": "https://web.archive.org/web/20120202170555/https://en.wikipedia.org/wiki/Integral_element#Integral_extensions",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Mr0R"
@@ -6709,7 +6709,7 @@
             "docs/math/number-theory/quadratic.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250822190805/https://en.wikipedia.org/wiki/Dedekind_domain",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/XZWc"
@@ -6719,7 +6719,7 @@
             "docs/math/algebra/ring-theory.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250830200802/https://en.wikipedia.org/wiki/Hermite_interpolation",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/YwlQ"
@@ -6730,7 +6730,7 @@
             "docs/math/number-theory/quadratic.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250822164006/https://en.wikipedia.org/wiki/Quadratic_integer",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/ZA7g"
@@ -6740,7 +6740,7 @@
             "docs/math/algebra/ring-theory.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250911090101/https://en.wikipedia.org/wiki/Formal_power_series",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Ypes"
@@ -6760,7 +6760,7 @@
             "docs/math/algebra/ring-theory.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250819031939/https://en.wikipedia.org/wiki/GCD_domain",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/oAVN"
@@ -6790,7 +6790,7 @@
             "docs/math/algebra/basic.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250822154236/https://en.wikipedia.org/wiki/Tropical_semiring",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/1UDY"
@@ -6840,7 +6840,7 @@
             "docs/math/algebra/group-theory.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250829232846/https://en.wikipedia.org/wiki/Isomorphism_theorems#Note_on_numbers_and_names",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/TYfM"
@@ -6900,7 +6900,7 @@
             "docs/math/algebra/group-theory.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250909183335/https://en.wikipedia.org/wiki/Group_action",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Lgqa"
@@ -6910,7 +6910,7 @@
             "docs/math/algebra/group-theory.md"
         ],
         "archiveLink": "https://web.archive.org/web/20220926033307/https://en.wikipedia.org/wiki/Structure_theorem_for_finitely_generated_modules_over_a_principal_ideal_domain",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/NGvC"
@@ -6951,7 +6951,7 @@
             "docs/math/poly/elementary-func.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241225133134/https://en.wikipedia.org/wiki/Trigonometric_functions#Relationship_to_exponential_function_and_complex_numbers",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/DpEb"
@@ -6961,7 +6961,7 @@
             "docs/math/poly/elementary-func.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250830201105/https://en.wikipedia.org/wiki/Elementary_function",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/t2Gc"
@@ -7091,7 +7091,7 @@
             "docs/math/poly/dgf.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250910090400/https://en.wikipedia.org/wiki/Generating_function#Dirichlet_series_generating_functions_(DGFs)",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/0EkD"
@@ -7266,7 +7266,7 @@
             "docs/math/poly/ntt.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241224184654/https://en.wikipedia.org/wiki/Discrete_Fourier_transform_%28general%29#Number-theoretic_transform",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/uDEw"
@@ -7398,7 +7398,7 @@
             "docs/math/poly/fwt.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250405051925/https://zh.wikipedia.org/zh-cn/%E6%B2%83%E7%88%BE%E4%BB%80%E8%BD%89%E6%8F%9B",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/OSzp"
@@ -7448,7 +7448,7 @@
             "docs/math/poly/intro.md"
         ],
         "archiveLink": "https://web.archive.org/web/20211231191021/https://en.wikipedia.org/wiki/Formal_power_series#The_ring_of_formal_power_series",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/iHh2"
@@ -7598,7 +7598,7 @@
             "docs/math/numerical/interp.md"
         ],
         "archiveLink": "https://web.archive.org/web/20211130010233/https://en.wikipedia.org/wiki/Polynomial_interpolation",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/72KV"
@@ -7678,7 +7678,7 @@
             "docs/math/numerical/interp.md"
         ],
         "archiveLink": "https://web.archive.org/web/20231217075325/https://en.wikipedia.org/wiki/Interpolation",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/L9TR"
@@ -7688,7 +7688,7 @@
             "docs/math/numerical/interp.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250425231330/https://en.wikipedia.org/wiki/Newton_polynomial",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/8zsd"
@@ -7920,7 +7920,7 @@
             "docs/math/number-theory/continued-fraction.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250910234623/https://en.wikipedia.org/wiki/Tridiagonal_matrix",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/uMoM"
@@ -7930,7 +7930,7 @@
             "docs/math/number-theory/continued-fraction.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250822182743/https://en.wikipedia.org/wiki/Dirichlet%27s_approximation_theorem",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/byUC"
@@ -7940,7 +7940,7 @@
             "docs/math/number-theory/continued-fraction.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250303040202/https://en.wikipedia.org/wiki/Klein_polyhedron",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Bgio"
@@ -8152,7 +8152,7 @@
             "docs/math/number-theory/continued-fraction.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250901170353/https://en.wikipedia.org/wiki/Simple_continued_fraction",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/kTcb"
@@ -8162,7 +8162,7 @@
             "docs/math/number-theory/continued-fraction.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250829210421/https://en.wikipedia.org/wiki/Periodic_continued_fraction",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/8JnD"
@@ -8203,7 +8203,7 @@
             "docs/math/number-theory/continued-fraction.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250829210421/https://en.wikipedia.org/wiki/Periodic_continued_fraction#Length_of_the_repeating_block",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/sKBP"
@@ -8213,7 +8213,7 @@
             "docs/math/number-theory/continued-fraction.md"
         ],
         "archiveLink": "https://web.archive.org/web/20231128092325/https://en.wikipedia.org/wiki/Projective_linear_group",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/qbGC"
@@ -8373,7 +8373,7 @@
             "docs/math/number-theory/quad-residue.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250901101337/https://en.wikipedia.org/wiki/Legendre_symbol#Table_of_values",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/sAJ6"
@@ -8424,7 +8424,7 @@
             "docs/math/number-theory/quad-residue.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250829021428/https://en.wikipedia.org/wiki/Quadratic_residue",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/TRMw"
@@ -8434,7 +8434,7 @@
             "docs/math/number-theory/quad-residue.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250910042143/https://en.wikipedia.org/wiki/Euler%27s_criterion",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/j0ac"
@@ -8444,7 +8444,7 @@
             "docs/math/number-theory/quad-residue.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250907111901/https://en.wikipedia.org/wiki/Proofs_of_quadratic_reciprocity",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Z5nW"
@@ -8516,8 +8516,8 @@
         ],
         "archiveLink": "https://web.archive.org/web/20220628150754/https://projecteuler.net/problem=708",
         "status": 0,
-        "failTime": 2,
-        "fail": false,
+        "failTime": 3,
+        "fail": true,
         "shortArchiveLink": "https://d.00.mk/dogC"
     },
     "https://projecteuler.net/problem=639": {
@@ -8526,8 +8526,8 @@
         ],
         "archiveLink": "https://web.archive.org/web/20250323214750/https://projecteuler.net/problem=639",
         "status": 0,
-        "failTime": 2,
-        "fail": false,
+        "failTime": 3,
+        "fail": true,
         "shortArchiveLink": "https://d.00.mk/aVaV"
     },
     "https://projecteuler.net/problem=484": {
@@ -8536,8 +8536,8 @@
         ],
         "archiveLink": "https://web.archive.org/web/20250612143537/https://projecteuler.net/problem=484",
         "status": 0,
-        "failTime": 2,
-        "fail": false,
+        "failTime": 3,
+        "fail": true,
         "shortArchiveLink": "https://d.00.mk/tefM"
     },
     "https://www.cnblogs.com/wallbreaker5th/p/13901487.html": {
@@ -8565,7 +8565,7 @@
             "docs/math/number-theory/fermat.md"
         ],
         "archiveLink": "https://web.archive.org/web/20151226174559/https://en.wikipedia.org/wiki/Knuth%27s_up-arrow_notation",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/sk4d"
@@ -8665,7 +8665,7 @@
             "docs/math/number-theory/pell-equation.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250818084702/https://en.wikipedia.org/wiki/Brahmagupta%27s_identity",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/LpGL"
@@ -8815,7 +8815,7 @@
             "docs/math/number-theory/primitive-root.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250910181729/https://en.wikipedia.org/wiki/Primitive_root_modulo_n",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/pCPe"
@@ -8865,7 +8865,7 @@
             "docs/math/number-theory/prime.md"
         ],
         "archiveLink": "https://web.archive.org/web/20231216012200/https://en.wikipedia.org/wiki/Carmichael_number",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/aD7K"
@@ -8935,7 +8935,7 @@
             "docs/math/number-theory/prime.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250819013615/https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test#Complexity",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/oCID"
@@ -8945,7 +8945,7 @@
             "docs/math/number-theory/prime.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250831010042/https://en.wikipedia.org/wiki/Generalized_Riemann_hypothesis",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/gQdJ"
@@ -8955,7 +8955,7 @@
             "docs/math/number-theory/prime.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250909115343/https://en.wikipedia.org/wiki/Emirp",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Kkiw"
@@ -9025,7 +9025,7 @@
             "docs/math/number-theory/prime.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250812180749/https://en.wikipedia.org/wiki/Fermat_pseudoprime",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/JaXV"
@@ -9055,7 +9055,7 @@
             "docs/math/number-theory/prime.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250901064843/https://en.wikipedia.org/wiki/Highly_composite_number",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/wqCi"
@@ -9065,7 +9065,7 @@
             "docs/math/number-theory/prime.md"
         ],
         "archiveLink": "https://web.archive.org/web/20221113080823/https://doi.org/10.2307%2F2008811",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/PSnl"
@@ -9085,7 +9085,7 @@
             "docs/math/number-theory/lift-the-exponent.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250831141337/https://en.wikipedia.org/wiki/Lifting-the-exponent_lemma",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/mHjD"
@@ -9186,8 +9186,8 @@
             "docs/math/number-theory/gcd.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250816191443/https://lemire.me/blog/2013/12/26/fastest-way-to-compute-the-greatest-common-divisor/",
-        "status": -1,
-        "failTime": 0,
+        "status": 0,
+        "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/G2fM"
     },
@@ -9236,7 +9236,7 @@
             "docs/math/number-theory/basic.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250828050740/https://en.wikipedia.org/wiki/Barrett_reduction",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/aHnk"
@@ -9406,7 +9406,7 @@
             "docs/math/number-theory/stern-brocot.md"
         ],
         "archiveLink": "https://web.archive.org/web/20171109052836/https://en.wikipedia.org/wiki/Stern%E2%80%93Brocot_tree",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/sdKr"
@@ -9416,7 +9416,7 @@
             "docs/math/number-theory/stern-brocot.md"
         ],
         "archiveLink": "https://web.archive.org/web/20191213014830/https://en.wikipedia.org/wiki/Calkin%E2%80%93Wilf_tree",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/cAGA"
@@ -9426,7 +9426,7 @@
             "docs/math/number-theory/stern-brocot.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250822170215/https://en.wikipedia.org/wiki/Farey_sequence",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/MV24"
@@ -9466,7 +9466,7 @@
             "docs/math/number-theory/quadratic.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250822200050/https://en.wikipedia.org/wiki/Dirichlet%27s_unit_theorem",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/rF9K"
@@ -9476,7 +9476,7 @@
             "docs/math/number-theory/quadratic.md"
         ],
         "archiveLink": "https://web.archive.org/web/20111109130729/https://en.wikipedia.org/wiki/Fermat%27s_theorem_on_sums_of_two_squares",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/jDj1"
@@ -9496,7 +9496,7 @@
             "docs/math/number-theory/quadratic.md"
         ],
         "archiveLink": "https://web.archive.org/web/20221008024806/https://en.wikipedia.org/wiki/Quadratic_field",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/eK8h"
@@ -9506,7 +9506,7 @@
             "docs/math/number-theory/quadratic.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250825175310/https://en.wikipedia.org/wiki/Gaussian_integer",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/jDbm"
@@ -9516,7 +9516,7 @@
             "docs/math/number-theory/quadratic.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250822212452/https://en.wikipedia.org/wiki/Eisenstein_integer",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/2bNI"
@@ -9586,7 +9586,7 @@
             "docs/math/number-theory/factorial.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250822161517/https://en.wikipedia.org/wiki/Legendre%27s_formula",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/9qIy"
@@ -9626,7 +9626,7 @@
             "docs/math/number-theory/congruence-equation.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250814193321/https://en.wikipedia.org/wiki/Lagrange%27s_theorem_%28number_theory%29",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/ymYC"
@@ -9636,7 +9636,7 @@
             "docs/math/number-theory/discrete-logarithm.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250825171441/https://en.wikipedia.org/wiki/EdDSA#Ed25519",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/qkVp"
@@ -9736,7 +9736,7 @@
             "docs/math/number-theory/discrete-logarithm.md"
         ],
         "archiveLink": "https://web.archive.org/web/20231218223201/https://en.wikipedia.org/wiki/Discrete_logarithm",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Cr4j"
@@ -9996,7 +9996,7 @@
             "i-wiki/OI-wiki/docs/math/number-theory/mobius.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250831092146/https://en.wikipedia.org/wiki/M%C3%B6bius_inversion_formula",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/BpAY"
@@ -10006,7 +10006,7 @@
             "i-wiki/OI-wiki/docs/math/number-theory/mobius.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250922024752/https://en.wikipedia.org/wiki/Von_Mangoldt_function",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Ieeg"
@@ -10106,7 +10106,7 @@
             "docs/math/combinatorics/fibonacci.md"
         ],
         "archiveLink": "https://web.archive.org/web/20230930213547/https://en.wikipedia.org/wiki/Gabriel_Lam%C3%A9",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/C9OD"
@@ -10116,7 +10116,7 @@
             "docs/math/combinatorics/fibonacci.md"
         ],
         "archiveLink": "https://web.archive.org/web/20220614144546/https://zh.wikipedia.org/wiki/%E9%BD%8A%E8%82%AF%E5%A4%9A%E5%A4%AB%E5%AE%9A%E7%90%86",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/gFVh"
@@ -10126,7 +10126,7 @@
             "docs/math/combinatorics/fibonacci.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250619065938/https://en.wikipedia.org/wiki/Pisano_period",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/ttRH"
@@ -10276,7 +10276,7 @@
             "docs/math/combinatorics/entringer.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250607122909/https://en.wikipedia.org/wiki/Alternating_permutation",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/nyRk"
@@ -10376,7 +10376,7 @@
             "docs/math/combinatorics/catalan.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250822181637/https://en.wikipedia.org/wiki/Catalan_number",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/fVnJ"
@@ -10657,8 +10657,8 @@
         ],
         "archiveLink": "https://web.archive.org/web/20220628150708/https://projecteuler.net/problem=434",
         "status": 0,
-        "failTime": 2,
-        "fail": false,
+        "failTime": 3,
+        "fail": true,
         "shortArchiveLink": "https://d.00.mk/KAzT"
     },
     "https://www.spoj.com/problems/PT07D/": {
@@ -11071,7 +11071,7 @@
             "docs/math/combinatorics/bell.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250828025745/https://en.wikipedia.org/wiki/Bell_number",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/DIaP"
@@ -11091,7 +11091,7 @@
             "docs/math/combinatorics/combination.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241213145322/https://en.wikipedia.org/wiki/Vandermonde%27s_identity",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/95Dp"
@@ -11111,7 +11111,7 @@
             "docs/math/combinatorics/combination.md"
         ],
         "archiveLink": "https://web.archive.org/web/20230130183936/https://en.wikipedia.org/wiki/Li_Shanlan_identity",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/P5iU"
@@ -11241,7 +11241,7 @@
             "docs/math/combinatorics/polya.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250822222432/https://en.wikipedia.org/wiki/P%C3%B3lya_enumeration_theorem",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/iK0B"
@@ -11261,7 +11261,7 @@
             "docs/math/combinatorics/polya.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250409173227/https://en.wikipedia.org/wiki/Cycle_index",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/kJB7"
@@ -11291,7 +11291,7 @@
             "docs/math/linear-algebra/vector-space.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250925222832/https://en.wikipedia.org/w/index.php?title=Vector_space&oldid=1108546097",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/VZTy"
@@ -11381,7 +11381,7 @@
             "docs/math/linear-algebra/basis.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250630084530/https://en.wikipedia.org/wiki/Boolean_domain",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/SNDu"
@@ -11391,7 +11391,7 @@
             "docs/math/linear-algebra/basis.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250903195454/https://en.wikipedia.org/wiki/Gram%E2%80%93Schmidt_process",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/jBB6"
@@ -11431,7 +11431,7 @@
             "docs/math/linear-algebra/basis.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250925222654/https://www.acwing.com/problem/content/description/3167",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/eqyH"
@@ -11451,7 +11451,7 @@
             "docs/math/linear-algebra/basis.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250713230053/https://acm.hdu.edu.cn/showproblem.php?pid=3949",
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/GMPr"
@@ -11521,7 +11521,7 @@
             "docs/math/linear-algebra/basis.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240610080421/https://en.wikipedia.org/wiki/Zassenhaus_algorithm",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/uHsC"
@@ -11541,7 +11541,7 @@
             "docs/math/linear-algebra/char-poly.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240921053620/https://ipsen.math.ncsu.edu/ps/charpoly3.pdf",
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/UMIS"
@@ -11631,8 +11631,8 @@
             "docs/contest/common-mistakes.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240417225826/https://quick-bench.com/q/JNDGl7HgOszNG-bo7AgVc42owv4",
-        "status": 1,
-        "failTime": 0,
+        "status": 0,
+        "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/BdFS"
     },
@@ -11661,7 +11661,7 @@
             "docs/contest/common-mistakes.md"
         ],
         "archiveLink": "https://web.archive.org/web/20171228162100/https://zh.wikipedia.org/wiki/%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/tKnk"
@@ -11671,7 +11671,7 @@
             "docs/contest/common-mistakes.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250925180758/https://zh.wikipedia.org/wiki/%E5%B8%B8%E9%A9%BB%E9%9B%86%E5%A4%A7%E5%B0%8F",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/1NSS"
@@ -11873,7 +11873,7 @@
             "docs/contest/problemsetting.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250913220714/https://help.luogu.com.cn/manual/luogu/problem/testcase-format#附录windows-环境下造数据注意事项",
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/MxdU"
@@ -12117,7 +12117,7 @@
             "docs/contest/interaction.md"
         ],
         "archiveLink": "https://web.archive.org/web/20220721093742/https://en.wikipedia.org/wiki/Maze_solving_algorithm",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/o0BG"
@@ -12448,8 +12448,8 @@
             "docs/contest/oi.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250908014648/https://noisg.comp.nus.edu.sg/noi/",
-        "status": 1,
-        "failTime": 0,
+        "status": 0,
+        "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/8cTE"
     },
@@ -12498,7 +12498,7 @@
             "docs/contest/oi.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250811134118/http://olimpiada.info/",
-        "status": 1,
+        "status": -2,
         "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/QL1H"
@@ -12939,7 +12939,7 @@
             "docs/contest/resources.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250825152247/https://zh.wikipedia.org/wiki/%E7%AD%89%E7%BA%A7%E5%88%86",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/S6By"
@@ -12990,8 +12990,8 @@
             "docs/contest/resources.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250903123712/https://ejudge.ru/",
-        "status": 1,
-        "failTime": 0,
+        "status": 0,
+        "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/MnfW"
     },
@@ -13021,7 +13021,7 @@
         ],
         "archiveLink": "https://web.archive.org/web/20250909195108/https://www.topcoder.com/",
         "status": 0,
-        "failTime": 1,
+        "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/ksrc"
     },
@@ -13031,7 +13031,7 @@
         ],
         "archiveLink": "https://web.archive.org/web/20191204085752/https://www.topcoder.com/community/competitive-programming/",
         "status": 0,
-        "failTime": 1,
+        "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/xZXg"
     },
@@ -13131,7 +13131,7 @@
         ],
         "archiveLink": "https://web.archive.org/web/20250820214924/https://www.topcoder.com/community/competitive-programming/tutorials/",
         "status": 0,
-        "failTime": 1,
+        "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/qBz4"
     },
@@ -13571,8 +13571,8 @@
             "docs/contest/resources.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250820041120/https://quick-bench.com/",
-        "status": 1,
-        "failTime": 0,
+        "status": 0,
+        "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/2yms"
     },
@@ -13754,8 +13754,8 @@
         ],
         "archiveLink": "https://web.archive.org/web/20241231194607/https://projecteuler.net/",
         "status": 0,
-        "failTime": 2,
-        "fail": false,
+        "failTime": 3,
+        "fail": true,
         "shortArchiveLink": "https://d.00.mk/HpiO"
     },
     "https://goo.gl/unDETI": {
@@ -14173,7 +14173,7 @@
             "docs/misc/expression.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250904173946/https://en.wikipedia.org/wiki/Operator-precedence_parser",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/m0Q2"
@@ -14183,7 +14183,7 @@
             "docs/misc/expression.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250827024620/https://en.wikipedia.org/wiki/Shunting_yard_algorithm",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/eOOa"
@@ -14263,7 +14263,7 @@
             "docs/misc/garsia-wachs.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250312003020/https://en.wikipedia.org/wiki/Garsia%E2%80%93Wachs_algorithm",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/8Fjh"
@@ -14283,7 +14283,7 @@
             "docs/misc/garsia-wachs.md"
         ],
         "archiveLink": "https://web.archive.org/web/20190927110410/https://en.wikipedia.org/wiki/Sentinel_value",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/pX00"
@@ -14343,7 +14343,7 @@
             "docs/misc/random.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250906085658/https://en.wikipedia.org/wiki/Algorithmic_Lov%C3%A1sz_local_lemma",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/OwKD"
@@ -14666,7 +14666,7 @@
             "docs/misc/main-element.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241203092826/https://zh.wikipedia.org/zh-cn/%E5%A4%9A%E6%95%B0%E6%8A%95%E7%A5%A8%E7%AE%97%E6%B3%95",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Ahg5"
@@ -14806,7 +14806,7 @@
             "docs/misc/fsm.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250907031006/https://zh.wikipedia.org/wiki/%E6%B1%A4%E6%99%AE%E6%A3%AE%E6%9E%84%E9%80%A0%E6%B3%95",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/ARzV"
@@ -14846,7 +14846,7 @@
             "docs/misc/fsm.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250812193221/https://en.wikipedia.org/wiki/Moore_machine",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/CYhe"
@@ -15158,7 +15158,7 @@
         ],
         "archiveLink": "https://web.archive.org/web/20250925235101/https://archive.topcoder.com/ProblemStatement/pm/11705",
         "status": 0,
-        "failTime": 1,
+        "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/a9U1"
     },
@@ -15297,7 +15297,7 @@
             "docs/misc/space-optimization.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250911104208/https://en.wikipedia.org/wiki/Information_theory",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/ZHzf"
@@ -15317,7 +15317,7 @@
             "docs/misc/offline.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250701130626/https://en.wikipedia.org/wiki/Online_algorithm",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/94Uc"
@@ -15477,7 +15477,7 @@
             "docs/misc/15-puzzle.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250826223444/https://en.wikipedia.org/wiki/15_puzzle",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/orzT"
@@ -15578,7 +15578,7 @@
             "docs/tools/wsl.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250401114009/https://zh.wikipedia.org/zh-cn/%E9%80%82%E7%94%A8%E4%BA%8ELinux%E7%9A%84Windows%E5%AD%90%E7%B3%BB%E7%BB%9F",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Za4y"
@@ -15658,7 +15658,7 @@
             "docs/tools/wsl.md"
         ],
         "archiveLink": "https://web.archive.org/web/20181230051425/https://sourceforge.net/projects/xming/",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/cD4J"
@@ -15968,7 +15968,7 @@
             "docs/tools/cmd.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241224195320/https://www.gnu.org/software/make/manual/html_node/Catalogue-of-Rules.html",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/m0Be"
@@ -16532,7 +16532,7 @@
             "docs/tools/latex.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250822071101/http://en.wikibooks.org/wiki/LaTeX/Bibliography_Management",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/xGqU"
@@ -16572,7 +16572,7 @@
             "docs/tools/latex.md"
         ],
         "archiveLink": "https://web.archive.org/web/20141228042457/http://en.wikibooks.org/wiki/LaTeX/",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/mAOe"
@@ -16582,7 +16582,7 @@
             "docs/tools/latex.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250904140702/http://en.wikipedia.org/wiki/Comparison_of_TeX_editors",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/jmze"
@@ -16622,7 +16622,7 @@
             "docs/tools/cmd.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250825013327/https://en.wikipedia.org/wiki/Comparison_of_command_shells#Interactive_features",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/kOmc"
@@ -17224,7 +17224,7 @@
             "docs/tools/editor/codeblocks.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241226123042/https://zh.wikipedia.org/wiki/Code::Blocks",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Drde"
@@ -17324,7 +17324,7 @@
             "docs/tools/editor/eclipse.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250901140627/https://zh.wikipedia.org/wiki/Eclipse",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/BYcG"
@@ -17555,7 +17555,7 @@
             "docs/tools/editor/npp.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241224034333/https://sourceforge.net/projects/npp-plugins/",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/hzYN"
@@ -17565,7 +17565,7 @@
             "docs/tools/editor/npp.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250802113220/https://sourceforge.net/projects/orwelldevcpp/files/Tools/ConsolePauser.exe/download",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/oM5Y"
@@ -17615,7 +17615,7 @@
             "docs/tools/editor/devcpp.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250813220121/https://sourceforge.net/projects/embarcadero-devcpp/",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/yik0"
@@ -17790,7 +17790,7 @@
             "docs/tools/testlib/generator.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250918103512/https://en.wikipedia.org/wiki/Beta_distribution",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/9M30"
@@ -17911,7 +17911,7 @@
             "docs/graph/tree-center.md"
         ],
         "archiveLink": "https://web.archive.org/web/20131229112212/https://en.wikipedia.org/wiki/Tree_%28graph_theory%29#Properties",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/ZBqA"
@@ -18462,7 +18462,7 @@
             "docs/graph/mst.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250827053345/https://en.wikipedia.org/wiki/Bor%C5%AFvka%27s_algorithm",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/85dr"
@@ -18692,7 +18692,7 @@
             "docs/graph/color.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241231213627/https://en.wikipedia.org/wiki/Graph_coloring",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/5xAp"
@@ -18833,7 +18833,7 @@
         ],
         "archiveLink": "https://web.archive.org/web/20250925191951/https://archive.topcoder.com/ProblemStatement/pm/10774",
         "status": 0,
-        "failTime": 1,
+        "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/j3hK"
     },
@@ -18852,7 +18852,7 @@
             "docs/graph/concept.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250907064812/https://en.wikipedia.org/wiki/Glossary_of_graph_theory_terms",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/cyqe"
@@ -18932,7 +18932,7 @@
             "docs/graph/lca.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250712171103/https://acm.hdu.edu.cn/showproblem.php?pid=2586",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/hMHA"
@@ -19293,7 +19293,7 @@
             "docs/graph/min-cycle.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250713232004/https://www.acwing.com/problem/content/346",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/ougL"
@@ -19364,7 +19364,7 @@
             "docs/graph/max-clique.md"
         ],
         "archiveLink": "https://web.archive.org/web/20231220014810/https://en.wikipedia.org/wiki/Clique_problem",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/INtp"
@@ -19874,7 +19874,7 @@
             "docs/graph/cut.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250326082005/https://acm.hdu.edu.cn/showproblem.php?pid=4738",
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/KmXO"
@@ -19904,7 +19904,7 @@
             "docs/graph/index.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250825225544/https://zh.wikipedia.org/wiki/图论",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/NHNL"
@@ -20174,7 +20174,7 @@
             "docs/graph/graph-matching/stable-match.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250818121729/https://en.wikipedia.org/wiki/Stable_matching_problem",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Dtk7"
@@ -20184,7 +20184,7 @@
             "docs/graph/graph-matching/stable-match.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241008180220/https://en.wikipedia.org/wiki/Lattice_of_stable_matchings",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/A70s"
@@ -20204,7 +20204,7 @@
             "docs/graph/graph-matching/stable-match.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250516153421/https://en.wikipedia.org/wiki/Top_trading_cycle",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/mZCr"
@@ -20384,7 +20384,7 @@
             "docs/graph/graph-matching/bigraph-match.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250614192335/https://en.wikipedia.org/wiki/Dulmage%E2%80%93Mendelsohn_decomposition",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/OxlA"
@@ -20810,7 +20810,7 @@
             "docs/lang/value-category.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250718103106/https://zclll.com/index.php/cpp/value_category.html",
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/wz0v"
@@ -21710,8 +21710,8 @@
             "docs/lang/lambda.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250915121103/https://quick-bench.com/q/U5qf_dHHKsSyVU83jmt0p_U541c",
-        "status": 1,
-        "failTime": 0,
+        "status": 0,
+        "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Et0w"
     },
@@ -21820,7 +21820,7 @@
             "i-wiki/OI-wiki/docs/lang/new.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250810231619/https://zh.wikipedia.org/wiki/%E7%AE%A1%E9%81%93_%28Unix%29",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/XcZr"
@@ -22282,7 +22282,7 @@
             "docs/lang/pas-cpp.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241225083658/https://freepascal.org/docs-html/current/ref/ref.html",
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/IHVk"
@@ -22442,8 +22442,8 @@
             "docs/lang/csl/bitset.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250820041120/https://quick-bench.com",
-        "status": 1,
-        "failTime": 0,
+        "status": 0,
+        "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/35OJ"
     },
@@ -22452,8 +22452,8 @@
             "docs/lang/csl/bitset.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240521100940/https://quick-bench.com/q/iQL9FhsZ6PVV81HKABsidRw8hB8",
-        "status": 1,
-        "failTime": 0,
+        "status": 0,
+        "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/StL5"
     },
@@ -22462,8 +22462,8 @@
             "docs/lang/csl/bitset.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240521091741/https://quick-bench.com/q/pwEamEFUW-6nXeXEALRsYPd8FWI",
-        "status": 1,
-        "failTime": 0,
+        "status": 0,
+        "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/s9dj"
     },
@@ -22472,8 +22472,8 @@
             "docs/lang/csl/bitset.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240521102819/https://quick-bench.com/q/rg2mCUxT02a44w9fWvHtZoNTJyU",
-        "status": 1,
-        "failTime": 0,
+        "status": 0,
+        "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/b7r8"
     },
@@ -22482,8 +22482,8 @@
             "docs/lang/csl/bitset.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240521091930/https://quick-bench.com/q/lusNWxWsR0VXoRBof7uBtqfvJuY",
-        "status": 1,
-        "failTime": 0,
+        "status": 0,
+        "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/pVM3"
     },
@@ -22613,7 +22613,7 @@
             "docs/lang/csl/container.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250910045844/https://en.wikipedia.org/wiki/Predicate_%28mathematical_logic%29",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Dls9"
@@ -22653,7 +22653,7 @@
             "docs/lang/csl/index.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250904162102/https://en.wikipedia.org/wiki/Reinventing_the_wheel",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/a29s"
@@ -22683,7 +22683,7 @@
             "docs/lang/csl/index.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250902144335/https://zh.wikipedia.org/wiki/C%2B%2B",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Bci7"
@@ -22983,7 +22983,7 @@
             "docs/search/alpha-beta.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250907012357/https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/xhQT"
@@ -23473,8 +23473,8 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241231195209/https://github.com/OI-wiki/OI-wiki/blob/master/.remarkrc",
-        "status": 1,
-        "failTime": 0,
+        "status": 0,
+        "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/oVPV"
     },
@@ -23553,7 +23553,7 @@
             "docs/intro/mirrors.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241231193854/http://oi-wiki.com",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/OcWN"
@@ -24063,7 +24063,7 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250609145608/https://zh.wikipedia.org/wiki/%E8%BF%9E%E6%8E%A5%E5%8F%B7",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/7SM9"
@@ -24273,8 +24273,8 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250617134836/http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201001/W020190128580990138234.pdf",
-        "status": 1,
-        "failTime": 0,
+        "status": 0,
+        "failTime": 1,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/hTZr"
     },
@@ -24283,7 +24283,7 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250813185330/https://zh.wikipedia.org/wiki/Wikipedia:%E6%A0%BC%E5%BC%8F%E6%89%8B%E5%86%8C/%E6%A0%87%E7%82%B9%E7%AC%A6%E5%8F%B7",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/tuBH"
@@ -24353,7 +24353,7 @@
             "docs/intro/format.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250919041306/https://en.wikipedia.org/wiki/APNG",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Vugm"
@@ -24433,7 +24433,7 @@
             "docs/intro/what-oi-wiki-is-not.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250907013625/https://en.wikipedia.org/wiki/Finite_element_method",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/6TxU"
@@ -24583,7 +24583,7 @@
             "docs/intro/htc.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250907013720/https://zh.wikipedia.org/wiki/Wikipedia:%E6%96%B0%E6%89%8B%E5%85%A5%E9%96%80/%E7%B7%A8%E8%BC%AF",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/UqAu"
@@ -24745,7 +24745,7 @@
         ],
         "archiveLink": "https://web.archive.org/web/20250925181903/https://archive.topcoder.com/ProblemStatement/pm/14069",
         "status": 0,
-        "failTime": 1,
+        "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Ykl5"
     },
@@ -24814,9 +24814,9 @@
             "docs/dp/plug.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250808172535/http://poj.org/problem?id=1739",
-        "status": 1,
-        "failTime": 2,
-        "fail": false,
+        "status": 0,
+        "failTime": 3,
+        "fail": true,
         "shortArchiveLink": "https://d.00.mk/mGmG"
     },
     "https://vjudge.net/problem/UVALive-2738": {
@@ -24845,8 +24845,8 @@
         ],
         "archiveLink": "https://web.archive.org/web/20250831093647/https://projecteuler.net/problem=393",
         "status": 0,
-        "failTime": 2,
-        "fail": false,
+        "failTime": 3,
+        "fail": true,
         "shortArchiveLink": "https://d.00.mk/VVEP"
     },
     "https://pintia.cn/problem-sets/91827364500/exam/problems/type/7?page=22&problemSetProblemId=91827367895": {
@@ -24905,7 +24905,7 @@
         ],
         "archiveLink": "https://web.archive.org/web/20250925182853/https://archive.topcoder.com/ProblemStatement/pm/6482",
         "status": 0,
-        "failTime": 1,
+        "failTime": 2,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/FJ5k"
     },
@@ -24954,7 +24954,7 @@
             "docs/dp/plug.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240707100011/https://acm.hdu.edu.cn/showproblem.php?pid=4113",
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/k1oN"
@@ -25014,7 +25014,7 @@
             "docs/dp/plug.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240707104323/https://acm.hdu.edu.cn/showproblem.php?pid=3958",
-        "status": -2,
+        "status": 1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/Grt2"
@@ -25224,7 +25224,7 @@
             "docs/dp/plug.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250829152830/https://en.wikipedia.org/wiki/NP-completeness",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/9gBs"
@@ -25304,9 +25304,9 @@
             "docs/dp/probability.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250806000902/http://poj.org/problem?id=3071",
-        "status": 1,
-        "failTime": 2,
-        "fail": false,
+        "status": 0,
+        "failTime": 3,
+        "fail": true,
         "shortArchiveLink": "https://d.00.mk/1hNW"
     },
     "https://codeforces.com/problemset/problem/768/D": {
@@ -25324,9 +25324,9 @@
             "docs/dp/probability.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250814042226/http://poj.org/problem?id=2096",
-        "status": 1,
-        "failTime": 2,
-        "fail": false,
+        "status": 0,
+        "failTime": 3,
+        "fail": true,
         "shortArchiveLink": "https://d.00.mk/mluB"
     },
     "http://uoj.ac/problem/262": {
@@ -25354,7 +25354,7 @@
             "docs/dp/probability.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250123060308/https://acm.hdu.edu.cn/showproblem.php?pid=4035",
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/DIj5"
@@ -25384,7 +25384,7 @@
             "docs/dp/probability.md"
         ],
         "archiveLink": "https://web.archive.org/web/20240906103142/https://acm.hdu.edu.cn/showproblem.php?pid=4418",
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/cDNc"
@@ -25434,9 +25434,9 @@
             "docs/dp/tree.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250617210853/http://poj.org/problem?id=1463",
-        "status": 1,
-        "failTime": 2,
-        "fail": false,
+        "status": 0,
+        "failTime": 3,
+        "fail": true,
         "shortArchiveLink": "https://d.00.mk/SM0t"
     },
     "https://www.luogu.com.cn/problem/P3574": {
@@ -25524,9 +25524,9 @@
             "docs/dp/tree.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250809003323/http://poj.org/problem?id=3585",
-        "status": 1,
-        "failTime": 2,
-        "fail": false,
+        "status": 0,
+        "failTime": 3,
+        "fail": true,
         "shortArchiveLink": "https://d.00.mk/QEQY"
     },
     "https://www.luogu.com.cn/problem/P2986": {
@@ -25774,7 +25774,7 @@
             "docs/dp/number.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241211124246/https://acm.hdu.edu.cn/showproblem.php?pid=6148",
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/KOAY"
@@ -25804,7 +25804,7 @@
             "docs/dp/index.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250625161215/https://zh.wikipedia.org/wiki/动态规划",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/T2v5"
@@ -25995,7 +25995,7 @@
             "docs/dp/opt/wqs-binary-search.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250910153839/https://en.wikipedia.org/wiki/Semi-continuity",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/q2eg"
@@ -26579,7 +26579,7 @@
             "docs/dp/opt/wqs-binary-search.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250907200944/https://en.wikipedia.org/wiki/Lagrange_multiplier",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/F7lC"
@@ -26849,7 +26849,7 @@
             "docs/dp/opt/wqs-binary-search.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241211061043/https://en.wikipedia.org/wiki/Convex_conjugate",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/uGWs"
@@ -26859,7 +26859,7 @@
             "docs/dp/opt/wqs-binary-search.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250614193842/https://en.wikipedia.org/wiki/Fenchel%E2%80%93Moreau_theorem",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/HKh1"
@@ -26869,7 +26869,7 @@
             "docs/dp/opt/wqs-binary-search.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250908020736/https://en.wikipedia.org/wiki/Subderivative",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/QjGy"
@@ -26909,7 +26909,7 @@
             "docs/dp/opt/wqs-binary-search.md"
         ],
         "archiveLink": "https://web.archive.org/web/20221101002011/https://en.wikipedia.org/wiki/Basis_of_a_matroid",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/81FU"
@@ -26919,9 +26919,9 @@
             "docs/geometry/scanning.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250208064538/http://poj.org/problem?id=1151",
-        "status": 1,
-        "failTime": 2,
-        "fail": false,
+        "status": 0,
+        "failTime": 3,
+        "fail": true,
         "shortArchiveLink": "https://d.00.mk/XcE6"
     },
     "http://poj.org/problem?id=1177": {
@@ -26929,9 +26929,9 @@
             "docs/geometry/scanning.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250514082437/http://poj.org/problem?id=1177",
-        "status": 1,
-        "failTime": 2,
-        "fail": false,
+        "status": 0,
+        "failTime": 3,
+        "fail": true,
         "shortArchiveLink": "https://d.00.mk/MRb8"
     },
     "http://poj.org/problem?id=3832": {
@@ -26939,9 +26939,9 @@
             "docs/geometry/scanning.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250325025942/http://poj.org/problem?id=3832",
-        "status": 1,
-        "failTime": 2,
-        "fail": false,
+        "status": 0,
+        "failTime": 3,
+        "fail": true,
         "shortArchiveLink": "https://d.00.mk/h9OX"
     },
     "https://www.luogu.com.cn/problem/P1856": {
@@ -26999,7 +26999,7 @@
             "docs/geometry/scanning.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241205154740/https://www.acwing.com/problem/content/4712/",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/PT1R"
@@ -27069,7 +27069,7 @@
             "docs/geometry/pick.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250822165639/https://en.wikipedia.org/wiki/Pick%27s_theorem",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/wCPy"
@@ -27079,9 +27079,9 @@
             "docs/geometry/pick.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250325015159/http://poj.org/problem?id=1265",
-        "status": 1,
-        "failTime": 2,
-        "fail": false,
+        "status": 0,
+        "failTime": 3,
+        "fail": true,
         "shortArchiveLink": "https://d.00.mk/mFNj"
     },
     "https://en.cppreference.com/w/cpp/utility/pair.html": {
@@ -27119,7 +27119,7 @@
             "docs/geometry/2d.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250822194229/https://en.wikipedia.org/wiki/Jordan_curve_theorem",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/WqGr"
@@ -27139,7 +27139,7 @@
             "docs/geometry/nearest-points.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250719073319/https://en.wikipedia.org/wiki/Franco_P._Preparata",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/6Czl"
@@ -27149,7 +27149,7 @@
             "docs/geometry/nearest-points.md"
         ],
         "archiveLink": "https://web.archive.org/web/20241213132922/https://en.wikipedia.org/wiki/Michael_Ian_Shamos",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/tsVi"
@@ -27239,9 +27239,9 @@
             "docs/geometry/half-plane.md"
         ],
         "archiveLink": "https://web.archive.org/web/20221130064056/http://poj.org/problem?id=2451",
-        "status": 1,
-        "failTime": 2,
-        "fail": false,
+        "status": 0,
+        "failTime": 3,
+        "fail": true,
         "shortArchiveLink": "https://d.00.mk/jhQt"
     },
     "http://poj.org/problem?id=1279": {
@@ -27249,9 +27249,9 @@
             "docs/geometry/half-plane.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250514081914/http://poj.org/problem?id=1279",
-        "status": 1,
-        "failTime": 2,
-        "fail": false,
+        "status": 0,
+        "failTime": 3,
+        "fail": true,
         "shortArchiveLink": "https://d.00.mk/yRiL"
     },
     "https://www.luogu.com.cn/problem/P4196": {
@@ -27409,7 +27409,7 @@
             "docs/geometry/distance.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250714065531/https://zh.wikipedia.org/wiki/%E5%88%87%E6%AF%94%E9%9B%AA%E5%A4%AB%E8%B7%9D%E7%A6%BB",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/zfBI"
@@ -27519,7 +27519,7 @@
             "docs/geometry/triangulation.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250804063533/https://en.wikipedia.org/wiki/Triangulation_%28geometry%29",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/pYeX"
@@ -27529,7 +27529,7 @@
             "docs/geometry/triangulation.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250908143027/https://en.wikipedia.org/wiki/Delaunay_triangulation",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/NDl6"
@@ -27539,7 +27539,7 @@
             "docs/geometry/triangulation.md"
         ],
         "archiveLink": "https://web.archive.org/web/20211127063406/http://www.geom.uiuc.edu/~samuelp/del_project.html",
-        "status": 1,
+        "status": -2,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/X3Tw"
@@ -27599,7 +27599,7 @@
             "docs/geometry/rotating-calipers.md"
         ],
         "archiveLink": "https://web.archive.org/web/20250908104317/https://en.wikipedia.org/wiki/Rotating_calipers",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/YOBp"
@@ -27659,7 +27659,7 @@
             "docs/geometry/inverse.md"
         ],
         "archiveLink": "https://web.archive.org/web/20211221133913/https://en.wikipedia.org/wiki/Inversive_geometry",
-        "status": 1,
+        "status": -1,
         "failTime": 0,
         "fail": false,
         "shortArchiveLink": "https://d.00.mk/bsFX"
